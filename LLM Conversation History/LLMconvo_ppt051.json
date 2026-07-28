@@ -1,0 +1,139 @@
+{
+  "participant_id": "051",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-04-20T14:08:10.304885",
+  "session_end": "2026-04-20T14:17:07.334601",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-20T14:13:30.4140003+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good, and you?",
+      "timestamp": "2026-04-20T14:13:37.8710941+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. The medical history has been reviewed: you reported severe dryness, scaling, intense iching for several months, and daily disruption. Now, please present your hands for examination.",
+      "timestamp": "2026-04-20T14:13:39.0465029+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-20T14:13:54.1631936+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. \n\nFirst, how long have you had the current symptoms?",
+      "timestamp": "2026-04-20T14:14:00.2402154+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. \n\nSecond, are the symptoms affecting one or both hands?",
+      "timestamp": "2026-04-20T14:14:11.8846093+01:00"
+    },
+    {
+      "role": "user",
+      "content": "for five months.",
+      "timestamp": "2026-04-20T14:14:12.0518167+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Both.",
+      "timestamp": "2026-04-20T14:14:19.8548713+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. \n\nThird, have you noticed any specific triggers or exposures, such as soaps, detergents, or chemicals?",
+      "timestamp": "2026-04-20T14:14:21.1604742+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-20T14:14:23.0769629+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required.\n\nFourth, do you experience any redness or swelling?",
+      "timestamp": "2026-04-20T14:15:10.1152557+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-20T14:15:21.0769629+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded.\n\nFifth, have you noticed any blistering or oozing from the affected areas?",
+      "timestamp": "2026-04-20T14:15:22.7090152+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, as well",
+      "timestamp": "2026-04-20T14:15:32.8918366+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. \n\nNow, based on the scan and symptom history, several conditions were considered, including contact dermatitis and psoriasis, which have been ruled out. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response, identified through colour, texture, and pattern matching. Is the diagnosis understood?",
+      "timestamp": "2026-04-20T14:15:35.5636690+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes",
+      "timestamp": "2026-04-20T14:15:58.8295857+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Are there any known allergies?",
+      "timestamp": "2026-04-20T14:15:59.5023516+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No",
+      "timestamp": "2026-04-20T14:16:05.8178718+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The primary treatment plan is as follows: a high-potency topical steroid cream for seven days, using one fingertip unit once daily. The short-term goal is to reduce inflammation, and the long-term goal is to establish a daily moisturiser routine to prevent recurrence, referencing the treatment prediction database. Alternative treatment options are available should you wish to discuss them. Do you have any questions about the treatment?",
+      "timestamp": "2026-04-20T14:16:09.4003732+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, thank you.",
+      "timestamp": "2026-04-20T14:16:36.3943985+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "All right, if you consent to the plan, I’ll confirm: the primary treatment is as described, and we’ll schedule a follow-up in 1–2 weeks. Do you consent to that?",
+      "timestamp": "2026-04-20T14:16:36.3139919+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-20T14:16:49.4723932+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Confirmed. The plan is set. I'll schedule a follow-up in 1 to 2 weeks. Are there any other questions before concluding?",
+      "timestamp": "2026-04-20T14:16:50.1312722+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, thank you",
+      "timestamp": "2026-04-20T14:17:01.4474742+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Very well. I wish you the best with your treatment. Goodbye.",
+      "timestamp": "2026-04-20T14:17:01.6414975+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

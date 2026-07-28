@@ -1,0 +1,246 @@
+{
+  "participant_id": "125",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "model": "gpt-realtime-2025-08-28",
+  "session_start": "2026-05-12T15:32:19.022559",
+  "session_end": "2026-05-12T15:44:03.306954",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-05-12T15:38:11.7947251+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Good.",
+      "timestamp": "2026-05-12T15:38:19.9064144+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that. I've reviewed your history: severe dryness, scaling, intense itching for several months, and daily disruption. Could you hold out your hands for examination, please?",
+      "timestamp": "2026-05-12T15:38:20.8218402+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-05-12T15:38:35.4351677+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Now, let’s go through a few questions. First, have you noticed any cracking or bleeding from your hands?",
+      "timestamp": "2026-05-12T15:38:42.4003004+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-05-12T15:38:54.2563299+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. Have you experienced any burning or stinging sensation when applying moisturisers or creams?",
+      "timestamp": "2026-05-12T15:38:54.9737157+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-05-12T15:39:04.1679844+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Have you noticed any blisters or weeping on your hands?",
+      "timestamp": "2026-05-12T15:39:05.0375935+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-12T15:39:12.2182747+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for clarifying. Have your symptoms been worse at any particular time of day or after certain activities?",
+      "timestamp": "2026-05-12T15:39:13.4679294+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-12T15:39:22.4420007+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I appreciate your response. One more question: have you been exposed to any new chemicals, soaps, or detergents recently?",
+      "timestamp": "2026-05-12T15:39:23.7875784+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-05-12T15:39:31.9293696+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Based on the scan and your symptom history, I considered contact dermatitis and psoriasis, but we can rule those out. The confirmed diagnosis is severe hand eczema. It's caused by a damaged skin barrier and an inflammatory response. The AI analysis used colour, texture, and pattern matching. This is manageable. How are you feeling about this?",
+      "timestamp": "2026-05-12T15:39:36.2197434+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any allergies that you're aware of?",
+      "timestamp": "2026-05-12T15:40:00.6521179+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-12T15:40:05.8449130+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The primary treatment plan is as follows: first, a high-potency topical steroid cream for 7 days, applying one fingertip unit once daily. The short-term goal is to reduce inflammation. Long-term, a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-05-12T15:40:10.5136337+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Can you repeat what you have said just now?",
+      "timestamp": "2026-05-12T15:40:39.4499858+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I can repeat the specific part you'd like. Could you tell me exactly which sentence you want me to repeat?",
+      "timestamp": "2026-05-12T15:40:40.8281157+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Long-term, a daily moisturiser routine for prevention.",
+      "timestamp": "2026-05-12T15:40:52.0082794+01:00"
+    },
+    {
+      "role": "user",
+      "content": "It's a moisturizing procedure.",
+      "timestamp": "2026-05-12T15:40:53.0087336+01:00"
+    },
+    {
+      "role": "user",
+      "content": "And what's the diagnosis again?",
+      "timestamp": "2026-05-12T15:41:03.2447944+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I've already outlined the diagnosis: severe hand eczema caused by a damaged skin barrier and inflammatory response. How are you feeling about this?",
+      "timestamp": "2026-05-12T15:41:04.4576436+01:00"
+    },
+    {
+      "role": "user",
+      "content": "What is so good?",
+      "timestamp": "2026-05-12T15:41:15.8659205+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Let’s explore the treatment options available. One alternative is a calcineurin inhibitor cream, which reduces inflammation without steroids. Another is wet wrap therapy to boost moisturiser absorption. We could also consider light therapy, antihistamines for itching, or an intensive moisturising regimen. Is there anything you'd like me to explain further about these alternatives?",
+      "timestamp": "2026-05-12T15:41:20.4093670+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Can you explain the second alternative?",
+      "timestamp": "2026-05-12T15:41:46.0629821+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly. Wet wrap therapy involves applying a thick layer of moisturiser or medicated cream, then wrapping the hands with damp gauze followed by a dry layer. This helps lock in moisture and can soothe the skin overnight.",
+      "timestamp": "2026-05-12T15:41:49.3661992+01:00"
+    },
+    {
+      "role": "user",
+      "content": "So what are the three alternatives again?",
+      "timestamp": "2026-05-12T15:42:07.2165263+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I've already covered the alternatives we discussed. Are there any other aspects you'd like me to explain further?",
+      "timestamp": "2026-05-12T15:42:07.9857343+01:00"
+    },
+    {
+      "role": "user",
+      "content": "What are the third alternative?",
+      "timestamp": "2026-05-12T15:42:19.3492274+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly. The third alternative is light therapy, also known as phototherapy, which uses controlled ultraviolet light to reduce inflammation. That’s the third one. Would you like more detail on any of these?",
+      "timestamp": "2026-05-12T15:42:21.0794784+01:00"
+    },
+    {
+      "role": "user",
+      "content": "And the first alternative, what are the first alternative again?",
+      "timestamp": "2026-05-12T15:42:45.9110954+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The first alternative is a calcineurin inhibitor cream, which reduces inflammation without using steroids.",
+      "timestamp": "2026-05-12T15:42:46.9285139+01:00"
+    },
+    {
+      "role": "user",
+      "content": "What are the steroids for?",
+      "timestamp": "2026-05-12T15:42:57.7622557+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Steroids in this context reduce inflammation quickly by calming the immune response in the skin. They help to relieve redness, itching, and swelling effectively in the short term.",
+      "timestamp": "2026-05-12T15:42:59.2300676+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay.",
+      "timestamp": "2026-05-12T15:43:13.3418835+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anything you'd like me to explain further?",
+      "timestamp": "2026-05-12T15:43:13.2191411+01:00"
+    },
+
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-12T15:43:21.3899299+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-05-12T15:43:22.1768001+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-12T15:43:30.6975365+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm here to help. If you have any final questions or concerns, feel free to share them.",
+      "timestamp": "2026-05-12T15:43:31.9631710+01:00"
+    },
+    {
+      "role": "user",
+      "content": "How long should I wait?",
+      "timestamp": "2026-05-12T15:43:45.1910785+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You'll be using the steroid cream for 7 days. After that, we’ll reassess around 1 to 2 weeks to see how it’s going.",
+      "timestamp": "2026-05-12T15:43:46.8470394+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay.",
+      "timestamp": "2026-05-12T15:43:57.1181320+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad we've clarified that. Goodbye, and I wish you all the best.",
+      "timestamp": "2026-05-12T15:43:57.5384975+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

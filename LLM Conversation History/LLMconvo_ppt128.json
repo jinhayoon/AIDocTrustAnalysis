@@ -1,0 +1,140 @@
+{
+  "participant_id": "128",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-04-28T17:18:46.885810",
+  "session_end": "2026-04-28T17:28:46.649757",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-28T17:25:41.6590936+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Good. Thank you.",
+      "timestamp": "2026-04-28T17:25:49.5217007+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that. I've reviewed your history: severe dryness, scaling, intense itching for several months, daily disruption. Could you please hold out your hands for examination?",
+      "timestamp": "2026-04-28T17:25:49.6419274+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-28T17:26:04.0928302+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for your patience. Let me ask a few questions: How long has the itching been particularly intense?",
+      "timestamp": "2026-04-28T17:26:13.9482176+01:00"
+    },
+    {
+      "role": "user",
+      "content": "for about a week.",
+      "timestamp": "2026-04-28T17:26:23.6206010+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. And does the skin feel more dry or more cracked at the moment?",
+      "timestamp": "2026-04-28T17:26:23.9829540+01:00"
+    },
+    {
+      "role": "user",
+      "content": "More dry, yes.",
+      "timestamp": "2026-04-28T17:26:32.6957479+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see, more dry—thank you for letting me know. Next, is there any cracking or bleeding visible?",
+      "timestamp": "2026-04-28T17:26:33.2139758+01:00"
+    },
+    {
+      "role": "user",
+      "content": "on one of the hands.",
+      "timestamp": "2026-04-28T17:26:43.1274022+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood, thank you. Finally, has there been any improvement with moisturisers or home remedies so far?",
+      "timestamp": "2026-04-28T17:26:43.7358968+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, yeah, their last dryness.",
+      "timestamp": "2026-04-28T17:26:55.2865841+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. Now, based on the scan and your symptom history, I’ve considered several possible conditions—contact dermatitis and psoriasis have been ruled out. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response, identified through colour, texture, and pattern matching. \n\nHow are you feeling about this?",
+      "timestamp": "2026-04-28T17:26:57.7141454+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm not very happy.",
+      "timestamp": "2026-04-28T17:27:22.4016594+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm really sorry you're feeling that way. Let's take it step by step to help you feel better. Could you tell me if you have any allergies?",
+      "timestamp": "2026-04-28T17:27:22.1387305+01:00"
+    },
+  
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-28T17:27:32.6254159+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, let's try the primary treatment plan: a high-potency topical steroid cream for 7 days, one fingertip unit once daily, with the short-term goal of reducing inflammation and the long-term goal of a daily moisturiser routine to prevent recurrence. There are also alternative treatment options available if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-04-28T17:27:33.9995859+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, sure the first part",
+      "timestamp": "2026-04-28T17:27:59.8436889+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course. The first part is the high-potency topical steroid cream, to be applied once daily for 7 days, using a fingertip unit amount. That’s the first step in reducing the inflammation.",
+      "timestamp": "2026-04-28T17:28:00.6938925+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay, perfect. Thank you",
+      "timestamp": "2026-04-28T17:28:16.4133274+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. Would you like to confirm the plan and schedule a follow-up in one to two weeks?",
+      "timestamp": "2026-04-28T17:28:16.9635947+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, thank you.",
+      "timestamp": "2026-04-28T17:28:26.4733438+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, we'll confirm the plan and schedule a follow-up in about one to two weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-04-28T17:28:26.8116452+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I'll get",
+      "timestamp": "2026-04-28T17:28:38.0783911+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I’m glad to hear that. If anything comes up, don’t hesitate to reach out. Goodbye, and take care.",
+      "timestamp": "2026-04-28T17:28:38.4847086+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

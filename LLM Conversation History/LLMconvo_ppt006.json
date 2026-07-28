@@ -1,0 +1,179 @@
+{
+  "participant_id": "6",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-03-25T13:12:52.291752",
+  "session_end": "2026-03-25T13:22:55.046884",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-03-25T13:18:39.8501543+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Good, how about yourself?",
+      "timestamp": "2026-03-25T13:18:46.1302814+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm functioning optimally, thank you. The medical history has been reviewed: severe dryness, scaling, intense itching for several months, and daily disruption. Please present your hands for examination.",
+      "timestamp": "2026-03-25T13:18:47.4661550+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Oh.",
+      "timestamp": "2026-03-25T13:19:01.7504999+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Once you’re ready to present your hands, let me know, and we can continue with the examination. The next step is crucial for accurate diagnosis.",
+      "timestamp": "2026-03-25T13:19:31.2137176+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. How long have the symptoms been present?",
+      "timestamp": "2026-03-25T13:19:41.6501018+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Scanning in progress...",
+      "timestamp": "2026-03-25T13:19:43.6161636+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay.",
+      "timestamp": "2026-03-25T13:19:43.8721238+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. \n\nHow long have the symptoms been present?",
+      "timestamp": "2026-03-25T13:19:49.4907366+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. \n\nIs the itching constant or intermittent?",
+      "timestamp": "2026-03-25T13:20:00.7726298+00:00"
+    },
+    {
+      "role": "user",
+      "content": "for a couple of weeks.",
+      "timestamp": "2026-03-25T13:20:01.0204190+00:00"
+    },
+    {
+      "role": "user",
+      "content": "constant",
+      "timestamp": "2026-03-25T13:20:07.8324877+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. \n\nAre there identifiable triggers?",
+      "timestamp": "2026-03-25T13:20:08.2976469+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. \n\nIs sleep affected?",
+      "timestamp": "2026-03-25T13:20:18.8746683+00:00"
+    },
+    {
+      "role": "user",
+      "content": "scaling, how dry they are.",
+      "timestamp": "2026-03-25T13:20:19.3510026+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, just the itchiness disturbs my sleep.",
+      "timestamp": "2026-03-25T13:20:28.3357070+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been noted. \n\nNow, I will explain the diagnosis. The AI analysis shows severe hand eczema, with disrupted skin barrier, inflammation, and characteristic patterns from comparisons with dermatological datasets. \n\nIs the diagnosis understood?",
+      "timestamp": "2026-03-25T13:20:29.8928777+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, but what does that mean for me?",
+      "timestamp": "2026-03-25T13:20:46.9284498+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "It means that the skin barrier is damaged, causing inflammation and dryness. Treatment is available to repair the barrier and reduce inflammation. \n\nDo you have any allergies?",
+      "timestamp": "2026-03-25T13:20:48.1944655+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-03-25T13:20:58.5431531+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Let me clarify. The diagnosis means that the skin barrier is damaged and inflamed. Treatment is available to help reduce inflammation and repair the skin. \n\nIs the diagnosis understood now?",
+      "timestamp": "2026-03-25T13:21:00.1905606+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, yes.",
+      "timestamp": "2026-03-25T13:21:13.8636216+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Now, let’s proceed. Are you aware of any allergies?",
+      "timestamp": "2026-03-25T13:21:14.2177023+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I have no allergies.",
+      "timestamp": "2026-03-25T13:21:21.2583183+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Very well. I recommend a high-potency topical steroid cream for 7 days, one fingertip unit applied once daily. The short-term goal is to reduce inflammation. Long-term, a moisturiser routine is required to prevent recurrence.\n\nIs the diagnosis understood?",
+      "timestamp": "2026-03-25T13:21:23.4647656+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Is there a specific moisturizing cream that I have to use?",
+      "timestamp": "2026-03-25T13:21:44.0935061+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I’m here to recommend a suitable treatment plan. If there are no allergies, I recommend a high-potency topical steroid cream for 7 days, applied once daily—one fingertip unit. The long-term protocol will include a moisturiser routine to prevent recurrence. \n\nIs the treatment plan acceptable? Do you wish to proceed?",
+      "timestamp": "2026-03-25T13:21:45.2784634+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-03-25T13:22:03.6584014+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The next step is to recommend a high-potency topical steroid cream for 7 days—apply one fingertip unit once daily. The short-term goal is to reduce inflammation. Long-term, a moisturiser routine is required to prevent recurrence. \n\nIs the treatment plan acceptable? Do you wish to proceed?",
+      "timestamp": "2026-03-25T13:22:05.3715252+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I wish to proceed.",
+      "timestamp": "2026-03-25T13:22:24.6486422+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Acknowledged. The prescription is confirmed: one fingertip unit of high-potency topical steroid cream once daily for 7 days. After that, you must establish a moisturising routine. A follow-up will be scheduled in 1–2 weeks. \n\nAre there any other questions before concluding?",
+      "timestamp": "2026-03-25T13:22:25.9848266+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-03-25T13:22:42.0064579+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Very well. To summarise: the treatment is a high-potency topical steroid for 7 days, followed by a moisturising routine. We will schedule a follow-up in 1 to 2 weeks. \n\nGoodbye.",
+      "timestamp": "2026-03-25T13:22:43.8442287+00:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

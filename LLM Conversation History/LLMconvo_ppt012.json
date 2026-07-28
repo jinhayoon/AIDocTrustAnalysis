@@ -1,0 +1,184 @@
+{
+  "participant_id": "012",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-03-26T13:15:57.957741",
+  "session_end": "2026-03-26T13:27:59.946985",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-03-26T13:23:30.0919719+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good, but just have some skin problems",
+      "timestamp": "2026-03-26T13:23:39.6075189+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The medical history has been reviewed. You have reported severe dryness, scaling, and intense itching for several months, with daily disruption. Now, please present your hands for examination.",
+      "timestamp": "2026-03-26T13:23:40.9414700+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-03-26T13:23:55.2253425+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. How long have symptoms been present?",
+      "timestamp": "2026-03-26T13:24:01.7757929+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. Is itching constant or intermittent?",
+      "timestamp": "2026-03-26T13:24:11.8236410+00:00"
+    },
+    {
+      "role": "user",
+      "content": "for about a week.",
+      "timestamp": "2026-03-26T13:24:11.8652625+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it's constant and I really can't sleep at night because it's irritating.",
+      "timestamp": "2026-03-26T13:24:24.8816238+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. Is there an identifiable trigger?",
+      "timestamp": "2026-03-26T13:24:25.3991670+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, no, nothing yet.",
+      "timestamp": "2026-03-26T13:24:34.9944319+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. How long have symptoms been present?",
+      "timestamp": "2026-03-26T13:24:35.5246965+00:00"
+    },
+    {
+      "role": "user",
+      "content": "it's been about a week now since I've been feeling itchiness and the dryness",
+      "timestamp": "2026-03-26T13:24:49.3419027+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Noted. The diagnosis is severe hand eczema. This is due to a damaged skin barrier and an inflammatory response. The AI analysis uses colour, texture, and pattern matching. Is the diagnosis understood?",
+      "timestamp": "2026-03-26T13:24:50.6198420+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The exact triggers are not always clear, but common causes include irritants, allergens, or stress. This must be considered carefully, but identifying specific triggers requires further investigation. Now, do you have any allergies?",
+      "timestamp": "2026-03-26T13:25:15.5108481+00:00"
+    },
+    {
+      "role": "user",
+      "content": "yes it is but what are the triggers would you know what causes the eczema",
+      "timestamp": "2026-03-26T13:25:18.1224715+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am allergic to dust and cigarettes and the smell of new paint and cat fur.",
+      "timestamp": "2026-03-26T13:25:42.0042383+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Acknowledged. The next step is to recommend a high-potency topical steroid cream for seven days—one fingertip unit, once daily. The short-term goal is to reduce inflammation, and the long-term protocol involves a moisturiser routine to prevent recurrence. Is that understood?",
+      "timestamp": "2026-03-26T13:25:43.0245662+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Can you repeat what you said, one finger per day, or... I didn't understand that part.",
+      "timestamp": "2026-03-26T13:26:05.5213322+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "One fingertip unit, once daily.",
+      "timestamp": "2026-03-26T13:26:05.8924563+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay, what does that mean?",
+      "timestamp": "2026-03-26T13:26:13.3602194+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "A fingertip unit is the amount of cream squeezed from the fingertip to the first joint—that's the measure you should use.",
+      "timestamp": "2026-03-26T13:26:14.7820618+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay, understood.",
+      "timestamp": "2026-03-26T13:26:24.5323727+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Confirmed. Please let me know if you consent to proceed with the treatment plan, and I’ll schedule a follow-up in one to two weeks.",
+      "timestamp": "2026-03-26T13:26:25.2914453+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, you can proceed.",
+      "timestamp": "2026-03-26T13:26:38.3266625+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. I’ll confirm that we proceed, and I’ll schedule a follow-up in one to two weeks. Are there any other questions before concluding?",
+      "timestamp": "2026-03-26T13:26:38.9168090+00:00"
+    },
+    {
+      "role": "user",
+      "content": "are there any home remedies for eczema that I can use",
+      "timestamp": "2026-03-26T13:26:52.8409885+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly. Gentle moisturisers and avoiding harsh soaps can help, but it's important to follow the prescribed treatment. Are there any other questions before concluding?",
+      "timestamp": "2026-03-26T13:26:54.7547197+00:00"
+    },
+    {
+      "role": "user",
+      "content": "What kind of moisturizers would you recommend?",
+      "timestamp": "2026-03-26T13:27:09.0571203+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I would recommend using thick, fragrance-free emollients, such as ointments or creams, with ingredients like ceramides or glycerin. This can help maintain the skin barrier. Now, are there any other questions before concluding?",
+      "timestamp": "2026-03-26T13:27:10.7303583+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay.",
+      "timestamp": "2026-03-26T13:27:39.5334091+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay, you can proceed.",
+      "timestamp": "2026-03-26T13:27:42.6444491+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Confirmed. I will proceed with the treatment plan as discussed. We’ll schedule a follow-up in one to two weeks. Are there any other questions before concluding?",
+      "timestamp": "2026-03-26T13:27:43.2756178+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No, no questions. Thank you.",
+      "timestamp": "2026-03-26T13:27:56.6497503+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Goodbye.",
+      "timestamp": "2026-03-26T13:27:56.8226450+00:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

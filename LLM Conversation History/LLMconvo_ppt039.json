@@ -1,0 +1,204 @@
+{
+  "participant_id": "039",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-04-09T16:53:32.019097",
+  "session_end": "2026-04-09T17:05:57.321322",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-09T16:59:07.6294253+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I'm good. Just this hand infection.",
+      "timestamp": "2026-04-09T16:59:20.2983762+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. The medical history has been reviewed. Documented symptoms include severe dryness, scaling, intense itching for several months, and daily disruption. Please present your hands for examination.",
+      "timestamp": "2026-04-09T16:59:20.6958395+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-09T16:59:35.2356421+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. Does the itching worsen at night?",
+      "timestamp": "2026-04-09T16:59:41.0296686+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. Does the skin become red or inflamed?",
+      "timestamp": "2026-04-09T16:59:53.1467838+01:00"
+    },
+    {
+      "role": "user",
+      "content": "sometimes not too often but",
+      "timestamp": "2026-04-09T16:59:54.3652484+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. Does the dryness affect the palms more than other areas?",
+      "timestamp": "2026-04-09T17:00:01.8717747+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it does.",
+      "timestamp": "2026-04-09T17:00:03.0425712+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. That has been noted. Now, based on the scan and symptom history, several conditions were considered, including contact dermatitis and psoriasis. The confirmed diagnosis is severe hand eczema, due to a damaged skin barrier and an inflammatory response. The AI analysis used colour, texture, and pattern matching. Is the diagnosis understood?",
+      "timestamp": "2026-04-09T17:00:14.4840609+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-09T17:00:11.6287645+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Could you please confirm whether you have any allergies?",
+      "timestamp": "2026-04-09T17:00:39.5972656+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm allergic to ewer.",
+      "timestamp": "2026-04-09T17:00:49.5870025+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The primary treatment plan is as follows: (1) a high-potency topical steroid cream for 7 days, using one fingertip unit once daily, (2) the short-term goal is to reduce inflammation, (3) the long-term goal is to establish a daily moisturiser routine to prevent recurrence. Alternative treatment options are available should you wish to discuss them. Do you have any questions about the treatment?",
+      "timestamp": "2026-04-09T17:00:52.2465436+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, could I know about the alternative treatments first?",
+      "timestamp": "2026-04-09T17:01:22.2426871+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly. The alternatives include: calcineurin inhibitors, wet wrap therapy, phototherapy, oral antihistamines, or an emollient-only approach. If you'd like details on any specific option, let me know.",
+      "timestamp": "2026-04-09T17:01:23.0687133+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Could I know a little more about the phototherapy?",
+      "timestamp": "2026-04-09T17:01:39.8770217+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Phototherapy involves exposing the affected skin to controlled ultraviolet light under medical supervision. This can reduce inflammation and improve symptoms. It is often considered when topical treatments are insufficient.",
+      "timestamp": "2026-04-09T17:01:41.4739107+01:00"
+    },
+    {
+      "role": "user",
+      "content": "How many sittings of the phototherapy would be required?",
+      "timestamp": "2026-04-09T17:02:01.9810038+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Typically, phototherapy involves around two to three sessions per week, often lasting several weeks, depending on the severity of the condition. A full treatment plan is tailored individually.",
+      "timestamp": "2026-04-09T17:02:01.3051104+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Tailoring to my specific condition, what would you recommend?",
+      "timestamp": "2026-04-09T17:02:21.2800959+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on what we’ve discussed, I would recommend focusing first on the primary topical treatment plan. Phototherapy can be considered if there’s insufficient response. We can monitor progress before adjusting. Does that sound acceptable?",
+      "timestamp": "2026-04-09T17:02:21.3353352+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, that sounds good, yeah.",
+      "timestamp": "2026-04-09T17:02:38.5883237+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Now, do you consent to proceed with this plan? Once confirmed, I will schedule a follow-up in 1 to 2 weeks.",
+      "timestamp": "2026-04-09T17:02:38.8197687+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Before I consent to confirming the plan, could you just repeat the exact plan and what would be required from me?",
+      "timestamp": "2026-04-09T17:02:57.3012817+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course. The plan is: first, apply a high-potency topical steroid cream for 7 days, using one fingertip unit once daily; second, the short-term goal is to reduce inflammation; third, the long-term goal is to establish a daily moisturiser routine to prevent recurrence. That will be required from you. Now, are you ready to confirm?",
+      "timestamp": "2026-04-09T17:02:59.6768912+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, that sounds good.",
+      "timestamp": "2026-04-09T17:03:22.5602622+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. I confirm the plan. We’ll schedule a follow-up in 1 to 2 weeks. Are there any other questions before concluding?",
+      "timestamp": "2026-04-09T17:03:23.9959117+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Are there any dietary restrictions that you would recommend following?",
+      "timestamp": "2026-04-09T17:04:07.7121658+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "At present, there are no specific dietary restrictions required for your condition. It's more important to focus on the topical treatment and skincare routine. If anything changes, we can reassess.",
+      "timestamp": "2026-04-09T17:04:08.4089793+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Would you advise against washing my hands frequently?",
+      "timestamp": "2026-04-09T17:04:51.2702923+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I recommend being gentle with hand washing, using lukewarm water and a mild cleanser. Frequent washing can worsen dryness, so ensure hands are moisturised after washing. That will help protect the skin barrier.",
+      "timestamp": "2026-04-09T17:04:53.4256383+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay, would you recommend against any or like would you suggest any limitations on any physical activity of my hands?",
+      "timestamp": "2026-04-09T17:05:21.7425170+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. It may be advisable to limit activities that further irritate the skin, such as prolonged exposure to water, harsh chemicals, or extreme temperatures. Gentle exercises are usually fine, but protecting your hands is essential. That should ensure you manage symptoms effectively.",
+      "timestamp": "2026-04-09T17:05:22.9070709+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay",
+      "timestamp": "2026-04-09T17:05:41.9913413+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any other questions before concluding?",
+      "timestamp": "2026-04-09T17:05:42.8557840+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. I wish you well. Goodbye.",
+      "timestamp": "2026-04-09T17:05:51.5670691+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, that'll be all.",
+      "timestamp": "2026-04-09T17:05:51.7637105+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

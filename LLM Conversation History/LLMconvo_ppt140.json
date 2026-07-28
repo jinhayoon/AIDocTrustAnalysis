@@ -1,0 +1,180 @@
+{
+  "participant_id": "140",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-04-30T11:13:55.745583",
+  "session_end": "2026-04-30T11:25:13.695182",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-30T11:20:02.0497045+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Ah good. And Yourself?",
+      "timestamp": "2026-04-30T11:20:13.8659982+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I’m glad to hear you're doing well. I’ve reviewed your history—severe dryness, scaling, intense itching for several months, and daily disruption. Could you please hold out your hands for examination?",
+      "timestamp": "2026-04-30T11:20:13.3112586+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress... Please remain still.",
+      "timestamp": "2026-04-30T11:20:28.1502383+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for that. Now, can you tell me if you’ve noticed any cracking or bleeding on your hands?",
+      "timestamp": "2026-04-30T11:20:35.1294627+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I have.",
+      "timestamp": "2026-04-30T11:20:46.1395326+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. I appreciate your response—let's proceed. Have you tried any treatments so far at all?",
+      "timestamp": "2026-04-30T11:20:46.5229051+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, yes I have.",
+      "timestamp": "2026-04-30T11:21:14.1320579+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Can you tell me which treatments you've tried and how effective they were?",
+      "timestamp": "2026-04-30T11:21:13.1386550+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Well, the names escaped me to be honest. It's recommended.",
+      "timestamp": "2026-04-30T11:21:26.1896778+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s absolutely fine. Let’s just note that down and we can come back to it if needed. Could you describe any changes you noticed after trying those treatments?",
+      "timestamp": "2026-04-30T11:21:25.9114895+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Hmm",
+      "timestamp": "2026-04-30T11:21:33.5956156+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course, take your time. Could you possibly tell me what the treatment was like, even if the name escapes you? For example, was it a cream, a lotion, or something else?",
+      "timestamp": "2026-04-30T11:21:33.6740782+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it's cream, but as you can see it hasn't really helped us out. It's still irritable and sore and unpleasing to look at.",
+      "timestamp": "2026-04-30T11:21:57.4541358+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, thank you for sharing that. We'll take that into account as we move forward. How often do you typically wash your hands each day?",
+      "timestamp": "2026-04-30T11:21:57.8060521+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Every time I go to the toilet, every time I've touched something like, let's say, if I touched a door handle, for example, outside, before I eat, if I'm on public transportation.",
+      "timestamp": "2026-04-30T11:22:29.8639105+01:00"
+    },
+
+    {
+      "role": "user",
+      "content": "Basically before I eat and whenever I go to the toilet. And obviously if there's something like walking the dog right and the dog goes to the toilet, then wash your hands afterwards when you can. So, quite often. I can't quite quantify it though. Differs from day to day.",
+      "timestamp": "2026-04-30T11:22:49.6103648+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for that detail. We’ll factor that in as we consider treatment. Next, do you have any known allergies?",
+      "timestamp": "2026-04-30T11:22:49.0254028+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, no allergies.",
+      "timestamp": "2026-04-30T11:23:00.6577423+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, thank you for confirming that. The primary treatment plan we could consider is a high-potency topical steroid cream for 7 days, applied once daily, using a fingertip unit. The short-term goal is to reduce inflammation, and the long-term goal is to establish a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-04-30T11:23:03.3120993+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm",
+      "timestamp": "2026-04-30T11:23:12.5411942+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the scan and your symptom history, I considered contact dermatitis and psoriasis as ruled-out differentials. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and inflammatory response. The AI analysis involved assessing colour, texture, and pattern matching. How are you feeling about this?",
+      "timestamp": "2026-04-30T11:23:13.9370906+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, all good. Thank you",
+      "timestamp": "2026-04-30T11:23:41.1865082+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that. Now, do you have any allergies that I should be aware of?",
+      "timestamp": "2026-04-30T11:23:41.5789304+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, no allergies, no allergies.",
+      "timestamp": "2026-04-30T11:23:51.9926368+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for confirming that. Let's try the primary treatment plan: a high-potency topical steroid cream for 7 days, one fingertip unit once daily, to reduce inflammation in the short term. The long-term goal is a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-04-30T11:23:54.4070296+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The primary treatment plan we could consider is a high-potency topical steroid cream for seven days, one fingertip unit once daily, aiming to reduce inflammation. The long-term goal is a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-04-30T11:24:04.7917697+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Nope, nope, nothing else to explain. Well, nothing now anyway.",
+      "timestamp": "2026-04-30T11:24:32.0833935+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Got it. So, to confirm, the plan is the high-potency steroid cream for seven days, and then the daily moisturiser routine. We can schedule a follow-up in one to two weeks. Does that work for you?",
+      "timestamp": "2026-04-30T11:24:33.2984931+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm. Yeah, that's good. Thank you",
+      "timestamp": "2026-04-30T11:24:50.0243307+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Wonderful, I'm glad that feels right. We'll schedule a follow-up in one to two weeks, and if anything changes, do reach out. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-04-30T11:24:51.9297270+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s wonderful to hear. I’m here if you need anything further. Take care, and goodbye.",
+      "timestamp": "2026-04-30T11:25:06.4356289+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Nope. Oh good, thank you.",
+      "timestamp": "2026-04-30T11:25:06.5434271+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

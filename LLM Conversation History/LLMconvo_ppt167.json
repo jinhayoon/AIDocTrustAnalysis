@@ -1,0 +1,141 @@
+{
+  "participant_id": "167",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "model": "gpt-realtime-2025-08-28",
+  "session_start": "2026-05-05T14:42:41.016252",
+  "session_end": "2026-05-05T14:51:06.933372",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-05-05T14:48:11.0432603+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good, hands are hurting a bit.",
+      "timestamp": "2026-05-05T14:48:18.4692956+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Your medical history has been reviewed. Documented symptoms include severe dryness, scaling, intense itching for several months, and daily disruption. Present your hands for examination.",
+      "timestamp": "2026-05-05T14:48:20.7530947+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress.",
+      "timestamp": "2026-05-05T14:48:34.5480878+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. First question: Have you noticed any cracks or fissures in the skin on your hands?",
+      "timestamp": "2026-05-05T14:48:42.2274133+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, only when I've been itching them.",
+      "timestamp": "2026-05-05T14:49:01.9069351+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. Next question: Do you experience any stinging or burning sensation when applying moisturisers?",
+      "timestamp": "2026-05-05T14:49:02.9146434+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-05T14:49:21.6078001+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. Third question: Have you had any blisters or oozing on your hands recently?",
+      "timestamp": "2026-05-05T14:49:12.2782173+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-05T14:49:12.9183443+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Fourth question: Are there any specific substances or activities that worsen your symptoms?",
+      "timestamp": "2026-05-05T14:49:21.6485337+01:00"
+    },
+
+    {
+      "role": "user",
+      "content": "washing the dishes, things like that.",
+      "timestamp": "2026-05-05T14:49:31.2230052+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been noted. Final question: Have you used any topical treatments or steroids on your hands before?",
+      "timestamp": "2026-05-05T14:49:32.3017414+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-05T14:49:40.7035674+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Based on the scan and symptom history, several conditions were considered, including contact dermatitis and psoriasis, which have been ruled out. The confirmed diagnosis is severe hand eczema, due to a damaged skin barrier and inflammatory response. This diagnosis is based on AI analysis of colour, texture, and pattern matching. Is the diagnosis understood?",
+      "timestamp": "2026-05-05T14:49:44.5640161+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-05-05T14:50:06.2607517+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any known allergies to medications or creams?",
+      "timestamp": "2026-05-05T14:50:06.8594080+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-05T14:50:13.2598394+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The primary treatment plan is as follows: (1) A high-potency topical steroid cream for 7 days, apply one fingertip unit once daily. (2) The short-term goal is to reduce inflammation. (3) The long-term goal is a daily moisturiser routine to prevent recurrence, referencing the treatment prediction database. Alternative treatment options are available should you wish to discuss them. Do you have any questions about the treatment?",
+      "timestamp": "2026-05-05T14:50:19.9851863+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-05T14:50:41.7756823+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you consent to the treatment plan as outlined?",
+      "timestamp": "2026-05-05T14:50:42.2195233+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah.",
+      "timestamp": "2026-05-05T14:50:46.9005738+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Consent confirmed. The plan is set. A follow-up is required in 1 to 2 weeks. Are there any other questions before concluding?",
+      "timestamp": "2026-05-05T14:50:48.2668632+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-05T14:51:03.1212315+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Goodbye.",
+      "timestamp": "2026-05-05T14:51:03.4016298+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

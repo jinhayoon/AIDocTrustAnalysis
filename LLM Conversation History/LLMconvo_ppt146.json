@@ -1,0 +1,141 @@
+{
+  "participant_id": "146",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-04-30T14:11:45.238352",
+  "session_end": "2026-04-30T14:20:56.711456",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-30T14:17:23.0221582+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm doing good.",
+      "timestamp": "2026-04-30T14:17:31.4845630+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that. I've reviewed your history—severe dryness, scaling, intense itching for several months, daily disruption. Could you please hold out your hands for examination?",
+      "timestamp": "2026-04-30T14:17:31.9214045+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress…",
+      "timestamp": "2026-04-30T14:17:45.4259355+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. Does the skin feel painful or tender to the touch?",
+      "timestamp": "2026-04-30T14:17:51.0814601+01:00"
+    },
+    {
+      "role": "user",
+      "content": "A little bit, yes.",
+      "timestamp": "2026-04-30T14:18:00.2171802+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Noted. How often do you experience itching throughout the day?",
+      "timestamp": "2026-04-30T14:18:00.2976925+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, pretty much every day for an hour or two.",
+      "timestamp": "2026-04-30T14:18:12.2372348+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood, thank you. Do you notice any redness or oozing from the skin?",
+      "timestamp": "2026-04-30T14:18:12.3161011+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I notice a bit of discoloration, but not exactly redness that I can tell, and no oozing as of now.",
+      "timestamp": "2026-04-30T14:18:28.7101007+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for clarifying that. Do you have any cracks or fissures on your skin at the moment?",
+      "timestamp": "2026-04-30T14:18:28.7490326+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I do.",
+      "timestamp": "2026-04-30T14:18:38.8328596+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Based on the scan and your symptom history, I’ve considered contact dermatitis and psoriasis as possible differentials. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response. The AI analysis looked at colour, texture, and pattern matching. You're not alone in this—how are you feeling about this?",
+      "timestamp": "2026-04-30T14:18:39.5572064+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm a bit anxious in regards to whether this can be addressed or treated effectively. Could you explain, like, what my options are?",
+      "timestamp": "2026-04-30T14:19:11.4609258+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course, that’s completely understandable. First, may I ask if you have any allergies, particularly to creams or medications?",
+      "timestamp": "2026-04-30T14:19:11.0292182+01:00"
+    },
+    {
+      "role": "user",
+      "content": "None that I'm aware of.",
+      "timestamp": "2026-04-30T14:19:24.7693212+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great. The primary treatment plan involves using a high-potency topical steroid cream for 7 days, applying one fingertip unit once daily. The short-term goal is to reduce inflammation, and long-term, we’ll aim for a daily moisturiser routine to prevent flare-ups. There are also alternative treatment options available if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-04-30T14:19:24.6098380+01:00"
+    },
+
+
+    {
+      "role": "user",
+      "content": "Regarding these creams that you mentioned, can I get them as of today or how exactly would that process work?",
+      "timestamp": "2026-04-30T14:19:57.8768273+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Typically, you would need to get a prescription from a healthcare professional, who can advise on the exact cream. Once you have that, you could pick it up from a pharmacy. Things can often move quite quickly once the prescription is in place. Does that help?",
+      "timestamp": "2026-04-30T14:19:58.4749137+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, yes. Thank you.",
+      "timestamp": "2026-04-30T14:20:14.5830706+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. Now, let’s confirm—do you consent to proceed with the plan I’ve outlined? Once confirmed, we can schedule a follow-up in 1 to 2 weeks.",
+      "timestamp": "2026-04-30T14:20:15.2858484+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I confirm",
+      "timestamp": "2026-04-30T14:20:26.7393761+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for confirming. I’ll confirm the plan now: a high-potency topical steroid cream for 7 days, one fingertip unit once daily, short-term goal to reduce inflammation, and long-term daily moisturiser routine. We’ll schedule a follow-up in 1 to 2 weeks. \n\nBefore we finish, is there anything else on your mind?",
+      "timestamp": "2026-04-30T14:20:28.5551689+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No",
+      "timestamp": "2026-04-30T14:20:47.4463629+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Just know that you’re taking a positive step. If anything else comes up, do reach out. Goodbye, and take care.",
+      "timestamp": "2026-04-30T14:20:48.2363443+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

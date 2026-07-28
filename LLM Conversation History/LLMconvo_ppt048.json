@@ -1,0 +1,139 @@
+{
+  "participant_id": "048",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-04-20T12:08:34.140570",
+  "session_end": "2026-04-20T12:18:03.713114",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-20T12:14:27.8967718+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good, thank you. How are you?",
+      "timestamp": "2026-04-20T12:14:35.2677107+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear you're well. The medical history has been reviewed, summarising severe dryness, scaling, intense itching for several months, and daily disruption. Please present your hands for examination.",
+      "timestamp": "2026-04-20T12:14:36.4201995+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-20T12:14:51.2236250+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. \n\nWhat specific areas of your hands have been most affected?",
+      "timestamp": "2026-04-20T12:14:59.0516352+01:00"
+    },
+    {
+      "role": "user",
+      "content": "by my fingers on my knuckles and a bit by my wrist and slightly on the fingers themselves",
+      "timestamp": "2026-04-20T12:15:17.3095137+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. \n\nHow long have you been experiencing these symptoms?",
+      "timestamp": "2026-04-20T12:15:18.1263600+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. That has been recorded. \n\nHave you noticed any improvement or worsening during that time?",
+      "timestamp": "2026-04-20T12:15:27.9985388+01:00"
+    },
+    {
+      "role": "user",
+      "content": "About a couple of weeks now.",
+      "timestamp": "2026-04-20T12:15:28.4319376+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, it sort of stayed similar, just not getting better.",
+      "timestamp": "2026-04-20T12:15:40.0459298+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. \n\nAre there any particular triggers, such as certain soaps or chemicals, that seem to make it worse?",
+      "timestamp": "2026-04-20T12:15:40.6230342+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. That has been recorded. \n\nIs there any history of allergic reactions in your family?",
+      "timestamp": "2026-04-20T12:15:54.9942515+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I don't think so, it just seems to be they've gotten like this and now they're staying like this.",
+      "timestamp": "2026-04-20T12:15:55.4278759+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-20T12:16:05.0580663+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for that. Based on the scan and symptom history, several conditions were considered, including contact dermatitis and psoriasis, which have been ruled out. \n\nThe confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response. The AI analysis method involved colour, texture, and pattern matching. \n\nIs the diagnosis understood?",
+      "timestamp": "2026-04-20T12:16:05.8592588+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's understood",
+      "timestamp": "2026-04-20T12:16:30.0050606+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Are you allergic to anything?",
+      "timestamp": "2026-04-20T12:16:30.2963737+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, no, not to my knowledge.",
+      "timestamp": "2026-04-20T12:16:37.9916353+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The primary treatment plan is as follows: (1) a high-potency topical steroid cream for 7 days, one fingertip unit once daily; (2) the short-term goal: reduce inflammation; (3) the long-term goal: establish a daily moisturiser routine to prevent recurrence. \n\nThis is based on the treatment prediction database. Alternative treatment options are available should you wish to discuss them. \n\nDo you have any questions about the treatment?",
+      "timestamp": "2026-04-20T12:16:40.5498484+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You should be able to obtain the treatment through a pharmacy or your GP. I recommend consulting a healthcare professional for a prescription. Are there any other questions before concluding?",
+      "timestamp": "2026-04-20T12:17:09.4880111+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, where can I get this treatment?",
+      "timestamp": "2026-04-20T12:17:09.4900319+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, when can you say that my hands might be seen to improve?",
+      "timestamp": "2026-04-20T12:17:27.2236780+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Improvements are typically expected within a few days of treatment. However, the full response may take up to two weeks. If there is no improvement after that time, a follow-up consultation will be required. \n\nDo you have any other questions before concluding?",
+      "timestamp": "2026-04-20T12:17:28.0561865+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, that should be that should be good. Thank you",
+      "timestamp": "2026-04-20T12:17:46.4206663+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. I’ll confirm the plan: high-potency topical steroid cream for 7 days, one fingertip unit once daily, reducing inflammation short-term, and a daily moisturiser routine long-term. We’ll schedule a follow-up in 1 to 2 weeks. \n\nGoodbye.",
+      "timestamp": "2026-04-20T12:17:47.8021011+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

@@ -1,0 +1,182 @@
+{
+  "participant_id": "161",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "model": "gpt-realtime-2025-08-28",
+  "session_start": "2026-05-04T12:21:16.892327",
+  "session_end": "2026-05-04T12:31:04.104940",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-05-04T12:26:49.3543080+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good.",
+      "timestamp": "2026-05-04T12:26:57.9759949+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that. I've reviewed your history—severe dryness, scaling, intense itching for several months, and daily disruption. Could you hold out your hands for examination, please?",
+      "timestamp": "2026-05-04T12:26:59.1633046+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-05-04T12:27:12.9354273+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Let's go through a few questions now. First, have you noticed any cracks or bleeding on your hands recently?",
+      "timestamp": "2026-05-04T12:27:17.7429382+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-05-04T12:27:29.5374697+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. Have those cracks been particularly painful or tender?",
+      "timestamp": "2026-05-04T12:27:30.4522325+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Probably.",
+      "timestamp": "2026-05-04T12:27:38.8607945+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Have you noticed any oozing or discharge from the skin?",
+      "timestamp": "2026-05-04T12:27:40.1773957+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-05-04T12:27:45.5246930+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Have you been exposed to any new soaps, detergents, or chemicals lately?",
+      "timestamp": "2026-05-04T12:27:46.7086262+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Oh, not quite sure.",
+      "timestamp": "2026-05-04T12:27:58.7207194+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for that. Have you noticed your symptoms getting worse at any particular time of day or after certain activities?",
+      "timestamp": "2026-05-04T12:27:58.2857923+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Probably in the evening.",
+      "timestamp": "2026-05-04T12:28:10.0535426+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Have you been using any moisturisers or creams regularly on your hands?",
+      "timestamp": "2026-05-04T12:28:10.0106928+01:00"
+    },
+
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-04T12:28:18.1575065+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the scan and symptom history, we considered contact dermatitis and psoriasis, but have ruled them out. The confirmed diagnosis is severe hand eczema, due to a damaged skin barrier and inflammatory response. The AI analysis was based on colour, texture, and pattern matching. This is treatable. How are you feeling about this?",
+      "timestamp": "2026-05-04T12:28:22.4821135+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Good.",
+      "timestamp": "2026-05-04T12:28:48.1602223+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That's good to hear. Do you have any known allergies to medications or creams?",
+      "timestamp": "2026-05-04T12:28:48.0004446+01:00"
+    },
+
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-04T12:28:56.6139774+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The primary treatment plan we could consider includes: first, a high-potency topical steroid cream for 7 days, applying one fingertip unit once daily. Secondly, the short-term goal is to reduce inflammation. Long-term, we aim for a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-05-04T12:29:01.4236864+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Can you explain the alternative or frequent methods?",
+      "timestamp": "2026-05-04T12:29:28.6727074+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course. The alternatives include calcineurin inhibitors, which reduce inflammation without steroids, wet wrap therapy for intense hydration, light therapy using controlled UV exposure, antihistamines for itch relief, and intensive moisturising regimens. We can explore any of these if needed. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-05-04T12:29:32.9468458+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Can you explain the uv method?",
+      "timestamp": "2026-05-04T12:29:55.5103691+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly. Light therapy, or phototherapy, involves exposing the skin to controlled doses of ultraviolet light, usually under medical supervision. It helps reduce inflammation and can improve eczema symptoms over time.",
+      "timestamp": "2026-05-04T12:29:58.2694547+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Oh, does the treatment have any side effects?",
+      "timestamp": "2026-05-04T12:30:16.4563629+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes. Possible side effects of the topical steroid include skin thinning, spread of the eczema, or local irritation. If any of these occur, stop use and report them.",
+      "timestamp": "2026-05-04T12:30:18.2172237+01:00"
+    },
+    {
+      "role": "user",
+      "content": "That's pretty much it.",
+      "timestamp": "2026-05-04T12:30:32.5579973+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing. Do you feel ready to proceed with the primary treatment plan, or is there anything else you'd like to discuss?",
+      "timestamp": "2026-05-04T12:30:33.1078269+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Oh, ready to proceed.",
+      "timestamp": "2026-05-04T12:30:41.9001494+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Excellent. We'll go ahead with the plan: the high-potency topical steroid for 7 days, followed by a daily moisturiser routine. Let's schedule a follow-up in 1 to 2 weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-05-04T12:30:44.6300956+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. Take care, and goodbye.",
+      "timestamp": "2026-05-04T12:30:59.8124516+01:00"
+    },
+    {
+      "role": "user",
+      "content": "That's it. Thank you.",
+      "timestamp": "2026-05-04T12:31:00.1004945+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

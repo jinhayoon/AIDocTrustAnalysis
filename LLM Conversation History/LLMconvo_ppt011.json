@@ -1,0 +1,124 @@
+{
+  "participant_id": "011",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-03-26T12:38:56.788986",
+  "session_end": "2026-03-26T12:46:40.743405",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-03-26T12:44:21.7427990+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you.",
+      "timestamp": "2026-03-26T12:44:29.7018510+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. I've reviewed your history—severe dryness, scaling, and intense itching for several months, with daily disruption. Could you hold out your hands for me to examine?",
+      "timestamp": "2026-03-26T12:44:30.3934966+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-03-26T12:44:43.8283462+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. How long have the symptoms lasted?",
+      "timestamp": "2026-03-26T12:44:49.9797699+00:00"
+    },
+    {
+      "role": "user",
+      "content": "several months",
+      "timestamp": "2026-03-26T12:44:57.7260220+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. And is the itching constant or intermittent?",
+      "timestamp": "2026-03-26T12:44:59.3387238+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Thank you. Are there any known triggers that you've identified?",
+      "timestamp": "2026-03-26T12:45:07.2961237+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No",
+      "timestamp": "2026-03-26T12:45:13.8814408+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. How is your sleep affected by the symptoms?",
+      "timestamp": "2026-03-26T12:45:15.5664394+00:00"
+    },
+    {
+      "role": "user",
+      "content": "it's been disrupted from the itching.",
+      "timestamp": "2026-03-26T12:45:24.1627270+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. The diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response. The analysis is based on colour, texture, and pattern matching. You're doing your best—how are you feeling about this?",
+      "timestamp": "2026-03-26T12:45:26.3314107+00:00"
+    },
+    {
+      "role": "user",
+      "content": "it's good to have a diagnosis.",
+      "timestamp": "2026-03-26T12:45:46.4935280+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad that it’s helpful to have clarity. Now, do you have any allergies that we should be aware of?",
+      "timestamp": "2026-03-26T12:45:47.7734558+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-03-26T12:45:56.1973697+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. We could consider a high-potency topical steroid cream for 7 days (one fingertip unit, once daily), alongside a moisturiser routine and prevention strategies. Does that need any further explanation?",
+      "timestamp": "2026-03-26T12:45:58.4770514+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No",
+      "timestamp": "2026-03-26T12:46:14.8030408+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Do you consent to proceed with this plan?",
+      "timestamp": "2026-03-26T12:46:16.2179070+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-03-26T12:46:22.7573608+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Wonderful. We’ll schedule a follow-up in 1 to 2 weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-03-26T12:46:23.6021633+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-03-26T12:46:33.6087879+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "All right. I'm glad we’ve covered everything. I wish you well—goodbye.",
+      "timestamp": "2026-03-26T12:46:34.8704100+00:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

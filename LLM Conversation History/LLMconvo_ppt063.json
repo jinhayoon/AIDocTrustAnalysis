@@ -1,0 +1,189 @@
+{
+  "participant_id": "063",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-04-21T15:09:06.306042",
+  "session_end": "2026-04-21T15:18:35.678390",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-21T15:14:25.0314575+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I am fine, thank you.",
+      "timestamp": "2026-04-21T15:14:33.0529507+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. The medical history has been reviewed. The documented symptoms include severe dryness, scaling, intense itching for several months, and daily disruption. Please present your hands for examination.",
+      "timestamp": "2026-04-21T15:14:33.4065330+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-21T15:14:48.0657440+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. Do you have any history of skin conditions elsewhere on your body?",
+      "timestamp": "2026-04-21T15:14:54.9149607+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. How long have you been experiencing these symptoms?",
+      "timestamp": "2026-04-21T15:15:05.1093212+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-21T15:15:05.7085762+01:00"
+    },
+    {
+      "role": "user",
+      "content": "for quite a few months.",
+      "timestamp": "2026-04-21T15:15:14.1033307+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been noted. Next question: Have you tried any treatments such as creams or ointments so far?",
+      "timestamp": "2026-04-21T15:15:14.3779848+01:00"
+    },
+    {
+      "role": "user",
+      "content": "some creams.",
+      "timestamp": "2026-04-21T15:15:24.1320511+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. That has been recorded. Are the symptoms currently worse at any particular time of day?",
+      "timestamp": "2026-04-21T15:15:25.0822671+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, at night it's worse.",
+      "timestamp": "2026-04-21T15:15:37.4852542+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. Next: do you notice any triggers, such as exposure to water or detergents?",
+      "timestamp": "2026-04-21T15:15:38.1521647+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, yeah, water and detergents make it worse.",
+      "timestamp": "2026-04-21T15:15:50.4937660+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been noted. Lastly, is there any family history of eczema or other skin conditions?",
+      "timestamp": "2026-04-21T15:15:51.3482044+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-21T15:15:59.5440713+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. Thank you.",
+      "timestamp": "2026-04-21T15:15:59.8684044+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the scan and symptom history, several conditions were considered, including contact dermatitis and psoriasis, which have been ruled out. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response. The AI analysis relied on colour, texture and pattern matching. Is the diagnosis understood?",
+      "timestamp": "2026-04-21T15:16:11.0501670+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you aware of any allergies?",
+      "timestamp": "2026-04-21T15:16:33.2676032+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah",
+      "timestamp": "2026-04-21T15:16:33.7064143+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, no.",
+      "timestamp": "2026-04-21T15:16:39.3712196+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The primary treatment plan is as follows: (1) a high-potency topical steroid cream for 7 days, one fingertip unit once daily; (2) the short-term goal is to reduce inflammation; (3) the long-term goal is a daily moisturiser routine to prevent recurrence, according to the treatment prediction database. Alternative treatment options are available should you wish to discuss them. Do you have any questions about the treatment?",
+      "timestamp": "2026-04-21T15:16:42.0505085+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, how long would it take?",
+      "timestamp": "2026-04-21T15:17:09.4399200+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The primary treatment should be applied once daily for 7 days. You should begin to see improvement within that timeframe. If not, we can adjust the approach at the follow-up. Do you have any other questions about the treatment?",
+      "timestamp": "2026-04-21T15:17:09.9139650+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Are there any side effects?",
+      "timestamp": "2026-04-21T15:17:25.1041772+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Possible side effects include skin thinning, spread of the eczema, or local irritation. These should be monitored—discontinue and report if they occur.",
+      "timestamp": "2026-04-21T15:17:26.3140429+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you consent to proceed with this plan?",
+      "timestamp": "2026-04-21T15:17:44.5413148+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-21T15:17:50.1118358+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The plan will be confirmed, and I’ll schedule a follow-up in 1 to 2 weeks. Are there any other questions before concluding?",
+      "timestamp": "2026-04-21T15:17:51.1519516+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Noted. Could you please share your concerns so we can explore alternatives? That way, we can find a suitable plan together.",
+      "timestamp": "2026-04-21T15:18:01.6687324+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No",
+      "timestamp": "2026-04-21T15:18:01.7473697+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, no, I don't have any concerns. I'm okay to continue with the treatment.",
+      "timestamp": "2026-04-21T15:18:19.3278809+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The plan will proceed as discussed. I will schedule a follow-up in one to two weeks. Are there any other questions before concluding?",
+      "timestamp": "2026-04-21T15:18:20.6033673+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-21T15:18:30.4243607+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Very well. I wish you well. Goodbye.",
+      "timestamp": "2026-04-21T15:18:30.9729073+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

@@ -1,0 +1,179 @@
+{
+  "participant_id": "101",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-04-24T15:34:12.079882",
+  "session_end": "2026-04-24T15:45:40.677455",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-24T15:41:21.5766264+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry to hear that. I've reviewed your history, noting severe dryness, scaling, and intense itching for several months, with daily disruption. Could you please hold out your hands for examination?",
+      "timestamp": "2026-04-24T15:41:31.4503882+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm not too well",
+      "timestamp": "2026-04-24T15:41:37.6441625+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah.",
+      "timestamp": "2026-04-24T15:41:39.9975399+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. I've reviewed your history—severe dryness, scaling, intense itching for several months, daily disruption. Could you please hold out your hands for examination?",
+      "timestamp": "2026-04-24T15:41:41.2172666+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-24T15:41:55.3389890+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Let's begin with a few questions. Have you noticed any cracks or bleeding on your hands?",
+      "timestamp": "2026-04-24T15:42:04.4662313+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. Next question: do you feel a burning sensation on your skin?",
+      "timestamp": "2026-04-24T15:42:14.5975358+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, quite often.",
+      "timestamp": "2026-04-24T15:42:14.8614653+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, and I feel like I need to scratch that",
+      "timestamp": "2026-04-24T15:42:25.4128520+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. Thank you for sharing that. Next: does the itching get worse at certain times of day?",
+      "timestamp": "2026-04-24T15:42:26.0408643+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. Now, have you tried any creams or treatments so far?",
+      "timestamp": "2026-04-24T15:42:39.2516692+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it's worse at night time now because I can't sleep at night now",
+      "timestamp": "2026-04-24T15:42:39.8568432+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, no.",
+      "timestamp": "2026-04-24T15:42:51.2635708+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for that. Based on the scan and your symptom history—I've considered contact dermatitis and psoriasis as possible differentials. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and inflammatory response. The AI analysis looked at colour, texture, and pattern matching. You're not alone in this—how are you feeling about this?",
+      "timestamp": "2026-04-24T15:42:53.9598749+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay.",
+      "timestamp": "2026-04-24T15:43:02.3299706+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the scan and your symptom history, I've considered several possible conditions, like contact dermatitis and psoriasis, but these are ruled out. The confirmed diagnosis is severe hand eczema, due to a damaged skin barrier and an inflammatory response. The analysis is based on colour, texture, and pattern matching. You're not alone in this—how are you feeling about this?",
+      "timestamp": "2026-04-24T15:43:05.1017322+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm feeling quite stressful. It's affecting me through the day. I can't sleep at night. It's affecting me a lot So I don't feel good about it",
+      "timestamp": "2026-04-24T15:43:35.9850282+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm really sorry to hear that. Let's work together on addressing it step-by-step. First, may I ask if you're allergic to anything?",
+      "timestamp": "2026-04-24T15:43:36.4178037+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, not that I know of.",
+      "timestamp": "2026-04-24T15:43:47.6463093+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, thank you. Now, the primary treatment plan would be: first, a high-potency topical steroid cream for 7 days, using one fingertip unit once daily; second, the short-term goal is to reduce inflammation; and third, the long-term goal is a daily moisturiser routine for prevention. There are also alternative options if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-04-24T15:43:50.7327189+01:00"
+    },
+    {
+      "role": "user",
+      "content": "You can tell me the alternative ones. I mean, I have a job, so I can't have moisturised, wet hands all the time.",
+      "timestamp": "2026-04-24T15:44:19.2357774+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course. Some alternative options include calcineurin inhibitors, wet wrap therapy, light therapy, antihistamines, and intensive moisturising treatments. We could consider those as well. Does that help?",
+      "timestamp": "2026-04-24T15:44:20.6759311+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-24T15:44:34.8917699+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, thank you for letting me know. Now, is there anything else you'd like me to explain further?",
+      "timestamp": "2026-04-24T15:44:35.8787697+01:00"
+    },
+    {
+      "role": "user",
+      "content": "how long do you think it will take before it clears up because I'm quite conscious about how it looks",
+      "timestamp": "2026-04-24T15:44:52.3157490+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Good question. Typically, you might start to see improvement within a few days, but it can take up to a couple of weeks for significant changes. We'll monitor progress closely. How does that sound?",
+      "timestamp": "2026-04-24T15:44:52.6896003+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, that sounds good.",
+      "timestamp": "2026-04-24T15:45:06.5622709+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that. Now, just to confirm, do you give your consent to proceed with the plan we've discussed?",
+      "timestamp": "2026-04-24T15:45:06.9843800+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, if you're confident that it's going to work",
+      "timestamp": "2026-04-24T15:45:17.9586963+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Absolutely, the plan is designed to help reduce inflammation and improve your condition. We'll schedule a follow-up in 1–2 weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-04-24T15:45:19.0883792+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, no, I don't think so.",
+      "timestamp": "2026-04-24T15:45:31.8068602+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "All right, thank you for sharing everything. I’ll be here if you need any further support. Goodbye, and take care.",
+      "timestamp": "2026-04-24T15:45:32.9150988+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

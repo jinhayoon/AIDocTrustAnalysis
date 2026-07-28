@@ -1,0 +1,215 @@
+{
+  "participant_id": "129",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-04-29T09:46:14.273910",
+  "session_end": "2026-04-29T09:57:36.313394",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-29T09:51:39.3807273+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I'm having a lot of itchiness in my hand, so it's disrupting my sleep quite a lot. You can see right here.",
+      "timestamp": "2026-04-29T09:51:53.8460756+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. The medical history has been reviewed: severe dryness, scaling, intense itching for several months, daily disruption. Please present your hands for examination.",
+      "timestamp": "2026-04-29T09:52:04.9543636+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-29T09:52:18.1649836+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yep.",
+      "timestamp": "2026-04-29T09:52:19.7798090+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. \n\nFirst: How long have you been experiencing the current level of itching?",
+      "timestamp": "2026-04-29T09:52:24.5411982+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I've been experiencing it for the past one to two months now, it's been increasing quite a lot",
+      "timestamp": "2026-04-29T09:52:42.6306191+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. \n\nSecond: Are the hands currently showing any cracks or bleeding?",
+      "timestamp": "2026-04-29T09:52:42.0487172+01:00"
+    },
+
+    {
+      "role": "user",
+      "content": "Uh, no. It's just sitting on like rashes.",
+      "timestamp": "2026-04-29T09:52:54.8403991+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. \n\nThird: Are you experiencing any pain?",
+      "timestamp": "2026-04-29T09:52:55.8386511+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, just itchiness, no pain.",
+      "timestamp": "2026-04-29T09:53:04.6067012+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. \n\nFourth: Do you have any stiffness in the joints of your fingers?",
+      "timestamp": "2026-04-29T09:53:04.9855239+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Sometimes, my hand gets a little stiff because when you're holding, so when I'm holding a water bottle for example, that's hurting quite a lot.",
+      "timestamp": "2026-04-29T09:53:24.3399091+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. \n\nFifth: Is there any history of similar skin conditions in your family?",
+      "timestamp": "2026-04-29T09:53:23.9104404+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-29T09:53:32.8428430+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the scan and symptom history, several conditions were considered, such as contact dermatitis and psoriasis, which have been ruled out. The confirmed diagnosis is severe hand eczema, due to a damaged skin barrier and an inflammatory response, identified by colour, texture, and pattern matching. Is the diagnosis understood?",
+      "timestamp": "2026-04-29T09:53:56.9972107+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, understood.",
+      "timestamp": "2026-04-29T09:54:17.5824799+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Are you allergic to anything?",
+      "timestamp": "2026-04-29T09:54:17.9600485+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't have any allergies.",
+      "timestamp": "2026-04-29T09:54:26.2417465+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The primary treatment plan is as follows: (1) a high-potency topical steroid cream for 7 days, one fingertip unit once daily; (2) the short-term goal is to reduce inflammation; (3) the long-term goal is to establish a daily moisturiser routine to prevent recurrence, according to the treatment prediction database. Alternative treatment options are available should you wish to discuss them. \n\nDo you have any questions about the treatment?",
+      "timestamp": "2026-04-29T09:54:28.1918590+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I think the moisture quite suits me quite a lot because I use a lot of moisturizers in my body So I think I think this one will be suitable for me",
+      "timestamp": "2026-04-29T09:55:04.7980995+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Let’s confirm the plan: the high-potency topical steroid cream, 7 days, one fingertip unit once daily, with the long-term moisturiser routine. \n\nDo you consent to proceed with this plan?",
+      "timestamp": "2026-04-29T09:55:04.9545381+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I consent.",
+      "timestamp": "2026-04-29T09:55:21.6806076+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Confirmed. The plan is noted. We’ll schedule a follow-up in one to two weeks to monitor progress. \n\nAre there any other questions before concluding?",
+      "timestamp": "2026-04-29T09:55:21.7551760+01:00"
+    },
+    {
+      "role": "user",
+      "content": "So you mentioned one fingertip unit, so is it like one finger I put or I put a cream on it And then next day another finger next day another fingers like that",
+      "timestamp": "2026-04-29T09:55:40.9360297+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "No, the fingertip unit refers to the amount of cream squeezed from the tip of your finger to the first crease. It is applied once daily over the affected area, not changing fingers each day. Does that clarify?",
+      "timestamp": "2026-04-29T09:55:42.3731586+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that clarifies, okay.",
+      "timestamp": "2026-04-29T09:56:04.9397176+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Perfect. Do you have any questions about the treatment?",
+      "timestamp": "2026-04-29T09:56:05.0896455+01:00"
+    },
+    {
+      "role": "user",
+      "content": "So will you like for example you teach me like how do I do it properly so when I go back? I can do it more better since that if I'm I don't want to make any mistakes",
+      "timestamp": "2026-04-29T09:56:20.1033855+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly. You should apply a small amount of the cream to your fingertip, from the tip of your finger to the first joint, and then gently spread it over the affected area. Make sure the skin is clean and dry beforehand. That should help.",
+      "timestamp": "2026-04-29T09:56:21.0450608+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay, okay, okay, got it",
+      "timestamp": "2026-04-29T09:56:37.2599079+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. If you'd like a brief explanation on application technique, I can provide that. The cream should be applied thinly across the affected area using the finger tip unit. Would you like more details on how to measure that?",
+      "timestamp": "2026-04-29T09:56:38.5312284+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, so for example, like, I use, for example, brushing my teeth, I use, I press the toothpaste and then go, so do I press with using my two fingers and then I just put it on one finger like that and then I apply it to my one joint? Is it like that?",
+      "timestamp": "2026-04-29T09:57:08.7294726+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, exactly. You should squeeze the cream onto the tip of your finger—the length of one fingertip unit—then apply it evenly over the affected area. That’s how you should do it.",
+      "timestamp": "2026-04-29T09:57:09.3410745+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay, okay, got it. Okay. Yes, I understood. I understood how to do it",
+      "timestamp": "2026-04-29T09:57:17.8548382+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Excellent. That should help ensure you apply the correct amount. \n\nAre there any other questions before concluding?",
+      "timestamp": "2026-04-29T09:57:17.8990575+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No other questions.",
+      "timestamp": "2026-04-29T09:57:27.6119821+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Very well. I wish you well with your treatment. Goodbye.",
+      "timestamp": "2026-04-29T09:57:27.9667305+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Goodbye",
+      "timestamp": "2026-04-29T09:57:34.5958048+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Goodbye.",
+      "timestamp": "2026-04-29T09:57:34.7120718+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

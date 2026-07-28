@@ -1,0 +1,119 @@
+{
+  "participant_id": "044",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-04-20T10:21:33.211511",
+  "session_end": "2026-04-20T10:26:24.306142",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-20T10:23:48.8578401+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm okay, how are you?",
+      "timestamp": "2026-04-20T10:23:56.2407815+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear you're okay. I've reviewed your history—severe dryness, scaling, intense itching for several months, daily disruption. Could you hold out your hands for examination?",
+      "timestamp": "2026-04-20T10:23:56.8330026+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress…",
+      "timestamp": "2026-04-20T10:24:11.0020930+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for your patience. First, could you describe how long you've been experiencing the intense itching?",
+      "timestamp": "2026-04-20T10:24:16.9816704+01:00"
+    },
+    {
+      "role": "user",
+      "content": "for a few months.",
+      "timestamp": "2026-04-20T10:24:26.8405187+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. Next question: Have you noticed any redness or swelling along with the itching?",
+      "timestamp": "2026-04-20T10:24:27.2958890+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. And does the skin feel sore or painful at times?",
+      "timestamp": "2026-04-20T10:24:38.0859636+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes",
+      "timestamp": "2026-04-20T10:24:38.3073236+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it's painful.",
+      "timestamp": "2026-04-20T10:24:45.5065941+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Thank you for sharing that. Based on the scan and symptom history, I’ve considered contact dermatitis and psoriasis as ruled-out differentials. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and inflammatory response. The AI analysis relied on colour, texture, and pattern matching. How are you feeling about this?",
+      "timestamp": "2026-04-20T10:24:47.5915078+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I would like to see an actual doctor.",
+      "timestamp": "2026-04-20T10:25:14.4579241+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course, I completely understand. I’d recommend booking an in-person appointment with a dermatologist as the next step. Let’s go through your allergies now. Do you have any known allergies?",
+      "timestamp": "2026-04-20T10:25:14.7109339+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-20T10:25:28.3056420+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, thank you. The primary treatment plan would be a high-potency topical steroid cream for 7 days, a fingertip unit once daily, with a short-term goal of reducing inflammation, and long-term a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-04-20T10:25:30.3930651+01:00"
+    },
+    {
+      "role": "user",
+      "content": "How does the cream work?",
+      "timestamp": "2026-04-20T10:25:54.5413103+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly. The cream reduces inflammation by calming the immune response and helps repair the skin barrier. It works by reducing redness, itchiness, and irritation over time.",
+      "timestamp": "2026-04-20T10:25:54.6676502+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay.",
+      "timestamp": "2026-04-20T10:26:08.4528492+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anything else on your mind?",
+      "timestamp": "2026-04-20T10:26:08.6232243+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Now.",
+      "timestamp": "2026-04-20T10:26:14.1498810+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, thank you for letting me know. We'll schedule a follow-up in one to two weeks. Goodbye, and I wish you all the best.",
+      "timestamp": "2026-04-20T10:26:14.6908719+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

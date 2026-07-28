@@ -1,0 +1,150 @@
+{
+  "participant_id": "159",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "model": "gpt-realtime-2025-08-28",
+  "session_start": "2026-05-05T12:18:00.993429",
+  "session_end": "2026-05-05T12:27:17.048647",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-05-05T12:23:45.6603663+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Good.",
+      "timestamp": "2026-05-05T12:23:51.5375030+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Your medical history has been reviewed. Documented symptoms: severe dryness, scaling, intense itching for several months, and daily disruption. The examination is required for accurate diagnosis. Please present your hands when ready.",
+      "timestamp": "2026-05-05T12:23:54.4747138+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-05-05T12:24:12.5056987+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. Are there any known triggers that worsen your symptoms, such as specific chemicals or activities?",
+      "timestamp": "2026-05-05T12:24:19.5884292+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-05T12:24:31.3893152+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. Have you noticed any cracking or bleeding from the skin on your hands?",
+      "timestamp": "2026-05-05T12:24:32.4564218+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Não.",
+      "timestamp": "2026-05-05T12:24:40.0630300+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. Is there any redness or swelling around your fingers or knuckles?",
+      "timestamp": "2026-05-05T12:24:40.9829845+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No redness, but it's turning dark.",
+      "timestamp": "2026-05-05T12:24:51.6058089+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Do you experience any burning or stinging sensations when applying moisturisers or soaps?",
+      "timestamp": "2026-05-05T12:24:53.0742217+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Nope.",
+      "timestamp": "2026-05-05T12:25:01.4925103+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been noted. One more question: have you used any topical treatments or steroids in the past?",
+      "timestamp": "2026-05-05T12:25:02.5043286+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Nope.",
+      "timestamp": "2026-05-05T12:25:11.2806867+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Acknowledged. Based on the scan and symptom history, several conditions were considered, including contact dermatitis and psoriasis, both ruled out. The confirmed diagnosis is severe hand eczema, due to a damaged skin barrier and inflammatory response. This was determined through colour, texture, and pattern matching. This diagnosis is appropriate because of the chronic itching, dryness, and the patterns visible on examination. Is the diagnosis understood?",
+      "timestamp": "2026-05-05T12:25:17.9861780+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-05-05T12:25:43.4577682+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any allergies to medications or topical treatments?",
+      "timestamp": "2026-05-05T12:25:44.5985793+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Nope.",
+      "timestamp": "2026-05-05T12:25:50.1181385+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The primary treatment plan is as follows: (1) a high-potency topical steroid cream for 7 days, apply one fingertip unit once daily, (2) short-term goal: reduce inflammation, (3) long-term: daily moisturiser routine to prevent recurrence, referencing the treatment prediction database. Alternative treatment options are available should you wish to discuss them. Do you have any questions about the treatment?",
+      "timestamp": "2026-05-05T12:25:54.6073747+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Please confirm if you have any known allergies to medications or topical treatments.",
+      "timestamp": "2026-05-05T12:26:17.6329469+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Nope.",
+      "timestamp": "2026-05-05T12:26:17.6749383+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I don't know.",
+      "timestamp": "2026-05-05T12:26:29.4947400+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The treatment plan is confirmed: (1) high-potency topical steroid cream for 7 days, one fingertip unit once daily, (2) the short-term goal is to reduce inflammation, (3) long-term goal is a daily moisturiser routine to prevent recurrence, supported by the treatment prediction database. Alternative treatment options are available should you wish to discuss them. Do you have any questions about the treatment?",
+      "timestamp": "2026-05-05T12:26:35.0505968+01:00"
+    },
+    {
+      "role": "user",
+      "content": "How long is the recovery time?",
+      "timestamp": "2026-05-05T12:27:01.1546165+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Recovery time varies, but initial improvement is typically seen within 7 to 14 days. Are there any other questions before concluding?",
+      "timestamp": "2026-05-05T12:27:02.6807703+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Goodbye.",
+      "timestamp": "2026-05-05T12:27:13.1850878+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Nope.",
+      "timestamp": "2026-05-05T12:27:13.8308248+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

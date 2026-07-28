@@ -1,0 +1,149 @@
+{
+  "participant_id": "032",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-04-08T10:12:08.004662",
+  "session_end": "2026-04-08T10:21:31.666438",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-08T10:17:46.1509330+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good, how are you?",
+      "timestamp": "2026-04-08T10:17:55.3222961+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that you're feeling good. I understand that we’ve reviewed your history – severe dryness, scaling, and intense itching for several months, causing daily disruption. Could you hold out your hands for me to examine?",
+      "timestamp": "2026-04-08T10:17:56.6406547+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-08T10:18:14.0957578+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Let’s proceed with a few questions—first, how long have you noticed the skin being itchy or inflamed on your hands?",
+      "timestamp": "2026-04-08T10:18:21.6129596+01:00"
+    },
+    {
+      "role": "user",
+      "content": "For months",
+      "timestamp": "2026-04-08T10:18:35.1578417+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. How would you describe the severity of the itching on a scale from 1 to 10?",
+      "timestamp": "2026-04-08T10:18:36.4044962+01:00"
+    },
+    {
+      "role": "user",
+      "content": "quite severe.",
+      "timestamp": "2026-04-08T10:18:47.4327839+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see, quite severe, thank you for sharing that. Next, have you noticed any areas of broken or cracked skin?",
+      "timestamp": "2026-04-08T10:18:49.0506577+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-08T10:19:04.5821282+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for confirming that. Next, do you experience any pain or burning sensation in the affected areas?",
+      "timestamp": "2026-04-08T10:19:06.0843222+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-08T10:19:19.4718505+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. Based on the scan and symptom history, I’ve considered contact dermatitis and psoriasis as ruled-out differentials. The confirmed diagnosis is severe hand eczema, due to a damaged skin barrier and an inflammatory response. The AI analysis uses colour, texture, and pattern matching. How are you feeling about this?",
+      "timestamp": "2026-04-08T10:19:21.6890889+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm okay with it.",
+      "timestamp": "2026-04-08T10:19:44.0997699+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. Could you tell me if you have any allergies?",
+      "timestamp": "2026-04-08T10:19:45.1932743+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No",
+      "timestamp": "2026-04-08T10:19:52.8753230+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The primary treatment plan would be a high-potency topical steroid cream for 7 days, one fingertip unit once daily, aiming to reduce inflammation. The long-term goal is a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you’d like me to explain further?",
+      "timestamp": "2026-04-08T10:19:57.7672152+01:00"
+    },
+    {
+      "role": "user",
+      "content": "can you explain the alternative treatments",
+      "timestamp": "2026-04-08T10:20:21.9166244+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course. We could consider options like calcineurin inhibitors, which reduce inflammation without steroids. Wet wrap therapy can soothe the skin with bandages and moisturiser. Light therapy and antihistamines may also help. Would you like more details on any of these?",
+      "timestamp": "2026-04-08T10:20:23.2143533+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I think I'm good.",
+      "timestamp": "2026-04-08T10:20:42.1630491+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that. Now, is there anything you'd like to explain further?",
+      "timestamp": "2026-04-08T10:20:42.2809726+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Not really.",
+      "timestamp": "2026-04-08T10:20:51.2868525+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That's absolutely fine. Let's proceed. Do you consent to the treatment plan as we've discussed?",
+      "timestamp": "2026-04-08T10:20:51.9224650+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yep.",
+      "timestamp": "2026-04-08T10:20:59.9855091+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Perfect, I’ll confirm the plan: a high-potency topical steroid cream for 7 days, one fingertip unit once daily, with a follow-up in 1 to 2 weeks. I’ll go ahead and arrange that follow-up. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-04-08T10:21:01.8968182+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I think I'm good.",
+      "timestamp": "2026-04-08T10:21:22.8179207+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "All right, that's reassuring to hear. I'll schedule the follow-up and wish you all the best. Goodbye.",
+      "timestamp": "2026-04-08T10:21:23.4136131+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

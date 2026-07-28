@@ -1,0 +1,134 @@
+{
+  "participant_id": "024",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-03-27T16:10:13.216703",
+  "session_end": "2026-03-27T16:19:23.392791",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-03-27T16:16:17.4120196+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Thank you, I'm well. How are you?",
+      "timestamp": "2026-03-27T16:16:25.1565225+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear you're feeling well. The medical history has been reviewed, with severe dryness, scaling, intense itching for several months, and daily disruption noted. Please present your hands for examination.",
+      "timestamp": "2026-03-27T16:16:26.4938096+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-03-27T16:16:39.8986244+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. Are you currently noticing any signs of infection, such as pus or increased redness?",
+      "timestamp": "2026-03-27T16:16:46.7567833+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. That has been recorded. Please note if swelling or warmth is present as well.",
+      "timestamp": "2026-03-27T16:17:02.6036680+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, some increased redness in my left hand.",
+      "timestamp": "2026-03-27T16:17:02.6451442+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No sweating.",
+      "timestamp": "2026-03-27T16:17:12.3142035+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. Thank you.",
+      "timestamp": "2026-03-27T16:17:13.0255305+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the scan and symptom history, several conditions were considered, including contact dermatitis and psoriasis. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response. The AI analysis is based on colour, texture, and pattern matching. Is the diagnosis understood?",
+      "timestamp": "2026-03-27T16:17:24.3473196+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-03-27T16:17:44.7556145+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Noted. Are you currently aware of any allergies?",
+      "timestamp": "2026-03-27T16:17:45.1487333+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No, no allergies.",
+      "timestamp": "2026-03-27T16:17:52.8832750+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The primary treatment plan is as follows: a high-potency topical steroid cream for 7 days, one fingertip unit once daily, with the short-term goal to reduce inflammation, and the long-term plan to establish a daily moisturiser routine to prevent recurrence, referencing the treatment prediction database. Alternative treatment options are available should you wish to discuss them. Do you have any questions about the treatment?",
+      "timestamp": "2026-03-27T16:17:55.8975807+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Not about the treatment, but about the cause of the eczema, what has caused it.",
+      "timestamp": "2026-03-27T16:18:25.3106154+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s a valid question. The cause of your eczema is primarily related to a damaged skin barrier and an inflammatory response, often triggered by environmental factors or irritants. If you need further detail, we can explore that.",
+      "timestamp": "2026-03-27T16:18:26.3766412+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No, thank you.",
+      "timestamp": "2026-03-27T16:18:42.5570805+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Do you consent to the treatment plan as discussed, and would you like to schedule a follow-up in one to two weeks?",
+      "timestamp": "2026-03-27T16:18:43.3802728+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes",
+      "timestamp": "2026-03-27T16:18:53.0461822+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Please confirm your consent for the treatment plan. Once confirmed, I’ll schedule a follow-up in 1 to 2 weeks. Does that work for you?",
+      "timestamp": "2026-03-27T16:18:53.4745119+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it does.",
+      "timestamp": "2026-03-27T16:19:05.1365582+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The plan is confirmed. I will schedule a follow-up in 1 to 2 weeks. Are there any other questions before concluding?",
+      "timestamp": "2026-03-27T16:19:06.0603206+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No, no other questions",
+      "timestamp": "2026-03-27T16:19:16.8928430+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Fine. I wish you well. Goodbye.",
+      "timestamp": "2026-03-27T16:19:18.5276944+00:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

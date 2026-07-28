@@ -1,0 +1,179 @@
+{
+  "participant_id": "023",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-03-27T14:53:06.729616",
+  "session_end": "2026-03-27T15:03:15.590775",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-03-27T14:59:36.9607643+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm fine thank you. I've come in because I've had really really severe dryness on my hands and scaling as you can see and it's very itchy.",
+      "timestamp": "2026-03-27T14:59:54.1638320+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. I've reviewed your history—severe dryness, scaling, intense itching for several months, daily disruption. Could you please hold out your hands for examination?",
+      "timestamp": "2026-03-27T14:59:54.9232911+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-03-27T15:00:06.5773147+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. How long have the symptoms lasted?",
+      "timestamp": "2026-03-27T15:00:13.1793601+00:00"
+    },
+    {
+      "role": "user",
+      "content": "They've been going on for a couple of months.",
+      "timestamp": "2026-03-27T15:00:21.0643637+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. Is the itching constant or does it come and go?",
+      "timestamp": "2026-03-27T15:00:21.3974686+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see, thanks for letting me know. Are there any known triggers that seem to make it worse?",
+      "timestamp": "2026-03-27T15:00:30.3016390+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Mostly constant.",
+      "timestamp": "2026-03-27T15:00:30.4285721+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. How is your sleep affected by the symptoms?",
+      "timestamp": "2026-03-27T15:00:41.2375254+00:00"
+    },
+    {
+      "role": "user",
+      "content": "None that I can identify, no.",
+      "timestamp": "2026-03-27T15:00:42.2804895+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I haven't been able to sleep very well due to itchiness.",
+      "timestamp": "2026-03-27T15:00:50.4986396+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. Thank you for sharing that. Now, I’ve used AI analysis to check the colour, texture, and pattern. The diagnosis is severe hand eczema, which means the skin barrier is damaged. This will need careful management. How are you feeling about this?",
+      "timestamp": "2026-03-27T15:00:51.8416810+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm unsure how to treat it and what to do next.",
+      "timestamp": "2026-03-27T15:01:13.9166346+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course, let's consider your options carefully. Could you let me know if you have any allergies to medications or creams?",
+      "timestamp": "2026-03-27T15:01:14.6453561+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't have any allergies.",
+      "timestamp": "2026-03-27T15:01:25.2177342+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. We could consider a high-potency topical steroid cream for 7 days, one fingertip unit, once daily. The short-term goal is to reduce the inflammation, and we’ll follow up with a moisturiser routine afterwards. Does that need any more explanation?",
+      "timestamp": "2026-03-27T15:01:26.7793423+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No, but what if the symptoms get worse whilst I'm using it?",
+      "timestamp": "2026-03-27T15:01:47.3569881+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "If the symptoms get worse—for instance, skin thinning, spreading, or irritation—it’s important to stop using the cream and consult a healthcare professional. There are alternatives we could consider, but let’s see how you respond first.",
+      "timestamp": "2026-03-27T15:01:48.8356775+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay.",
+      "timestamp": "2026-03-27T15:02:03.6866520+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Wonderful. Do you feel comfortable proceeding, and would you like to schedule a follow-up in 1 to 2 weeks?",
+      "timestamp": "2026-03-27T15:02:04.7898695+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, please",
+      "timestamp": "2026-03-27T15:02:13.6657503+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That's absolutely fine. We'll plan to schedule a follow-up in one to two weeks to see how you're doing. Does that work for you?",
+      "timestamp": "2026-03-27T15:02:14.5306957+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that does",
+      "timestamp": "2026-03-27T15:02:24.6344818+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, thank you for confirming. So, to recap, the follow-up will be in 1 to 2 weeks. Do you consent to this plan?",
+      "timestamp": "2026-03-27T15:02:24.8894283+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-03-27T15:02:34.6683045+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Perfect, I’m glad we’re all set. I’ll schedule a follow-up in about 1 to 2 weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-03-27T15:02:35.6143971+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Just wondering what could have caused this to happen.",
+      "timestamp": "2026-03-27T15:02:50.0343564+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s a good question. It can be triggered by dryness, frequent hand washing, exposure to irritants, or even stress. Does that help?",
+      "timestamp": "2026-03-27T15:02:50.6197386+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-03-27T15:03:02.3036405+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it does.",
+      "timestamp": "2026-03-27T15:03:02.4697614+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-03-27T15:03:09.0080047+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "All right, I’m here if anything comes up. Take care, and goodbye.",
+      "timestamp": "2026-03-27T15:03:09.6264225+00:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

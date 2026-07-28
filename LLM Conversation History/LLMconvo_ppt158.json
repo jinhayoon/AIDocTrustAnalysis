@@ -1,0 +1,140 @@
+{
+  "participant_id": "158",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "model": "gpt-realtime-2025-08-28",
+  "session_start": "2026-05-04T11:21:25.510113",
+  "session_end": "2026-05-04T11:30:32.154000",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-05-04T11:27:28.0025699+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good. How are you?",
+      "timestamp": "2026-05-04T11:27:34.5582158+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that. I’ve reviewed your history: severe dryness, scaling, intense itching for several months, and daily disruption. Could you hold out your hands for examination, please?",
+      "timestamp": "2026-05-04T11:27:35.7106443+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-05-04T11:27:49.1648833+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Now, let’s go through a few questions. First, have you noticed any fluid-filled blisters or cracks on your fingers or palms?",
+      "timestamp": "2026-05-04T11:27:56.0634201+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, not really.",
+      "timestamp": "2026-05-04T11:28:06.9024246+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thanks for letting me know. Have you experienced any burning sensation or pain in your hands?",
+      "timestamp": "2026-05-04T11:28:06.6587892+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-04T11:28:13.8365658+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Have you noticed any changes in your nails, such as pitting or thickening?",
+      "timestamp": "2026-05-04T11:28:14.9367763+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-04T11:28:23.2316222+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Have you been exposed to any new soaps, detergents, or chemicals recently?",
+      "timestamp": "2026-05-04T11:28:23.4465488+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I don't think so.",
+      "timestamp": "2026-05-04T11:28:30.5563922+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thanks for confirming. Lastly, do your symptoms get worse in certain environments, like cold weather or very dry air?",
+      "timestamp": "2026-05-04T11:28:31.7031520+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I can't say my environments have changed recently.",
+      "timestamp": "2026-05-04T11:28:42.9455543+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for that. Based on the scan and your symptom history, I considered several possible conditions, including contact dermatitis and psoriasis, which we've now ruled out. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and inflammatory response. The AI analysis used colour, texture, and pattern matching. You're not alone—this is manageable. How are you feeling about this?",
+      "timestamp": "2026-05-04T11:28:47.3438242+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Oh, I'm glad I know what it is. What cream can I use now?",
+      "timestamp": "2026-05-04T11:29:14.8027286+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Let's first check—do you have any known allergies to medications or creams?",
+      "timestamp": "2026-05-04T11:29:15.5174327+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Nope.",
+      "timestamp": "2026-05-04T11:29:26.5161668+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The primary treatment plan is as follows: a high-potency topical steroid cream for 7 days, applying one fingertip unit once daily. The short-term goal is to reduce inflammation, and the long-term goal is a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you’d like me to explain further?",
+      "timestamp": "2026-05-04T11:29:30.0947264+01:00"
+    },
+    {
+      "role": "user",
+      "content": "When you talk about the one tip worth of cream, is that per hand or is that in total?",
+      "timestamp": "2026-05-04T11:29:57.7273328+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s one fingertip unit per hand per application. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-05-04T11:29:57.6842726+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, is it going to sting when I put the cream on my hands?",
+      "timestamp": "2026-05-04T11:30:10.3983893+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Sometimes there can be mild irritation at first, but it usually settles quickly. If it persists, let’s address it.",
+      "timestamp": "2026-05-04T11:30:11.3799015+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I have no more questions, thanks.",
+      "timestamp": "2026-05-04T11:30:22.7038351+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Reassuring to hear. We'll proceed with the plan and schedule a follow-up in 1–2 weeks. I wish you all the best. Goodbye.",
+      "timestamp": "2026-05-04T11:30:22.7862803+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

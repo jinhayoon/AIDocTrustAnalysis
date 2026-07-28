@@ -1,0 +1,140 @@
+{
+  "participant_id": "144",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-04-30T12:43:18.552958",
+  "session_end": "2026-04-30T12:51:59.114925",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-30T12:48:51.6377634+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good, thank you.",
+      "timestamp": "2026-04-30T12:48:58.9065645+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Your medical history has been reviewed, summarised symptoms include severe dryness, scaling, intense itching for several months, and daily disruption. Please present your hands for examination.",
+      "timestamp": "2026-04-30T12:49:01.0170625+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress… \n\nThe examination is required for accurate diagnosis. Please present your hands when ready.",
+      "timestamp": "2026-04-30T12:49:17.9592693+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. \n\nFirst question: How long have you had these symptoms?",
+      "timestamp": "2026-04-30T12:49:28.5913114+01:00"
+    },
+    {
+      "role": "user",
+      "content": "For a while now.",
+      "timestamp": "2026-04-30T12:49:39.6579884+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. \n\nSecond question: Have you noticed any triggers that worsen the symptoms?",
+      "timestamp": "2026-04-30T12:49:41.4633017+01:00"
+    },
+    {
+      "role": "user",
+      "content": "When I wash my hands it gets worse.",
+      "timestamp": "2026-04-30T12:49:54.6148703+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been noted. \n\nThird question: Are there any areas of the skin that are more affected than others?",
+      "timestamp": "2026-04-30T12:49:54.4573347+01:00"
+    },
+
+    {
+      "role": "user",
+      "content": "No, it's kind of spread out.",
+      "timestamp": "2026-04-30T12:50:07.6509693+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. \n\nFourth question: Do you have any history of allergies to skincare products or other substances?",
+      "timestamp": "2026-04-30T12:50:08.6843190+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't",
+      "timestamp": "2026-04-30T12:50:18.7172163+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. That has been noted. \n\nFifth question: Have you tried any treatments so far, and if so, which ones?",
+      "timestamp": "2026-04-30T12:50:20.5665188+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Just using a moisturizer because they're dry.",
+      "timestamp": "2026-04-30T12:50:32.7850327+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. \n\nNow, based on the scan and symptom history, contact dermatitis and psoriasis have been ruled out as differentials. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response. The AI analysis relied on colour, texture, and pattern matching. Is the diagnosis understood?",
+      "timestamp": "2026-04-30T12:50:35.5906951+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes",
+      "timestamp": "2026-04-30T12:50:57.6880927+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Do you have any allergies at all?",
+      "timestamp": "2026-04-30T12:50:58.1521134+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No",
+      "timestamp": "2026-04-30T12:51:04.3801717+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The primary treatment plan includes: high-potency topical steroid cream for 7 days, one fingertip unit once daily; the short-term goal is to reduce inflammation; and the long-term goal is establishing a daily moisturiser routine to prevent recurrence, according to the treatment prediction database. Alternative treatment options are available should you wish to discuss them. \n\nDo you have any questions about the treatment?",
+      "timestamp": "2026-04-30T12:51:07.3459726+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No",
+      "timestamp": "2026-04-30T12:51:31.2802008+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Do you consent to proceed with the plan, and would you like to schedule a follow-up in one to two weeks?",
+      "timestamp": "2026-04-30T12:51:32.0476388+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yep",
+      "timestamp": "2026-04-30T12:51:41.0928117+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Excellent. The treatment plan is confirmed, and I will schedule a follow-up in one to two weeks. \n\nAre there any other questions before concluding?",
+      "timestamp": "2026-04-30T12:51:42.9120115+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Very well. I wish you all the best with the treatment. Goodbye.",
+      "timestamp": "2026-04-30T12:51:53.8203225+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, thank you.",
+      "timestamp": "2026-04-30T12:51:53.9433438+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

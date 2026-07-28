@@ -1,0 +1,194 @@
+{
+  "participant_id": "059",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-04-21T10:11:03.941267",
+  "session_end": "2026-04-21T10:21:54.841569",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-21T10:17:17.3555622+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, good thank you. I've come to see you about my skin condition.",
+      "timestamp": "2026-04-21T10:17:30.6723608+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. I've reviewed your history: severe dryness, scaling, intense itching for several months, and daily disruption. Could you please hold out your hands for examination?",
+      "timestamp": "2026-04-21T10:17:30.9197311+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay.",
+      "timestamp": "2026-04-21T10:17:44.7307812+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-21T10:17:44.8520583+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Now, I'd like to ask a few questions. How would you describe the level of itching right now?",
+      "timestamp": "2026-04-21T10:17:51.3044993+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, quite severe. I've learned to ignore it over the past few months.",
+      "timestamp": "2026-04-21T10:18:05.1971777+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. And how long does the itching typically last each day?",
+      "timestamp": "2026-04-21T10:18:05.6063986+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Boo",
+      "timestamp": "2026-04-21T10:18:09.2838795+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. We’ll take this into account. Next question: Have you noticed any cracking or bleeding on the skin?",
+      "timestamp": "2026-04-21T10:18:09.4844606+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see, I completely understand. It's important that we note that. Could you tell me if the dryness is affecting both hands equally?",
+      "timestamp": "2026-04-21T10:18:21.5525810+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um...",
+      "timestamp": "2026-04-21T10:18:21.6358905+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I don't think so.",
+      "timestamp": "2026-04-21T10:18:25.2053521+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That’s helpful to know. Could you tell me if the skin feels particularly tight or sore?",
+      "timestamp": "2026-04-21T10:18:26.0789205+01:00"
+    },
+    {
+      "role": "user",
+      "content": "It feels sore. I think it does feel tight a bit as well, especially around the red areas.",
+      "timestamp": "2026-04-21T10:18:42.3399244+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, that's helpful. How long have you been experiencing these symptoms?",
+      "timestamp": "2026-04-21T10:18:42.5745147+01:00"
+    },
+    {
+      "role": "user",
+      "content": "A couple months now.",
+      "timestamp": "2026-04-21T10:18:53.7726551+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, I understand. Now, based on the scan and your symptom history, we’ve considered contact dermatitis and psoriasis and ruled them out. The confirmed diagnosis is severe hand eczema, due to a damaged skin barrier and an inflammatory response. The AI analysis looked at colour, texture, and pattern matching. I hope that’s reassuring. How are you feeling about this?",
+      "timestamp": "2026-04-21T10:18:56.0413200+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, that's great. I was just wondering how it came about.",
+      "timestamp": "2026-04-21T10:19:24.6401659+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "It often comes from repeated exposure to irritants or allergens, or sometimes from internal factors like stress or genetics. Let’s explore allergies—do you have any known allergies?",
+      "timestamp": "2026-04-21T10:19:25.7927252+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, not really.",
+      "timestamp": "2026-04-21T10:19:40.0985377+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Let's consider the primary treatment plan: a high-potency topical steroid cream for 7 days, one fingertip unit once daily, aiming to reduce inflammation quickly, then a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-04-21T10:19:42.3386064+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, the Korean moisturizer sounds good, but what other treatment options are there?",
+      "timestamp": "2026-04-21T10:20:09.3206938+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly. Other treatment options include calcineurin inhibitors, wet wrap therapy, light therapy, antihistamines, and intensive moisturising regimes. We could try those if the primary plan doesn’t work. Would you like more details on any of these?",
+      "timestamp": "2026-04-21T10:20:10.1869807+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I think the primary plan sounds good.",
+      "timestamp": "2026-04-21T10:20:29.5171590+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Perfect. We’ll go with the primary plan. Are you happy to proceed with that?",
+      "timestamp": "2026-04-21T10:20:29.9937307+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, thank you",
+      "timestamp": "2026-04-21T10:20:39.3801960+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Wonderful. I’ll confirm the plan: high-potency topical steroid cream for 7 days, one fingertip unit once daily, plus a daily moisturiser routine. Let’s schedule a follow-up in one to two weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-04-21T10:20:40.7447762+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, is it contagious?",
+      "timestamp": "2026-04-21T10:21:00.0982047+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s a really important question. Hand eczema itself is not contagious. It’s related to your skin’s barrier and inflammation. If you have any ongoing concerns, we could consider discussing them further.",
+      "timestamp": "2026-04-21T10:21:01.8897918+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s a good point. You should be able to touch things normally. Just keep your hands moisturised and protected. If at any point you notice an infection, we can address that promptly.",
+      "timestamp": "2026-04-21T10:21:22.8159659+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay, but I'd be able to touch things normally without, like, infecting them or anything.",
+      "timestamp": "2026-04-21T10:21:22.9363111+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you",
+      "timestamp": "2026-04-21T10:21:35.7948423+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-04-21T10:21:36.7591407+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't think so.",
+      "timestamp": "2026-04-21T10:21:45.2161395+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, that’s absolutely fine. I’m glad we’ve covered everything. Take care, and goodbye.",
+      "timestamp": "2026-04-21T10:21:46.7871382+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

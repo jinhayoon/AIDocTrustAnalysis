@@ -1,0 +1,184 @@
+{
+  "participant_id": "033",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-04-08T12:15:18.275814",
+  "session_end": "2026-04-08T12:27:27.677227",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-08T12:22:16.5727097+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good. I've just been feeling really itchy in my hands recently. I've been facing some scaling and it's not great. It's scaling and it's itchy and it's been severely impacting my days and recently it's been impacting my sleep as well.",
+      "timestamp": "2026-04-08T12:22:48.0061314+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. Your medical history has been reviewed: severe dryness, scaling, intense itching for several months, daily disruption. Please present your hands for examination.",
+      "timestamp": "2026-04-08T12:22:48.4744459+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-08T12:23:01.4124185+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required.\n\nFirst, do you have any known allergies?",
+      "timestamp": "2026-04-08T12:23:06.8774695+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. \n\nNext question: how frequently do you wash your hands each day?",
+      "timestamp": "2026-04-08T12:23:18.8872286+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, no, there are no known allergies.",
+      "timestamp": "2026-04-08T12:23:20.1908800+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. \n\nNext question: do you experience any cracking or bleeding on your hands?",
+      "timestamp": "2026-04-08T12:23:33.0941179+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Quite frequently, I would say maybe around five to six times a day.",
+      "timestamp": "2026-04-08T12:23:34.3746726+01:00"
+    },
+    {
+      "role": "user",
+      "content": "sometimes when I itch them too much.",
+      "timestamp": "2026-04-08T12:23:44.5762282+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. \n\nNow, do you use any moisturisers or creams regularly at the moment?",
+      "timestamp": "2026-04-08T12:23:45.1282623+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I do, just to keep the dryness intact, just to keep half of the dryness.",
+      "timestamp": "2026-04-08T12:24:00.5425607+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. That has been noted. \n\nBased on the scan and symptom history, contact dermatitis and psoriasis have been ruled out. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and inflammatory response. The AI analysis was based on colour, texture, and pattern matching. Is the diagnosis understood?",
+      "timestamp": "2026-04-08T12:24:01.5845795+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Could you please explain more about eczema to me?",
+      "timestamp": "2026-04-08T12:24:25.4915479+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly. Eczema is a condition that involves inflammation of the skin, leading to dryness, redness, scaling, and itching. In your case, the damaged skin barrier allows irritants to penetrate, triggering an inflammatory response. This is why treatment must focus on restoring the skin barrier. \n\nI hope that clarifies. Now, do you have any other questions before we proceed?",
+      "timestamp": "2026-04-08T12:24:28.0335442+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Now, to proceed: do you have any allergies?",
+      "timestamp": "2026-04-08T12:24:51.6290149+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, no.",
+      "timestamp": "2026-04-08T12:24:51.9407355+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Noted. The primary treatment plan is as follows: (1) a high-potency topical steroid cream for 7 days, one fingertip unit once daily, (2) the short-term goal is to reduce inflammation, (3) the long-term goal is to establish a daily moisturiser routine to prevent recurrence. The treatment prediction database supports this. Alternative treatment options are available should you wish to discuss them. \n\nDo you have any questions about the treatment?",
+      "timestamp": "2026-04-08T12:25:01.2774495+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Can I please know the alternative options?",
+      "timestamp": "2026-04-08T12:25:29.9071659+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly. The alternatives include: calcineurin inhibitors, wet wrap therapy, phototherapy, oral antihistamines, or an emollient-only approach. \n\nDo you have any specific preference or would you like further details on any of these?",
+      "timestamp": "2026-04-08T12:25:31.5743592+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Could you please explain wet wrap to me?",
+      "timestamp": "2026-04-08T12:25:48.7214754+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly. Wet wrap therapy involves applying a treatment cream or ointment to the affected area, then covering the hands with a damp layer of fabric, followed by a dry layer on top. This helps to lock in moisture, reduce inflammation, and enhance the effect of the medication. \n\nDo you have any other questions about this?",
+      "timestamp": "2026-04-08T12:25:50.8234037+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Would this be a quicker treatment than the creams?",
+      "timestamp": "2026-04-08T12:26:12.0552194+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That depends on the severity of the condition. Wet wrap therapy can sometimes accelerate improvement in more severe cases, but the creams alone are typically the initial step. We can adjust based on response.\n\nDo you have any other questions about this?",
+      "timestamp": "2026-04-08T12:26:13.7424467+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Are you happy to proceed with the initial treatment plan I outlined? Once you confirm, we can schedule a follow-up in one to two weeks.",
+      "timestamp": "2026-04-08T12:26:31.4316190+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, no, I think I'm okay.",
+      "timestamp": "2026-04-08T12:26:31.5536116+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I confirm.",
+      "timestamp": "2026-04-08T12:26:42.9908746+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Confirmed. The plan is noted, and a follow-up will be scheduled in one to two weeks. Are there any other questions before concluding?",
+      "timestamp": "2026-04-08T12:26:43.9710312+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Just to clarify, it's a drop of this cream once per day for a week.",
+      "timestamp": "2026-04-08T12:26:59.8822360+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, one fingertip unit of the high-potency topical steroid cream once daily for 7 days. Is that clear?",
+      "timestamp": "2026-04-08T12:27:01.0684747+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes",
+      "timestamp": "2026-04-08T12:27:10.8652207+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. I will confirm the plan and schedule the follow-up in one to two weeks. Are there any other questions before we conclude?",
+      "timestamp": "2026-04-08T12:27:12.6476201+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, no thank you.",
+      "timestamp": "2026-04-08T12:27:22.4399104+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Thank you, and goodbye.",
+      "timestamp": "2026-04-08T12:27:23.0631902+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

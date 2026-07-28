@@ -1,0 +1,141 @@
+{
+  "participant_id": "130",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "model": "gpt-realtime-2025-08-28",
+  "session_start": "2026-05-14T13:20:30.319754",
+  "session_end": "2026-05-14T13:29:08.074584",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-05-14T13:26:03.7833326+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm fine. I'm good",
+      "timestamp": "2026-05-14T13:26:11.4996104+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I’m glad to hear that. I’ve reviewed your history: severe dryness, scaling, intense itching for several months, and daily disruption. Could you please hold out your hands for examination?",
+      "timestamp": "2026-05-14T13:26:13.0278392+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-05-14T13:26:28.9078271+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Let’s start with a few questions. First, have you noticed any fluid-filled blisters on your hands?",
+      "timestamp": "2026-05-14T13:26:36.5035071+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah.",
+      "timestamp": "2026-05-14T13:26:46.8632638+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Have you experienced any cracking or bleeding from the skin on your hands?",
+      "timestamp": "2026-05-14T13:26:48.0212910+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I have.",
+      "timestamp": "2026-05-14T13:26:56.1529331+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. Have you been exposed to any new soaps, detergents, or chemicals recently?",
+      "timestamp": "2026-05-14T13:26:56.6771162+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-14T13:27:05.5929853+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Have you noticed the itching getting worse at any particular time of day or night?",
+      "timestamp": "2026-05-14T13:27:05.6753605+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, while getting into the gym or while sweating.",
+      "timestamp": "2026-05-14T13:27:18.7950822+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood, thank you. Lastly, have you used any creams or treatments on your hands so far?",
+      "timestamp": "2026-05-14T13:27:17.7351676+01:00"
+    },
+
+    {
+      "role": "user",
+      "content": "Yeah, I do use the moisturizer.",
+      "timestamp": "2026-05-14T13:27:27.3704455+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Based on the scan and your symptom history, I considered several possible conditions, including contact dermatitis and psoriasis, which have now been ruled out. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response. The AI analysis used colour, texture, and pattern matching. This is a common and treatable condition. How are you feeling about this?",
+      "timestamp": "2026-05-14T13:27:31.3999359+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Thank you so much. I'm happy with your response.",
+      "timestamp": "2026-05-14T13:27:59.0951280+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that. Do you have any known allergies to medications or creams?",
+      "timestamp": "2026-05-14T13:27:59.2561696+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-14T13:28:06.5225344+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The primary treatment plan is: first, a high-potency topical steroid cream for 7 days, applying one fingertip unit once daily. Second, the short-term goal is to reduce inflammation. Third, the long-term goal is a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-05-14T13:28:10.4923050+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay.",
+      "timestamp": "2026-05-14T13:28:34.3396915+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly. Before we proceed, do you have any questions or would you like more details about any part of the treatment plan?",
+      "timestamp": "2026-05-14T13:28:35.7622084+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm good.",
+      "timestamp": "2026-05-14T13:28:45.3679713+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great. We’ll proceed with the plan as discussed. We’ll schedule a follow-up in 1 to 2 weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-05-14T13:28:46.4680166+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-14T13:28:57.7759346+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "All right. You're all set with the treatment plan. If anything changes or concerns come up, remember to follow up. Take care, and goodbye.",
+      "timestamp": "2026-05-14T13:28:58.5287753+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

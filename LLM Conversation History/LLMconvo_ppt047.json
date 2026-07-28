@@ -1,0 +1,139 @@
+{
+  "participant_id": "047",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-04-20T11:24:08.941087",
+  "session_end": "2026-04-20T11:32:25.283506",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-20T11:29:35.7394876+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good.",
+      "timestamp": "2026-04-20T11:29:43.1537520+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that. I've reviewed your history: severe dryness, scaling, intense itching for several months, daily disruption. Could you please hold out your hands for examination?",
+      "timestamp": "2026-04-20T11:29:43.7179023+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress... Please keep your hands steady.",
+      "timestamp": "2026-04-20T11:30:00.1400966+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. First question: do you currently experience any burning or stinging sensation on your hands?",
+      "timestamp": "2026-04-20T11:30:08.9678292+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. Next question: do you notice any cracking or bleeding on the skin?",
+      "timestamp": "2026-04-20T11:30:18.9053553+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-20T11:30:19.2198907+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-20T11:30:28.8167167+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. Let’s continue. How about any swelling or redness?",
+      "timestamp": "2026-04-20T11:30:29.2427591+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes",
+      "timestamp": "2026-04-20T11:30:37.3798514+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Next question: do you feel any itchiness that interrupts your sleep?",
+      "timestamp": "2026-04-20T11:30:37.6144555+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes",
+      "timestamp": "2026-04-20T11:30:45.8101824+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. Next: have you tried any creams or treatments already?",
+      "timestamp": "2026-04-20T11:30:46.4005943+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-20T11:30:54.6635482+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I appreciate your answers. Based on the scan and your symptom history, I considered contact dermatitis and psoriasis as ruled-out differentials. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and inflammatory response, identified through colour, texture, and pattern matching. You’re not alone in this. How are you feeling about this?",
+      "timestamp": "2026-04-20T11:30:57.0667672+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay.",
+      "timestamp": "2026-04-20T11:31:21.0732619+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. Could you tell me if you have any allergies to creams or medications?",
+      "timestamp": "2026-04-20T11:31:21.6646206+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't.",
+      "timestamp": "2026-04-20T11:31:30.0238276+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Perfect. The primary treatment plan is a high-potency topical steroid cream for 7 days, using one fingertip unit once daily. The short-term goal is to reduce inflammation, and the long-term goal is a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-04-20T11:31:32.0792859+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, it's okay.",
+      "timestamp": "2026-04-20T11:31:54.4611292+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm pleased to hear that. Do you consent to proceed with this plan? Once confirmed, we'll schedule a follow-up in one to two weeks.",
+      "timestamp": "2026-04-20T11:31:54.6225182+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, thank you. I'll confirm the plan and we’ll set up the follow-up in one to two weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-04-20T11:32:05.5288428+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-20T11:32:05.6489076+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "All right, I’m glad we’ve covered everything. Reassure yourself that we’ll follow up soon. Goodbye, and I wish you well.",
+      "timestamp": "2026-04-20T11:32:16.8369416+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-20T11:32:16.8780310+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

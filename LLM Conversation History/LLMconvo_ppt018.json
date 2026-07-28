@@ -1,0 +1,199 @@
+{
+  "participant_id": "018",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-03-27T10:27:37.009821",
+  "session_end": "2026-03-27T10:37:10.016063",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-03-27T10:33:10.2094434+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Good, thanks. How are you?",
+      "timestamp": "2026-03-27T10:33:17.0544319+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I’m well, thank you. The medical history has been reviewed. You’ve described severe dryness, scaling, intense itching for several months, and daily disruption. Now, please present your hands for examination.",
+      "timestamp": "2026-03-27T10:33:18.2927923+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-03-27T10:33:33.8688448+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. \n\nHow long have the symptoms been present?",
+      "timestamp": "2026-03-27T10:33:40.1919420+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Probably about three weeks.",
+      "timestamp": "2026-03-27T10:33:51.5705737+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. \n\nIs the itching constant or intermittent?",
+      "timestamp": "2026-03-27T10:33:51.8033652+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been noted. Are there identifiable triggers?",
+      "timestamp": "2026-03-27T10:34:01.1081285+00:00"
+    },
+    {
+      "role": "user",
+      "content": "quite constant.",
+      "timestamp": "2026-03-27T10:34:01.8451289+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, when my hands are quite cold.",
+      "timestamp": "2026-03-27T10:34:10.8951773+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. Is sleep affected?",
+      "timestamp": "2026-03-27T10:34:11.4144500+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes",
+      "timestamp": "2026-03-27T10:34:17.1754729+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Now, I’ve used AI analysis, focusing on colour, texture and pattern matching. The diagnosis indicates severe hand eczema. The prognosis involves a damaged skin barrier, which must be repaired for healing. \n\nIs the diagnosis understood?",
+      "timestamp": "2026-03-27T10:34:18.9822011+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Now, do you have any known allergies?",
+      "timestamp": "2026-03-27T10:34:36.2269423+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah.",
+      "timestamp": "2026-03-27T10:34:37.1667633+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-03-27T10:34:42.4755584+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. I recommend a high-potency topical steroid cream for 7 days, one fingertip unit, once daily. The short-term goal is to reduce inflammation, with a long-term protocol to establish a moisturiser routine and prevent recurrence. \n\nAre you able to consent to this treatment?",
+      "timestamp": "2026-03-27T10:34:44.3102509+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah.",
+      "timestamp": "2026-03-27T10:35:02.4367832+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. I recommend a high-potency topical steroid cream for 7 days (one fingertip unit, once daily). The short-term goal is to reduce inflammation. Long-term, a daily moisturiser routine is required to prevent recurrence.\n\nIs that clear?",
+      "timestamp": "2026-03-27T10:35:04.3981906+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah.",
+      "timestamp": "2026-03-27T10:35:20.7233521+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. I recommend a high-potency topical steroid cream for 7 days, one fingertip unit, once daily. The short-term goal is to reduce inflammation, and the long-term protocol will involve a moisturiser routine to prevent recurrence. \n\nIs that clear?",
+      "timestamp": "2026-03-27T10:35:22.5310035+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Excellent. Do you consent to proceed with this treatment plan?",
+      "timestamp": "2026-03-27T10:35:39.5510159+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-03-27T10:35:39.8459950+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-03-27T10:35:46.0304744+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Confirmed. We will proceed. I’ll schedule a follow-up in one to two weeks. Are there any other questions before concluding?",
+      "timestamp": "2026-03-27T10:35:46.7775087+00:00"
+    },
+    {
+      "role": "user",
+      "content": "How long will the results take?",
+      "timestamp": "2026-03-27T10:35:58.2795435+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Results typically take around 7 days of consistent use of the steroid cream, but the full improvement may take longer.",
+      "timestamp": "2026-03-27T10:35:58.8271266+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Itching usually begins to reduce within the first few days of treatment. However, full relief can take up to two weeks.",
+      "timestamp": "2026-03-27T10:36:11.4959613+00:00"
+    },
+    {
+      "role": "user",
+      "content": "When will that itchiness die down?",
+      "timestamp": "2026-03-27T10:36:11.6649671+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Will it come back when I stop using the cream?",
+      "timestamp": "2026-03-27T10:36:24.2251583+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "This depends on individual triggers and adherence to the long-term moisturiser routine. Proper care should reduce recurrence. \n\nIs that clear?",
+      "timestamp": "2026-03-27T10:36:24.8354951+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, also I play a lot of sport which means I can get quite sweaty with this flare the eczema up",
+      "timestamp": "2026-03-27T10:36:41.7251017+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "It's important to manage sweat by washing and moisturising after sports. Excessive sweat can indeed aggravate the skin, so keeping the area clean and hydrated is required.",
+      "timestamp": "2026-03-27T10:36:42.8796551+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any other questions before concluding?",
+      "timestamp": "2026-03-27T10:36:57.5523437+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Got it.",
+      "timestamp": "2026-03-27T10:36:58.2018311+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-03-27T10:37:04.9626538+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. I wish you well. Goodbye.",
+      "timestamp": "2026-03-27T10:37:05.6350057+00:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

@@ -1,0 +1,219 @@
+{
+  "participant_id": "026",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-03-30T14:15:31.898332",
+  "session_end": "2026-03-30T14:27:02.114747",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-03-30T14:21:08.6478610+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good. How are you?",
+      "timestamp": "2026-03-30T14:21:16.1419293+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that you're doing well. I've reviewed your history—severe dryness, scaling, intense itching for several months, daily disruption. Could you please hold out your hands for examination?",
+      "timestamp": "2026-03-30T14:21:16.5361338+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-03-30T14:21:28.8041419+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, sure.",
+      "timestamp": "2026-03-30T14:21:30.9262070+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for your patience. Now, could you describe how the condition feels at the moment? Is it more itchy, sore, or anything else?",
+      "timestamp": "2026-03-30T14:21:35.2648028+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. I understand it's quite uncomfortable for you. Let's try to focus on relief from the itching—we'll get to that part shortly.",
+      "timestamp": "2026-03-30T14:21:51.9314750+01:00"
+    },
+    {
+      "role": "user",
+      "content": "It's definitely very itchy and uncomfortable. It hurts to just move around.",
+      "timestamp": "2026-03-30T14:21:52.7411628+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the scan and your symptom history, I considered contact dermatitis and psoriasis as ruled-out differentials. The confirmed diagnosis is severe hand eczema—due to a damaged skin barrier and an inflammatory response. We analysed the colour, texture, and pattern. \n\nHow are you feeling about this?",
+      "timestamp": "2026-03-30T14:22:05.9280079+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course. Severe hand eczema is a condition where the skin barrier is damaged, leading to dryness, inflammation, and intense itching. It often requires treatment to reduce inflammation and repair the skin. \n\nDoes that help clarify?",
+      "timestamp": "2026-03-30T14:22:29.1882834+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, could you tell me a bit more about what that is?",
+      "timestamp": "2026-03-30T14:22:29.3436889+01:00"
+    },
+    {
+      "role": "user",
+      "content": "bit more what what causes the skin barrier to break?",
+      "timestamp": "2026-03-30T14:22:48.2357255+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly. The skin barrier can break down due to factors like frequent washing, exposure to irritants, allergens, or underlying conditions. It's essentially a combination of environmental and genetic factors. Does that make sense to you?",
+      "timestamp": "2026-03-30T14:22:49.4965421+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, do you think for me it there might be a genetic component?",
+      "timestamp": "2026-03-30T14:23:08.5358800+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "It's possible, yes. Let's keep that in mind as we move forward. Now, could you tell me if you have any allergies?",
+      "timestamp": "2026-03-30T14:23:08.8607472+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, no.",
+      "timestamp": "2026-03-30T14:23:19.0025794+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The primary treatment plan would be: a high-potency topical steroid cream for 7 days, one fingertip unit once daily, with the short-term goal of reducing inflammation and the long-term goal of a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-03-30T14:23:20.4348398+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s a really good question. After your hands improve, the long-term goal would be to maintain a daily moisturising routine to prevent flare-ups. If you'd like to discuss that further, we can go into more detail.",
+      "timestamp": "2026-03-30T14:23:45.9605595+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Would I have to use that even after my hands have gotten better?",
+      "timestamp": "2026-03-30T14:23:46.5016053+01:00"
+    },
+    {
+      "role": "user",
+      "content": "And what if I already moisturize a lot every day, do I just keep doing it more?",
+      "timestamp": "2026-03-30T14:24:03.9157632+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Let's address that once we confirm the results of the treatment. For now, let’s focus on the primary treatment plan. There are also alternative options if you'd like to explore those. \n\nIs there anything you'd like me to explain further?",
+      "timestamp": "2026-03-30T14:24:05.0237700+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, you could explain the alternative options.",
+      "timestamp": "2026-03-30T14:24:22.0780024+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course. Alternative options could include calcineurin inhibitors, wet wrap therapy, light therapy, antihistamines, or intensive moisturising. Which would you like to know more about?",
+      "timestamp": "2026-03-30T14:24:22.4350577+01:00"
+    },
+    {
+      "role": "user",
+      "content": "What would you recommend is the most efficient in helping my hands heal?",
+      "timestamp": "2026-03-30T14:24:41.2461972+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for asking. The most efficient approach is typically the high-potency topical steroid cream for 7 days, applied once daily. Then we follow that with a daily moisturiser routine. There are also alternative treatments, such as calcineurin inhibitors, wet wrap therapy, light therapy, antihistamines, and intensive moisturising. \n\nIs there anything you'd like me to explain further?",
+      "timestamp": "2026-03-30T14:24:42.0543563+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "It’s often the most effective starting point, yes. Shall we go ahead with that plan?",
+      "timestamp": "2026-03-30T14:25:06.1150229+01:00"
+    },
+    {
+      "role": "user",
+      "content": "So would you say the steroids is the best option?",
+      "timestamp": "2026-03-30T14:25:06.4339196+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, please",
+      "timestamp": "2026-03-30T14:25:14.2992639+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The primary treatment plan involves a high-potency topical steroid cream, applied once daily for 7 days. The short-term goal is to reduce inflammation, and the long-term goal is to establish a daily moisturiser routine. There are also alternative treatment options available if you'd like to explore those. \n\nIs there anything you'd like me to explain further?",
+      "timestamp": "2026-03-30T14:25:15.7207174+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Are there any side effects for taking the steroid cream?",
+      "timestamp": "2026-03-30T14:25:40.2172856+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Common side effects can include skin thinning, local irritation, or possible spreading of the rash. If any of these occur, you should stop use and let me know.",
+      "timestamp": "2026-03-30T14:25:40.9127281+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Oh.",
+      "timestamp": "2026-03-30T14:25:48.8073647+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course. The main side effects could include skin thinning, spreading, or local irritation. If that happens, it's important to stop use and let me know.",
+      "timestamp": "2026-03-30T14:25:50.1348523+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay. How long does it usually take for those symptoms to come into effect? Would it be after the first time I use the cream? Or after multiple use?",
+      "timestamp": "2026-03-30T14:26:16.2142778+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Usually, these side effects might develop after prolonged use—often after several days or weeks. It's not usually immediate after the first application. Please monitor your skin closely.",
+      "timestamp": "2026-03-30T14:26:16.9601918+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay",
+      "timestamp": "2026-03-30T14:26:30.0577567+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great. So, do you feel comfortable proceeding with the plan? Once you confirm, we can schedule a follow-up in about one to two weeks.",
+      "timestamp": "2026-03-30T14:26:30.9629152+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, that sounds good.",
+      "timestamp": "2026-03-30T14:26:41.4807068+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Wonderful. We'll confirm that plan and schedule a follow-up in one to two weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-03-30T14:26:42.9855262+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, no, I don't think so.",
+      "timestamp": "2026-03-30T14:26:54.4099410+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, that's fine. I'll be here if anything else comes up. Take care, and goodbye.",
+      "timestamp": "2026-03-30T14:26:55.0566755+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

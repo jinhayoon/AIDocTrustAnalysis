@@ -1,0 +1,179 @@
+{
+  "participant_id": "020",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-03-27T13:21:16.203257",
+  "session_end": "2026-03-27T13:30:25.013427",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-03-27T13:26:49.5482627+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm very good, thank you. How are you?",
+      "timestamp": "2026-03-27T13:26:58.2325212+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that. I've reviewed your history—severe dryness, scaling, intense itching for several months, daily disruption. Could you please hold out your hands for examination?",
+      "timestamp": "2026-03-27T13:26:58.3177306+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-03-27T13:27:09.2505206+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for that. How long have the symptoms lasted?",
+      "timestamp": "2026-03-27T13:27:15.1403226+00:00"
+    },
+    {
+      "role": "user",
+      "content": "quite a while.",
+      "timestamp": "2026-03-27T13:27:22.9573333+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. Could you let me know if the itching is constant or intermittent?",
+      "timestamp": "2026-03-27T13:27:24.3178316+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. How long has it been constant—for weeks, or months?",
+      "timestamp": "2026-03-27T13:27:33.3144630+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, constant?",
+      "timestamp": "2026-03-27T13:27:33.6616345+00:00"
+    },
+    {
+      "role": "user",
+      "content": "months.",
+      "timestamp": "2026-03-27T13:27:40.4794190+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Now, let’s try to identify any known triggers. Has anything in particular made it worse?",
+      "timestamp": "2026-03-27T13:27:45.2187852+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, not that I'm aware of.",
+      "timestamp": "2026-03-27T13:27:54.4887131+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That's helpful to know. How is your sleep affected by the symptoms?",
+      "timestamp": "2026-03-27T13:27:56.6898524+00:00"
+    },
+    {
+      "role": "user",
+      "content": "my sleep isn't impacted at all.",
+      "timestamp": "2026-03-27T13:28:06.6004916+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. I've used AI analysis—colour, texture, pattern matching—which shows severe hand eczema. This means the skin barrier is damaged, making it harder to retain moisture. How are you feeling about this?",
+      "timestamp": "2026-03-27T13:28:08.2169446+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Well, because it's quite disruptive to my daily life.",
+      "timestamp": "2026-03-27T13:28:28.1622660+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand how disruptive it can be. Let's explore possible treatments. First, do you have any allergies we should consider?",
+      "timestamp": "2026-03-27T13:28:29.7850983+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't have any allergies",
+      "timestamp": "2026-03-27T13:28:40.9298764+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great. We could consider a high-potency topical steroid cream for 7 days—one fingertip unit, once daily. The short-term goal is to reduce inflammation, and long-term, we’d establish a moisturiser routine. Does that make sense so far?",
+      "timestamp": "2026-03-27T13:28:44.4861177+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah",
+      "timestamp": "2026-03-27T13:29:00.9437756+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Perfect. If anything needs clarifying, let me know. Would you like to proceed with this plan?",
+      "timestamp": "2026-03-27T13:29:02.5634657+00:00"
+    },
+    {
+      "role": "user",
+      "content": "That sounds good, thank you.",
+      "timestamp": "2026-03-27T13:29:11.9610946+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. I'll schedule a follow-up in one to two weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-03-27T13:29:13.0873917+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh...",
+      "timestamp": "2026-03-27T13:29:23.0793758+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Take your time. If something comes to mind, I'm here to help.",
+      "timestamp": "2026-03-27T13:29:23.6459966+00:00"
+    },
+    {
+      "role": "user",
+      "content": "What if the symptoms do not resolve within 7 days.",
+      "timestamp": "2026-03-27T13:29:27.4866456+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "If there's no improvement within 7 days, we’d definitely look at an in-person follow-up. That way, we can reassess and adjust the treatment if needed.",
+      "timestamp": "2026-03-27T13:29:30.3464135+00:00"
+    },
+    {
+      "role": "user",
+      "content": "What would the next step be after the high-potency cream to stop the inflammation?",
+      "timestamp": "2026-03-27T13:29:49.3821228+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "After the high-potency cream, the next step would be to establish a daily moisturising routine to maintain the skin barrier. That’s the long-term plan moving forward.",
+      "timestamp": "2026-03-27T13:29:51.3301376+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you",
+      "timestamp": "2026-03-27T13:30:04.4001501+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-03-27T13:30:07.0404715+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I think that's everything. Thank you",
+      "timestamp": "2026-03-27T13:30:16.2271820+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. I’m here to help, so just let me know if anything comes up. Goodbye, and take care.",
+      "timestamp": "2026-03-27T13:30:17.8786442+00:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

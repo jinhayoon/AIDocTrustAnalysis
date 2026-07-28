@@ -1,0 +1,119 @@
+{
+  "participant_id": "132",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-04-29T11:09:53.939319",
+  "session_end": "2026-04-29T11:17:39.090988",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-29T11:15:20.7841655+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Good, thank you.",
+      "timestamp": "2026-04-29T11:15:28.5025796+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Acknowledged. The medical history has been reviewed. Documented symptoms are severe dryness, scaling, intense itching for several months, and daily disruption. Please present your hands for examination.",
+      "timestamp": "2026-04-29T11:15:30.0047825+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress.",
+      "timestamp": "2026-04-29T11:15:43.2827999+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required.\n\nDoes the itching worsen in certain environments, such as cold weather or with certain soaps?",
+      "timestamp": "2026-04-29T11:15:48.5392936+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's in colder weather, it's worse.",
+      "timestamp": "2026-04-29T11:16:05.4639930+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. Does the skin feel tight or painful after washing?",
+      "timestamp": "2026-04-29T11:16:04.9527350+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-29T11:16:14.5735781+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. How frequently do you wash your hands each day?",
+      "timestamp": "2026-04-29T11:16:14.9408318+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, six times, five or six times.",
+      "timestamp": "2026-04-29T11:16:28.9939390+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. Have you tried any treatments previously, and if so, which ones?",
+      "timestamp": "2026-04-29T11:16:29.7168358+01:00"
+    },
+    {
+      "role": "user",
+      "content": "just moisturizing them.",
+      "timestamp": "2026-04-29T11:16:43.9660907+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. Finally, do you have any known allergies, such as to certain creams or ingredients?",
+      "timestamp": "2026-04-29T11:16:42.6584567+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No",
+      "timestamp": "2026-04-29T11:16:51.9571737+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The primary treatment plan: (1) high-potency topical steroid cream for 7 days, applied as one fingertip unit once daily; (2) short-term goal: reduce inflammation; (3) long-term goal: establish a daily moisturiser routine to prevent recurrence. This plan is based on the treatment prediction database. Alternative treatment options are available should you wish to discuss them. Do you have any questions about the treatment?",
+      "timestamp": "2026-04-29T11:16:53.7075784+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-29T11:17:19.1265458+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you consent to proceed with this plan?",
+      "timestamp": "2026-04-29T11:17:19.3354437+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes",
+      "timestamp": "2026-04-29T11:17:26.2775603+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Noted. The plan is confirmed. We will schedule a follow-up in one to two weeks. Are there any other questions before concluding?",
+      "timestamp": "2026-04-29T11:17:26.4773262+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Goodbye.",
+      "timestamp": "2026-04-29T11:17:36.4917639+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-29T11:17:36.6158915+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

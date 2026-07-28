@@ -1,0 +1,229 @@
+{
+  "participant_id": "122",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-04-28T14:14:48.203947",
+  "session_end": "2026-04-28T14:27:49.002775",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-28T14:20:39.1250549+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I've got this thing on my hand that's very dry and itchy and I've had this symptom for a couple weeks already and I've become sad.",
+      "timestamp": "2026-04-28T14:20:55.6569556+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. I've reviewed your history: severe dryness, scaling, intense itching for several months, and daily disruption. Could you please hold out your hands for examination?",
+      "timestamp": "2026-04-28T14:20:56.6673969+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-28T14:21:10.5904194+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for holding your hand out. First question: how long does the itching last when it starts?",
+      "timestamp": "2026-04-28T14:21:20.2247870+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, it's, like, how long have it been itching, or how long was the first episode of itching?",
+      "timestamp": "2026-04-28T14:21:40.9204845+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for clarifying. How long does the itching typically last—hours, or does it stretch to days?",
+      "timestamp": "2026-04-28T14:21:40.0308542+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Oh, it stretched to days.",
+      "timestamp": "2026-04-28T14:21:51.9766813+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see, thank you for letting me know. Next question: do you notice any redness or swelling along with the itching?",
+      "timestamp": "2026-04-28T14:21:52.3380604+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, there's some swelling at, like, the backside of my hand.",
+      "timestamp": "2026-04-28T14:22:06.3967857+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, I appreciate that information. Let’s move on: have you tried any creams or lotions so far?",
+      "timestamp": "2026-04-28T14:22:06.7127734+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Really?",
+      "timestamp": "2026-04-28T14:22:10.4179494+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, I understand. Let’s continue step-by-step. Do you have any cracking or bleeding on the skin?",
+      "timestamp": "2026-04-28T14:22:10.4189414+01:00"
+    },
+    {
+      "role": "user",
+      "content": "There are some cracks but not much bleeding.",
+      "timestamp": "2026-04-28T14:22:23.3071251+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. How many hours a day would you say your hands feel dry?",
+      "timestamp": "2026-04-28T14:22:23.4217811+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, they're, like, permanently dry.",
+      "timestamp": "2026-04-28T14:22:33.6755764+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for confirming that. Next: do you have any history of allergies or sensitivities to creams or soaps?",
+      "timestamp": "2026-04-28T14:22:34.5139507+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I was...",
+      "timestamp": "2026-04-28T14:22:38.1292955+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for confirming that. I just have one more question: does anything make the dryness or itching better at all?",
+      "timestamp": "2026-04-28T14:22:38.5664866+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, I sometimes apply a cream and it will slightly soothe it.",
+      "timestamp": "2026-04-28T14:22:53.4077523+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. Based on the scan and your symptom history, I considered contact dermatitis and psoriasis as ruled-out differentials. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response, identified through colour, texture, and pattern matching. How are you feeling about this?",
+      "timestamp": "2026-04-28T14:22:56.3177913+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I think I clicked on something.",
+      "timestamp": "2026-04-28T14:23:21.4444530+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That's all right—we'll pause and carry on from where we left off. Could you tell me if you have any allergies?",
+      "timestamp": "2026-04-28T14:23:21.2463527+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Like this",
+      "timestamp": "2026-04-28T14:24:55.4289632+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "No problem at all. Let's get back on track. We were discussing how you're feeling about the diagnosis. Could you let me know how you're feeling about it now?",
+      "timestamp": "2026-04-28T14:24:55.4319964+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Oh, she's back, she's back on.",
+      "timestamp": "2026-04-28T14:25:00.8161083+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that. Now, let's proceed: do you have any allergies to medications or creams?",
+      "timestamp": "2026-04-28T14:25:01.4929098+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, I'm allergic to some, um, like, allergic pills like Puritan, and, um, I also can't take acrylic, like, some kind of acid, that to treat pimples.",
+      "timestamp": "2026-04-28T14:25:28.0956082+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. We'll avoid those ingredients. Now, the primary treatment plan: a high-potency topical steroid cream for 7 days, one fingertip unit once daily, with the short-term goal of reducing inflammation, and long-term to build a daily moisturiser routine. There are also alternative treatment options available if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-04-28T14:25:29.0591711+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Can you explain the alternative options?",
+      "timestamp": "2026-04-28T14:25:56.7838383+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course. The alternatives include calcineurin inhibitors, wet wrap therapy, light therapy, antihistamines, and intensive moisturising. We can consider any of these, depending on your preference. Would you like more details on any specific one?",
+      "timestamp": "2026-04-28T14:25:58.2406533+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, I think I'm okay.",
+      "timestamp": "2026-04-28T14:26:16.6022007+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, let’s proceed with the main plan. Does that all sound okay to you?",
+      "timestamp": "2026-04-28T14:26:17.3238405+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-28T14:26:24.8013478+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s wonderful. I’ll confirm the plan: high-potency topical steroid cream for 7 days, daily fingertip unit, plus a daily moisturiser routine. Let’s schedule a follow-up in about 1 to 2 weeks. Does that work for you?",
+      "timestamp": "2026-04-28T14:26:26.5589854+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, can I, like, report to you anything if I still feel, like, feels worse with the itchy or any, like, burns and stuff with the cream that you prescribed?",
+      "timestamp": "2026-04-28T14:26:54.7072093+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Absolutely, you can report any worsening symptoms, including burning or irritation. That's important, and we can adjust if needed.",
+      "timestamp": "2026-04-28T14:26:54.3803365+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay.",
+      "timestamp": "2026-04-28T14:27:05.2126135+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-04-28T14:27:05.8421808+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, any, like, dietary things I should look out for when I take this medication and with this dryness thing on my hand.",
+      "timestamp": "2026-04-28T14:27:22.8601059+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "In general, there's no specific diet that’s known to directly affect the treatment. However, staying hydrated and maintaining a balanced diet may help overall skin health. If you have any specific concerns, a nutritionist could provide more detail.",
+      "timestamp": "2026-04-28T14:27:24.0162134+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Alright, yeah, thank you.",
+      "timestamp": "2026-04-28T14:27:41.3329621+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. I'm glad we could cover that. Goodbye, and take care.",
+      "timestamp": "2026-04-28T14:27:42.2909947+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

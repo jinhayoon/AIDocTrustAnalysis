@@ -1,0 +1,141 @@
+{
+  "participant_id": "113",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-04-28T10:44:08.597032",
+  "session_end": "2026-04-28T10:52:49.163678",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-28T10:49:32.5390933+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good, thank you.",
+      "timestamp": "2026-04-28T10:49:41.2419019+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm really glad to hear that. I've reviewed your history — severe dryness, scaling, intense itching for several months, daily disruption. Could you please hold out your hands for examination?",
+      "timestamp": "2026-04-28T10:49:41.2393973+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-28T10:49:54.7416445+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for your patience. Now, does the dryness and itching get worse at any particular time of day?",
+      "timestamp": "2026-04-28T10:50:00.2190015+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, it gets worse during the night sometimes, but it's mostly just always bad.",
+      "timestamp": "2026-04-28T10:50:16.0374891+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see, thank you for sharing that. Does the skin ever crack or bleed?",
+      "timestamp": "2026-04-28T10:50:16.0380651+01:00"
+    },
+    {
+      "role": "user",
+      "content": "It does a little bit when it gets really, when I itch it and it kind of scales and then it starts bleeding.",
+      "timestamp": "2026-04-28T10:50:30.4740906+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. How long does the itching typically last each day?",
+      "timestamp": "2026-04-28T10:50:29.2380724+01:00"
+    },
+
+    {
+      "role": "user",
+      "content": "Um, I think it lasts within, like, a couple hours.",
+      "timestamp": "2026-04-28T10:50:40.7041170+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, that’s helpful to know. Does anything in particular, such as soaps or detergents, seem to make it worse?",
+      "timestamp": "2026-04-28T10:50:41.4190395+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, when I wash my hands with soap or wash stuff up, it tends to make it worse.",
+      "timestamp": "2026-04-28T10:50:54.0704115+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That makes sense, thank you for sharing that. Based on the scan and symptom history, I’ve considered contact dermatitis and psoriasis as ruled-out differentials. The confirmed diagnosis is severe hand eczema, due to a damaged skin barrier and an inflammatory response. The AI analysis uses colour, texture, and pattern matching. Reassuringly, we can manage this. How are you feeling about this?",
+      "timestamp": "2026-04-28T10:50:56.9758653+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm feeling okay, it's just very painful.",
+      "timestamp": "2026-04-28T10:51:22.2848853+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm really sorry you're in pain. Let's go forward and address that. Do you have any allergies to medications?",
+      "timestamp": "2026-04-28T10:51:23.4728434+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't.",
+      "timestamp": "2026-04-28T10:51:33.9339717+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, let’s consider the primary treatment plan: (1) a high-potency topical steroid cream for 7 days, one fingertip unit once daily; (2) the short-term goal is to reduce inflammation; (3) long-term, a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you’d like me to explain further?",
+      "timestamp": "2026-04-28T10:51:36.6691271+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, I don't think so. How often should I use the cream on my hands? Like what time of day?",
+      "timestamp": "2026-04-28T10:52:04.7524627+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You can apply the cream once daily, at a time that suits you best — often in the evening after washing your hands. How does that sound to you?",
+      "timestamp": "2026-04-28T10:52:06.1219469+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, that sounds good.",
+      "timestamp": "2026-04-28T10:52:17.8229185+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm happy to proceed.",
+      "timestamp": "2026-04-28T10:52:29.4643500+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Wonderful. I’m glad that works for you. Could you confirm you’re happy to proceed, and we’ll schedule a follow-up in one to two weeks?",
+      "timestamp": "2026-04-28T10:52:18.0193919+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Excellent, we’ll go ahead with the plan as discussed, and I’ll schedule a follow-up for one to two weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-04-28T10:52:29.3641594+01:00"
+    },
+
+    {
+      "role": "user",
+      "content": "I don't think so, no.",
+      "timestamp": "2026-04-28T10:52:41.3193033+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I’m glad we’ve covered everything. I wish you all the best with the treatment. Goodbye.",
+      "timestamp": "2026-04-28T10:52:42.2682630+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

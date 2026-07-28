@@ -1,0 +1,119 @@
+{
+  "participant_id": "003",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-03-24T13:17:19.696498",
+  "session_end": "2026-03-24T13:25:13.940008",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-03-24T13:22:45.6569354+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good.",
+      "timestamp": "2026-03-24T13:22:49.8112518+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The medical history has been reviewed. You’ve reported severe dryness, scaling, and intense itching for several months, with daily disruption. Now, please present your hands for examination.",
+      "timestamp": "2026-03-24T13:22:52.3336233+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-03-24T13:23:07.4025860+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. How long have the symptoms been present?",
+      "timestamp": "2026-03-24T13:23:15.1173723+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Last month?",
+      "timestamp": "2026-03-24T13:23:25.0499228+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Is the itching constant or intermittent?",
+      "timestamp": "2026-03-24T13:23:34.2472708+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Intermittent",
+      "timestamp": "2026-03-24T13:23:39.8868726+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. Are there identifiable triggers?",
+      "timestamp": "2026-03-24T13:23:40.0051086+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-03-24T13:23:47.2421444+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Noted. Is sleep affected by the symptoms?",
+      "timestamp": "2026-03-24T13:23:47.6674279+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes",
+      "timestamp": "2026-03-24T13:23:54.3645778+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. That has been recorded. \n\nNow, I will explain the AI analysis. The comparison of colour, texture, and pattern suggests severe hand eczema. The skin barrier is damaged, leading to inflammation. Treatment is available. Is the diagnosis understood?",
+      "timestamp": "2026-03-24T13:23:55.0805567+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-03-24T13:24:11.3520354+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Excellent. Are you aware of any allergies to medications or creams?",
+      "timestamp": "2026-03-24T13:24:12.0606258+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No, none that I'm aware of.",
+      "timestamp": "2026-03-24T13:24:19.9144256+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Very well. The recommended treatment is a high-potency topical steroid cream for 7 days—one fingertip unit, once daily. The short-term goal is to reduce inflammation, and the long-term protocol is to establish a regular moisturiser routine to prevent recurrence. Is the treatment plan acceptable? Do you wish to proceed?",
+      "timestamp": "2026-03-24T13:24:23.4124110+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's good",
+      "timestamp": "2026-03-24T13:24:41.7680234+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The prescription is confirmed: a high-potency topical steroid cream for 7 days, one fingertip unit once daily. The short-term goal is to reduce inflammation, followed by a long-term moisturiser routine. We will schedule a follow-up in 1 to 2 weeks. \n\nAre there any other questions before concluding?",
+      "timestamp": "2026-03-24T13:24:43.7274961+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No, that's good. Thank you.",
+      "timestamp": "2026-03-24T13:25:03.5768856+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Noted. To summarise: you will use the topical steroid cream as instructed, follow up in 1 to 2 weeks, and establish a moisturiser routine. Goodbye.",
+      "timestamp": "2026-03-24T13:25:03.6916180+00:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

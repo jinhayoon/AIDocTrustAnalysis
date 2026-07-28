@@ -1,0 +1,189 @@
+{
+  "participant_id": "008",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-03-25T14:16:09.871640",
+  "session_end": "2026-03-25T14:25:19.605387",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-03-25T14:21:49.8114638+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that, thank you. I've reviewed your history—severe dryness, scaling, intense itching for several months, and daily disruption. Could you please hold out your hands for me to examine?",
+      "timestamp": "2026-03-25T14:21:59.6728896+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good, how are you?",
+      "timestamp": "2026-03-25T14:22:00.2186150+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress... \n\nThank you for holding your hands out. I'll take a moment.",
+      "timestamp": "2026-03-25T14:22:13.3928536+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. How long have the symptoms lasted?",
+      "timestamp": "2026-03-25T14:22:22.0427698+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. So, around three months. Is the itching constant, or does it come and go?",
+      "timestamp": "2026-03-25T14:22:29.8939009+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, like three months.",
+      "timestamp": "2026-03-25T14:22:30.3561916+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Eh.",
+      "timestamp": "2026-03-25T14:22:38.3135428+00:00"
+    },
+    {
+      "role": "user",
+      "content": "comes and goes depending on if I'm distracted or not.",
+      "timestamp": "2026-03-25T14:22:43.3443454+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see, thank you for that detail. Are there any known triggers that seem to make it worse?",
+      "timestamp": "2026-03-25T14:22:43.8410341+00:00"
+    },
+    {
+      "role": "user",
+      "content": "when I'm stressed.",
+      "timestamp": "2026-03-25T14:22:52.3768247+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. And how is your sleep affected by the symptoms?",
+      "timestamp": "2026-03-25T14:22:52.6963689+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, I can't sleep much because of it.",
+      "timestamp": "2026-03-25T14:23:02.5952054+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry to hear that. It sounds quite disruptive. \n\nNow, I’ve used the AI analysis—looking at colour, texture, and patterns—and I’d diagnose severe hand eczema. This means your skin barrier is damaged, which is why it’s so dry and irritated. \n\nHow are you feeling about this so far?",
+      "timestamp": "2026-03-25T14:23:04.4776887+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, let's consider the next step. Do you have any allergies we should take into account?",
+      "timestamp": "2026-03-25T14:23:25.7249444+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, fine.",
+      "timestamp": "2026-03-25T14:23:26.8084292+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No",
+      "timestamp": "2026-03-25T14:23:32.8988721+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for confirming. In that case, we could try a high-potency topical steroid cream for seven days—just one fingertip unit, once daily. This would help in the short term. We’d also look at a long-term moisturising routine. How does that sound to you?",
+      "timestamp": "2026-03-25T14:23:34.0591349+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, a bit extreme.",
+      "timestamp": "2026-03-25T14:23:50.9295631+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. Let’s explore what feels comfortable for you. Are there specific concerns or alternatives you’d like to discuss further?",
+      "timestamp": "2026-03-25T14:23:51.7591750+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s absolutely fine. Could you let me know what your main concern is with the treatment, so we can find a suitable approach together?",
+      "timestamp": "2026-03-25T14:24:02.2218302+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Uhm?",
+      "timestamp": "2026-03-25T14:24:02.5027339+00:00"
+    },
+    {
+      "role": "user",
+      "content": "listies of what they could be.",
+      "timestamp": "2026-03-25T14:24:06.7911366+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course. We could consider a gentler approach first, such as an intensive moisturiser. We can then reassess after that. Does that sound like a good option to start with?",
+      "timestamp": "2026-03-25T14:24:07.2099892+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, because you're AI.",
+      "timestamp": "2026-03-25T14:24:21.1810000+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. Let's go step-by-step, ensuring you're comfortable. Would you like to go ahead with starting a gentle moisturiser first, and see how that feels?",
+      "timestamp": "2026-03-25T14:24:21.4536073+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, let’s plan to start with that, and we’ll build from there. Just to confirm, I’ll recommend a moisturiser twice daily. Does that sound alright?",
+      "timestamp": "2026-03-25T14:24:33.9664727+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah.",
+      "timestamp": "2026-03-25T14:24:37.9675775+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-03-25T14:24:46.1001348+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Wonderful. We'll proceed with the moisturiser first, and we can follow up in a week or two. How does that sound?",
+      "timestamp": "2026-03-25T14:24:46.2152962+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad that sounds good. Let’s check in after about a week. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-03-25T14:24:58.7090507+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Oh, good. Okay.",
+      "timestamp": "2026-03-25T14:24:59.5853673+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Um...",
+      "timestamp": "2026-03-25T14:25:08.2309429+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Thank you.",
+      "timestamp": "2026-03-25T14:25:09.0611970+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "No worries, take your time. If anything else comes up, we can address it. For now, I’ll reassure you and wish you all the best. Goodbye.",
+      "timestamp": "2026-03-25T14:25:09.5344731+00:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

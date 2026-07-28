@@ -1,0 +1,169 @@
+{
+  "participant_id": "108",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-04-28T09:12:25.594066",
+  "session_end": "2026-04-28T09:22:14.794114",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-28T09:18:11.6724487+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good, thank you. How are you?",
+      "timestamp": "2026-04-28T09:18:19.1156361+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. The medical history has been reviewed: severe dryness, scaling, intense itching for several months, daily disruption. Please present your hands for examination.",
+      "timestamp": "2026-04-28T09:18:19.7458474+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-28T09:18:33.2140936+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. I will ask a few questions. First: how long have you noticed the itching?",
+      "timestamp": "2026-04-28T09:18:41.1867851+01:00"
+    },
+    {
+      "role": "user",
+      "content": "4 months.",
+      "timestamp": "2026-04-28T09:18:52.7180801+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. Next question: Do you experience any cracking of the skin?",
+      "timestamp": "2026-04-28T09:18:52.4106366+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, lots of scaling and it's very itchy.",
+      "timestamp": "2026-04-28T09:19:04.2206137+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. Next: is there any swelling or redness present?",
+      "timestamp": "2026-04-28T09:19:04.8377225+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, all over.",
+      "timestamp": "2026-04-28T09:19:15.3764194+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. That has been noted. Next question: do you have any history of allergies?",
+      "timestamp": "2026-04-28T09:19:14.1426232+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I do",
+      "timestamp": "2026-04-28T09:19:23.6786393+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Acknowledged. The confirmed diagnosis is severe hand eczema, due to a damaged skin barrier and an inflammatory response, based on colour, texture, and pattern matching. Contact dermatitis and psoriasis are ruled out. Is the diagnosis understood?",
+      "timestamp": "2026-04-28T09:19:25.1955634+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, so what made you think that I have eczema and why did you rule out dermatitis and psoriasis?",
+      "timestamp": "2026-04-28T09:20:25.2745768+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the scan and symptom history, several conditions were considered: contact dermatitis and psoriasis were ruled out due to the specific colour, texture, and pattern observed. The confirmed diagnosis is severe hand eczema. Is the diagnosis understood?",
+      "timestamp": "2026-04-28T09:20:25.9105257+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes",
+      "timestamp": "2026-04-28T09:19:42.0591129+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any allergies?",
+      "timestamp": "2026-04-28T09:19:42.2743222+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I have a nut and peanut allergy",
+      "timestamp": "2026-04-28T09:19:50.3952880+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Noted. The primary treatment plan is as follows: a high-potency topical steroid cream for 7 days, one fingertip unit once daily. The short-term goal is to reduce inflammation, and the long-term goal is to establish a daily moisturiser routine to prevent recurrence, according to the treatment prediction database. Alternative treatment options are available should you wish to discuss them. Do you have any questions about the treatment?",
+      "timestamp": "2026-04-28T09:19:51.9157436+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-28T09:20:42.1901443+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Now, do you have any questions about the treatment?",
+      "timestamp": "2026-04-28T09:20:42.3070761+01:00"
+    },
+    {
+      "role": "user",
+      "content": "What do I do if it doesn't work?",
+      "timestamp": "2026-04-28T09:20:52.2386150+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "If there is no improvement after two weeks, a follow-up appointment will be required. At that point, stronger options should be considered, such as immunosuppressants, biologic therapy, or referral to a dermatologist. The treatment protocol will be adjusted based on clinical response.",
+      "timestamp": "2026-04-28T09:20:53.1342382+01:00"
+    },
+    {
+      "role": "user",
+      "content": "How do I know if it's infected and what do I do if it bleeds before I finish the treatment?",
+      "timestamp": "2026-04-28T09:21:18.0610630+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "If there are signs of infection, such as increased redness, swelling, pus, or if the area becomes very painful, you should seek in-person medical attention. If it bleeds, keep the area clean, apply pressure, and contact a healthcare professional promptly. Now, are there any other questions before concluding?",
+      "timestamp": "2026-04-28T09:21:19.5055857+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, that's okay, thank you.",
+      "timestamp": "2026-04-28T09:21:42.2695605+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. I’ll confirm the plan: high-potency topical steroid cream for 7 days, one fingertip unit once daily, plus a daily moisturiser routine afterwards. I’ll schedule a follow-up in 1–2 weeks. Do you consent to proceed?",
+      "timestamp": "2026-04-28T09:21:42.9841084+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-28T09:21:58.2322893+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Good. The plan is confirmed, and I’ll schedule a follow-up in 1–2 weeks. Are there any other questions before concluding?",
+      "timestamp": "2026-04-28T09:21:59.4110906+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, thank you.",
+      "timestamp": "2026-04-28T09:22:09.3520011+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Very well. I wish you well. Goodbye.",
+      "timestamp": "2026-04-28T09:22:10.3485193+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

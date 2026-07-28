@@ -1,0 +1,144 @@
+{
+  "participant_id": "090",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-04-24T09:41:16.071179",
+  "session_end": "2026-04-24T09:49:34.799302",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-24T09:46:45.7773655+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I'm fine, thank you.",
+      "timestamp": "2026-04-24T09:46:52.9485791+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Noted. The medical history has been reviewed: severe dryness, scaling, intense itching for several months, daily disruption. Please present your hands for examination.",
+      "timestamp": "2026-04-24T09:46:54.0451112+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-24T09:47:06.3847931+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. \n\nFirst: has there been any recent change in soaps or detergents you use?",
+      "timestamp": "2026-04-24T09:47:13.3031224+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, there is not.",
+      "timestamp": "2026-04-24T09:47:23.8603648+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. \n\nNext: do you have any history of allergies, such as to nickel, fragrances, or certain foods?",
+      "timestamp": "2026-04-24T09:47:24.6036401+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That information has been recorded. \n\nThird: how long does the itching typically last each day?",
+      "timestamp": "2026-04-24T09:47:34.8909394+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Nope",
+      "timestamp": "2026-04-24T09:47:35.6058186+01:00"
+    },
+    {
+      "role": "user",
+      "content": "That's for pretty much the whole day.",
+      "timestamp": "2026-04-24T09:47:45.2583015+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. \n\nFourth: have you tried any treatments yourself, such as creams or ointments?",
+      "timestamp": "2026-04-24T09:47:45.9218538+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Ah, not yet.",
+      "timestamp": "2026-04-24T09:47:55.8905208+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. \n\nFifth: is there any cracking or bleeding on the skin?",
+      "timestamp": "2026-04-24T09:47:56.5333907+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. That has been noted.",
+      "timestamp": "2026-04-24T09:48:05.4578871+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, there is.",
+      "timestamp": "2026-04-24T09:48:05.5678969+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the scan and symptom history, several conditions were considered, including contact dermatitis and psoriasis, which have been ruled out. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and inflammatory response, determined through colour, texture, and pattern matching. Is the diagnosis understood?",
+      "timestamp": "2026-04-24T09:48:14.5309066+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes",
+      "timestamp": "2026-04-24T09:48:34.6761266+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Do you have any known allergies?",
+      "timestamp": "2026-04-24T09:48:35.2172447+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-24T09:48:42.4265144+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The primary treatment plan is as follows: a high-potency topical steroid cream, to be applied for seven days, one fingertip unit once daily, with the short-term goal of reducing inflammation, and the long-term goal of a daily moisturiser routine to prevent recurrence, according to the treatment prediction database. Alternative treatment options are available should you wish to discuss them.\n\nDo you have any questions about the treatment?",
+      "timestamp": "2026-04-24T09:48:44.2165300+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-24T09:49:10.4420912+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you consent to proceed with the plan and schedule a follow-up in one to two weeks?",
+      "timestamp": "2026-04-24T09:49:11.0454587+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-24T09:49:19.1461331+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Confirmed. The plan is set, and we will schedule a follow-up in one to two weeks. Are there any other questions before concluding?",
+      "timestamp": "2026-04-24T09:49:20.1723544+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Very well. I wish you well. Goodbye.",
+      "timestamp": "2026-04-24T09:49:30.7144044+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-24T09:49:31.0415061+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

@@ -1,0 +1,219 @@
+{
+  "participant_id": "017",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-03-27T10:01:24.745872",
+  "session_end": "2026-03-27T10:14:23.963888",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-03-27T10:09:55.6380089+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I'm good, thank you.",
+      "timestamp": "2026-03-27T10:10:03.3855925+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know, Goe. I've reviewed your history: severe dryness, scaling, intense itching for several months, daily disruption. Could you hold out your hands for examination?",
+      "timestamp": "2026-03-27T10:10:04.5342967+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-03-27T10:10:17.4737275+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, sure.",
+      "timestamp": "2026-03-27T10:10:17.8912140+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for your patience. How long have the symptoms lasted?",
+      "timestamp": "2026-03-27T10:10:22.2931317+00:00"
+    },
+    {
+      "role": "user",
+      "content": "about three weeks.",
+      "timestamp": "2026-03-27T10:10:30.5632142+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Is the itching constant or intermittent?",
+      "timestamp": "2026-03-27T10:10:30.8091386+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see, thank you. Any known triggers that seem to make it worse?",
+      "timestamp": "2026-03-27T10:10:38.7674451+00:00"
+    },
+    {
+      "role": "user",
+      "content": "It is intimacy",
+      "timestamp": "2026-03-27T10:10:39.0214173+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. How is your sleep affected?",
+      "timestamp": "2026-03-27T10:10:46.5176604+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I know.",
+      "timestamp": "2026-03-27T10:10:47.2575798+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Actually, I was scratching a lot sometimes. On that case, I was not able to sleep very well. Even in the midnight, I was waking up from the sleep and then scratching my hands.",
+      "timestamp": "2026-03-27T10:11:09.2812998+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. I'll explain the findings now: I've used AI analysis—looking at colour, texture, pattern matching—and the diagnosis suggests severe hand eczema. This means the skin barrier is damaged, allowing moisture to escape and irritants to enter. How are you feeling about this?",
+      "timestamp": "2026-03-27T10:11:10.9603491+00:00"
+    },
+    {
+      "role": "user",
+      "content": "That's good, thank you.",
+      "timestamp": "2026-03-27T10:11:31.1933807+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad that’s helpful to hear. Could you let me know if you have any allergies to medications?",
+      "timestamp": "2026-03-27T10:11:31.4769346+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Mmm.",
+      "timestamp": "2026-03-27T10:11:40.3676241+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, if you're not sure, we could note that down, but let’s proceed with the treatment. Would you like to confirm that there are no known allergies?",
+      "timestamp": "2026-03-27T10:11:41.5568814+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I feel like I'm a healthy person and I don't use much more medicine.",
+      "timestamp": "2026-03-27T10:11:48.5242062+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, and it’s good to know your preferences. We could consider a gentle approach first, but I’d like to check—have you had any allergies in the past?",
+      "timestamp": "2026-03-27T10:11:49.9999773+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yep.",
+      "timestamp": "2026-03-27T10:11:53.2609682+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Let me gently ask again: do you have any known allergies to medications?",
+      "timestamp": "2026-03-27T10:11:53.5564203+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I know.",
+      "timestamp": "2026-03-27T10:12:01.7337212+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. In that case, we could try a high-potency topical steroid cream for 7 days—just one fingertip unit, once daily. The short-term goal is to reduce inflammation, and then we can build a moisturiser routine to protect your skin. Does that sound okay?",
+      "timestamp": "2026-03-27T10:12:03.8882265+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, thank you.",
+      "timestamp": "2026-03-27T10:12:19.9468389+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. So, I’d recommend a high-potency topical steroid cream for 7 days—one fingertip unit, once daily—short-term to reduce inflammation. The long-term plan is a regular moisturiser routine. Does that need any further explanation?",
+      "timestamp": "2026-03-27T10:12:21.6671623+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course, let me know if you'd like more details on any part of that plan.",
+      "timestamp": "2026-03-27T10:12:39.8932197+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Oh, thank you. It was clear.",
+      "timestamp": "2026-03-27T10:12:40.7541459+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh...",
+      "timestamp": "2026-03-27T10:12:47.9341223+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Is there any hand washer also to apply it or wash my hands after applying the cream on my hands?",
+      "timestamp": "2026-03-27T10:12:58.5707798+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s a good question. It’s best to use a gentle, fragrance-free cleanser before application, and to avoid washing your hands immediately after applying the cream—wait at least a few minutes. Would you like recommendations for specific hand wash products?",
+      "timestamp": "2026-03-27T10:12:59.6405307+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Oh, I don't know. I just want you to offer me something.",
+      "timestamp": "2026-03-27T10:13:18.7210215+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly. I can suggest a mild, fragrance-free hand wash, and we could consider using lukewarm water instead of hot. Does that sound helpful?",
+      "timestamp": "2026-03-27T10:13:19.5830454+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. Is there anything else you'd like to discuss or need clarification on?",
+      "timestamp": "2026-03-27T10:13:32.3956689+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it's good. Thank you",
+      "timestamp": "2026-03-27T10:13:32.4383481+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I want to know if it is something genetic or is something from the environment affected that why it happens to our hands.",
+      "timestamp": "2026-03-27T10:13:50.7994893+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s a thoughtful question. It could be a combination—sometimes genetics and sometimes environmental factors, such as frequent hand washing, soaps, or exposure to irritants. We could consider both. Does that help?",
+      "timestamp": "2026-03-27T10:13:51.1169324+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. Thank you.",
+      "timestamp": "2026-03-27T10:14:06.7587704+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-03-27T10:14:07.2894004+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. I'm glad I could assist. Goodbye, and I wish you all the best.",
+      "timestamp": "2026-03-27T10:14:16.5454449+00:00"
+    },
+    {
+      "role": "user",
+      "content": "So, thank you so much.",
+      "timestamp": "2026-03-27T10:14:17.2860306+00:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

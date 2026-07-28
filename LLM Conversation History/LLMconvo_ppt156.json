@@ -1,0 +1,151 @@
+{
+  "participant_id": "156",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "model": "gpt-realtime-2025-08-28",
+  "session_start": "2026-05-05T11:16:39.842416",
+  "session_end": "2026-05-05T11:26:26.074051",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-05-05T11:22:11.2641820+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm not doing that great. I've been really struggling to sleep. I'm experiencing severe dryness. My hands are really sore and they're scaling.",
+      "timestamp": "2026-05-05T11:22:29.7968020+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Your medical history has been reviewed. Documented symptoms include severe dryness, scaling, intense itching for several months, and daily disruption. The examination is required for accurate diagnosis. Please present your hands when ready.",
+      "timestamp": "2026-05-05T11:22:32.5794680+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress.",
+      "timestamp": "2026-05-05T11:22:52.1237921+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. Are your symptoms worse at particular times of day?",
+      "timestamp": "2026-05-05T11:23:01.1167312+01:00"
+    },
+    {
+      "role": "user",
+      "content": "and they're worse in the evening.",
+      "timestamp": "2026-05-05T11:23:10.6899775+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. Do you notice any fluid-filled blisters on your hands?",
+      "timestamp": "2026-05-05T11:23:11.3545892+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Not right now, no.",
+      "timestamp": "2026-05-05T11:23:20.9360999+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. Do your hands ever bleed from cracks or fissures?",
+      "timestamp": "2026-05-05T11:23:22.2858430+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, all the time.",
+      "timestamp": "2026-05-05T11:23:31.3682937+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Have you been exposed to any new soaps, detergents, or chemicals recently?",
+      "timestamp": "2026-05-05T11:23:31.0129758+01:00"
+    },
+
+    {
+      "role": "user",
+      "content": "No, I use all chemical and soap-free wash so it doesn't irritate my hands.",
+      "timestamp": "2026-05-05T11:23:44.6554215+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been noted. Have you noticed any involvement of other body areas besides your hands?",
+      "timestamp": "2026-05-05T11:23:45.8109680+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Just slightly up my arms, but not my hand, not anywhere else.",
+      "timestamp": "2026-05-05T11:23:59.2081629+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Acknowledged. Based on the scan and symptom history, several conditions were considered, such as contact dermatitis and psoriasis, which have been ruled out. The confirmed diagnosis is severe hand eczema. This is due to a damaged skin barrier and an inflammatory response. The AI analysis relied on colour, texture, and pattern matching to reach this conclusion. Is the diagnosis understood?",
+      "timestamp": "2026-05-05T11:24:04.1730298+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the diagnosis is understood.",
+      "timestamp": "2026-05-05T11:24:29.2895565+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any known allergies to medications or topical treatments?",
+      "timestamp": "2026-05-05T11:24:29.9878002+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I cannot take any sort of anti-inflammatory steroids.",
+      "timestamp": "2026-05-05T11:24:42.0511232+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. In that case, an alternative treatment plan is required. We can consider a calcineurin inhibitor ointment, applied twice daily, to reduce inflammation without using steroids. Wet wrap therapy may also help with hydration and healing. Phototherapy could be another option to manage inflammation. Oral antihistamines might assist with itching. An emollient-only approach is also possible, though less potent. Do you have any questions about these alternatives?",
+      "timestamp": "2026-05-05T11:24:47.4199182+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, no.",
+      "timestamp": "2026-05-05T11:25:14.6867024+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Confirmed. We will proceed with the non-steroidal plan. A calcineurin inhibitor ointment applied twice daily and adjunctive wet wrap therapy will be the initial approach. Regular emollient use will be essential for long-term barrier maintenance. Do you consent to this treatment plan?",
+      "timestamp": "2026-05-05T11:25:18.0704621+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I do, I just have another question.",
+      "timestamp": "2026-05-05T11:25:36.9056699+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any other questions before concluding?",
+      "timestamp": "2026-05-05T11:25:37.2915749+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, if this doesn't work, what should I do? Because I'm already, I had suspected it was eczema already and I've been making sure my hands are moisturised, what should I do? Because that's not seemed to be doing anything.",
+      "timestamp": "2026-05-05T11:26:01.8789314+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "If there is no improvement after 2 weeks, a follow-up appointment will be required. At that point, stronger options should be considered such as immunosuppressants, biologic therapy, or referral to a dermatologist. The treatment protocol will be adjusted based on clinical response. Are there any other questions before concluding?",
+      "timestamp": "2026-05-05T11:26:03.9432233+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-05-05T11:26:22.0027744+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Wishing you well. Goodbye.",
+      "timestamp": "2026-05-05T11:26:22.5527696+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

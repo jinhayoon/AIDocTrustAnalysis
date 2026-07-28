@@ -1,0 +1,149 @@
+{
+  "participant_id": "074",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-04-22T11:38:07.105530",
+  "session_end": "2026-04-22T11:47:22.873029",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-22T11:43:47.4255040+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good, thank you. How are you?",
+      "timestamp": "2026-04-22T11:43:55.1448493+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that. I've reviewed your history: severe dryness, scaling, intense itching for several months, daily disruption. Could you hold out your hands for examination?",
+      "timestamp": "2026-04-22T11:43:56.0122254+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-22T11:44:12.3640685+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. How would you describe the level of itching right now on a scale from 1 to 10?",
+      "timestamp": "2026-04-22T11:44:19.2865424+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, I understand. How long have you had this level of itching?",
+      "timestamp": "2026-04-22T11:44:30.6806280+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I would say a seven.",
+      "timestamp": "2026-04-22T11:44:31.4608459+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thanks, noted. How about any changes in skin texture—has it become rougher or smoother?",
+      "timestamp": "2026-04-22T11:44:42.6533295+01:00"
+    },
+    {
+      "role": "user",
+      "content": "for a couple of weeks now, I think like two weeks.",
+      "timestamp": "2026-04-22T11:44:43.3011067+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, I see. Does the skin feel tight or is it cracking at all?",
+      "timestamp": "2026-04-22T11:44:55.9391764+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I believe it's become rougher and very textured.",
+      "timestamp": "2026-04-22T11:44:56.1900788+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I think it's both like cracking and tight on the skin.",
+      "timestamp": "2026-04-22T11:45:08.7509193+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for clarifying that. Are there any areas that are particularly painful or swollen?",
+      "timestamp": "2026-04-22T11:45:09.3474079+01:00"
+    },
+    {
+      "role": "user",
+      "content": "not swollen but I think like on top of my hands are a bit more like itching.",
+      "timestamp": "2026-04-22T11:45:27.0944820+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, I understand. Based on the scan and your symptoms—severe dryness, scaling, intense itching—I've considered possible conditions like contact dermatitis and psoriasis. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and inflammatory response, identified through colour, texture, and pattern matching. How are you feeling about this?",
+      "timestamp": "2026-04-22T11:45:28.8437313+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I believe that's right.",
+      "timestamp": "2026-04-22T11:45:54.9333056+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. Could you tell me if you have any allergies?",
+      "timestamp": "2026-04-22T11:45:55.4437380+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I do not.",
+      "timestamp": "2026-04-22T11:46:02.9586794+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Perfect. The primary treatment plan is as follows: a high-potency topical steroid cream for 7 days, one fingertip unit once daily, with the short-term goal of reducing inflammation, and the long-term goal of establishing a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-04-22T11:46:05.0838078+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "A good time to apply is once daily, and many find it helpful to use it in the evening before bed, but the key is consistency. Would that timing work for you?",
+      "timestamp": "2026-04-22T11:46:39.3119657+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I was just wondering, do I use the cream once a day and is there like a specific time that I should be putting it on maybe like overnight or in the morning?",
+      "timestamp": "2026-04-22T11:46:39.4027623+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. Does that sound clear to you? Are you ready to proceed with the plan?",
+      "timestamp": "2026-04-22T11:46:52.3447116+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, perfect. Thank you.",
+      "timestamp": "2026-04-22T11:46:52.6559696+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am",
+      "timestamp": "2026-04-22T11:47:00.3258962+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Wonderful. I’m glad we’re on the same page. We’ll confirm the plan, and I'll schedule a follow-up in 1 to 2 weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-04-22T11:47:01.2418409+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I think that's all.",
+      "timestamp": "2026-04-22T11:47:14.0737505+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, thank you for letting me know. I'll be here if you need anything. Goodbye, and take care.",
+      "timestamp": "2026-04-22T11:47:14.6375495+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

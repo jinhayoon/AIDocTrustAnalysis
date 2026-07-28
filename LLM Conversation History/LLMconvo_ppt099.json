@@ -1,0 +1,194 @@
+{
+  "participant_id": "099",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-04-24T15:19:02.784689",
+  "session_end": "2026-04-24T15:31:20.552317",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-24T15:25:10.1895893+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good, thank you.",
+      "timestamp": "2026-04-24T15:25:17.1939677+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The medical history has been reviewed. Documented symptoms include severe dryness, scaling, intense itching for several months, and daily disruption. Please present your hands for examination.",
+      "timestamp": "2026-04-24T15:25:18.3460340+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-24T15:25:33.1376767+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay? Yeah.",
+      "timestamp": "2026-04-24T15:25:33.7033528+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. What level of pain or discomfort are you currently experiencing?",
+      "timestamp": "2026-04-24T15:25:51.6205327+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, I mean, not that much, like, right now, but it's just a bit annoying.",
+      "timestamp": "2026-04-24T15:26:07.0146268+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. Next, how frequently do you apply any creams or moisturisers?",
+      "timestamp": "2026-04-24T15:26:07.2899306+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. Let’s proceed. How long does the itching last each day?",
+      "timestamp": "2026-04-24T15:26:10.7508979+01:00"
+    },
+    {
+      "role": "user",
+      "content": "And stuff",
+      "timestamp": "2026-04-24T15:26:10.8871295+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, it's kind of like, it's kind of on and off I guess, just like sometimes I don't really feel it, but other times it gets like, just kind of annoying for like up to, you know, sort of 20 minutes, 30 minutes at a time.",
+      "timestamp": "2026-04-24T15:26:33.3462929+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Noted. That has been recorded. Is there any visible cracking or bleeding on the skin?",
+      "timestamp": "2026-04-24T15:26:33.5076135+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. That has been recorded. Are you currently using any creams or treatments at the moment?",
+      "timestamp": "2026-04-24T15:27:47.8419117+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Right now, like, a little bit. 咬著 咬著 咬著 咬著 ... 咬著 咬著 咬著 ... OK, now I'm back, I'm back, I'm back.",
+      "timestamp": "2026-04-24T15:27:47.9244511+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, just a very basic sort of like moisturizer I guess for my hand, but not really anything like prescribed.",
+      "timestamp": "2026-04-24T15:28:04.8983746+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. Are there any factors that seem to trigger or worsen the symptoms?",
+      "timestamp": "2026-04-24T15:28:05.4337749+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, yeah, I mean I think when I like, when they're like itching a lot and I scratch them it can definitely make it worse. I try not to scratch it that much, but sometimes it's hard not to.",
+      "timestamp": "2026-04-24T15:28:25.4156838+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. That has been noted. Based on the scan and symptom history, several conditions were considered—contact dermatitis and psoriasis, for example, were ruled out. The confirmed diagnosis is severe hand eczema, due to a damaged skin barrier and inflammatory response. The diagnosis is based on colour, texture, and pattern matching. Is the diagnosis understood?",
+      "timestamp": "2026-04-24T15:28:27.8796390+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Ah, yes.",
+      "timestamp": "2026-04-24T15:28:50.8314431+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Are you aware of any allergies you might have?",
+      "timestamp": "2026-04-24T15:28:51.8361893+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I do have an analogy to penicillin, but that's about it. I don't have any others.",
+      "timestamp": "2026-04-24T15:29:06.5015463+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The primary treatment plan is as follows: one, a high-potency topical steroid cream for seven days, one fingertip unit once daily; two, the short-term goal is to reduce inflammation; three, the long-term goal is a daily moisturiser routine to prevent recurrence, according to the treatment prediction database. Alternative treatment options are available should you wish to discuss them. Do you have any questions about the treatment?",
+      "timestamp": "2026-04-24T15:29:08.3358382+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Take your time. Please let me know when you're ready to continue.",
+      "timestamp": "2026-04-24T15:29:40.4996723+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, so you just said... Oh, something just popped up again. Hold on. Burp.",
+      "timestamp": "2026-04-24T15:29:40.6234632+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Acknowledged. We can redirect to the consultation. Let us proceed with the treatment plan. Are there any other concerns at this point?",
+      "timestamp": "2026-04-24T15:30:05.1952694+01:00"
+    },
+    {
+      "role": "user",
+      "content": "it's like this thing that says uh streaming and then it's like quit back to lobby it's like a menu sort of thing i can just close it though hold on there you go i don't know why it pops up though",
+      "timestamp": "2026-04-24T15:30:05.2399014+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, so you said just apply the cream like once per day, right? Like one fingertip?",
+      "timestamp": "2026-04-24T15:30:20.3718304+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, that is correct. One fingertip unit of the cream once daily for seven days.",
+      "timestamp": "2026-04-24T15:30:21.4348921+01:00"
+    },
+    {
+      "role": "user",
+      "content": "And it doesn't matter when I apply the cream, like in the morning or evening or what.",
+      "timestamp": "2026-04-24T15:30:35.1966802+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The timing should be consistent, but it’s generally recommended to apply it at a convenient time, such as after washing your hands or before bed. The exact time is up to you.",
+      "timestamp": "2026-04-24T15:30:35.8548991+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I have no more questions then.",
+      "timestamp": "2026-04-24T15:30:50.4443767+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Very well. Do you consent to the treatment plan, and would you like to schedule a follow-up in one to two weeks?",
+      "timestamp": "2026-04-24T15:30:51.7482371+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, yeah, sure. I consent. And yeah, a follow-up would be good.",
+      "timestamp": "2026-04-24T15:31:03.7434227+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Noted. The plan is confirmed, and we will schedule a follow-up in one to two weeks. Are there any other questions before concluding?",
+      "timestamp": "2026-04-24T15:31:05.0709031+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, nope.",
+      "timestamp": "2026-04-24T15:31:16.0137664+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Goodbye.",
+      "timestamp": "2026-04-24T15:31:16.5018939+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

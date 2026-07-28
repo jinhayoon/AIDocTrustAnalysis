@@ -1,0 +1,149 @@
+{
+  "participant_id": "014",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-03-26T14:08:46.398041",
+  "session_end": "2026-03-26T14:17:06.494009",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-03-26T14:14:26.8820002+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Good? How about you?",
+      "timestamp": "2026-03-26T14:14:36.2692818+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm really glad to hear that. I've reviewed your history—severe dryness, scaling, intense itching for several months, daily disruption. Could you hold out your hands for the examination, please?",
+      "timestamp": "2026-03-26T14:14:36.7784160+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress... Please hold your hand steady.",
+      "timestamp": "2026-03-26T14:14:50.2165015+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. How long have the symptoms lasted?",
+      "timestamp": "2026-03-26T14:14:59.6810280+00:00"
+    },
+    {
+      "role": "user",
+      "content": "two weeks.",
+      "timestamp": "2026-03-26T14:15:08.2537633+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Is the itching constant or intermittent?",
+      "timestamp": "2026-03-26T14:15:08.9743141+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. Any known triggers for the flare-up?",
+      "timestamp": "2026-03-26T14:15:16.5469771+00:00"
+    },
+    {
+      "role": "user",
+      "content": "constant.",
+      "timestamp": "2026-03-26T14:15:17.7259805+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Nope.",
+      "timestamp": "2026-03-26T14:15:24.5112465+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. How is your sleep affected?",
+      "timestamp": "2026-03-26T14:15:24.8937472+00:00"
+    },
+    {
+      "role": "user",
+      "content": "bad",
+      "timestamp": "2026-03-26T14:15:32.0454966+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. The diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response. The AI analysis was based on colour, texture, and pattern matching. How are you feeling about this?",
+      "timestamp": "2026-03-26T14:15:33.7737516+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That's absolutely understandable. Let's take it step by step. Could you tell me if you have any allergies?",
+      "timestamp": "2026-03-26T14:15:53.8255942+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I think so, may be, not sure.",
+      "timestamp": "2026-03-26T14:15:53.9840013+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't.",
+      "timestamp": "2026-03-26T14:16:03.5769340+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. We could try a high-potency topical steroid cream for 7 days, one fingertip unit once daily, and then we’ll focus on a long-term moisturiser routine. Does that sound alright?",
+      "timestamp": "2026-03-26T14:16:04.4099588+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, I’m glad that works for you. We’d schedule a follow-up in about 1 to 2 weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-03-26T14:16:19.1582852+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, that's fine.",
+      "timestamp": "2026-03-26T14:16:19.1998383+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That's alright. Take your time, I'm here to help. If you think of anything, just let me know.",
+      "timestamp": "2026-03-26T14:16:33.6318354+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Um...",
+      "timestamp": "2026-03-26T14:16:34.9929785+00:00"
+    },
+    {
+      "role": "user",
+      "content": "to heal completely",
+      "timestamp": "2026-03-26T14:16:37.3806646+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "It’s normal to want everything to heal completely. With consistent care, improvement is very possible—let’s keep an eye on it. How are you feeling about that?",
+      "timestamp": "2026-03-26T14:16:39.3213578+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-03-26T14:16:52.6439828+00:00"
+    },
+    {
+      "role": "user",
+      "content": "OK.",
+      "timestamp": "2026-03-26T14:16:54.8366932+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Nope",
+      "timestamp": "2026-03-26T14:17:00.6035014+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "All right. I wish you all the best with the treatment. Goodbye.",
+      "timestamp": "2026-03-26T14:17:01.3913524+00:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

@@ -1,0 +1,164 @@
+{
+  "participant_id": "105",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-04-27T15:43:57.658922",
+  "session_end": "2026-04-27T15:52:46.896960",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-27T15:49:35.6761802+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good thanks, how are you?",
+      "timestamp": "2026-04-27T15:49:43.9354070+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Noted. The medical history has been reviewed. Documented symptoms: severe dryness, scaling, intense itching for several months, daily disruption. Please present your hands for examination.",
+      "timestamp": "2026-04-27T15:49:44.1127255+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress... The examination is required for accurate diagnosis. Please present your hands when ready.",
+      "timestamp": "2026-04-27T15:49:58.8455573+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The scan is complete. Additional information is required. \n\nFirst, how long have you had the symptoms?",
+      "timestamp": "2026-04-27T15:50:08.7440124+01:00"
+    },
+    {
+      "role": "user",
+      "content": "for a while.",
+      "timestamp": "2026-04-27T15:50:19.5476011+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. Next, could you describe the severity of the itching on a scale from 1 to 10?",
+      "timestamp": "2026-04-27T15:50:20.0710198+01:00"
+    },
+    {
+      "role": "user",
+      "content": "7.",
+      "timestamp": "2026-04-27T15:50:29.9089973+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. Next question: have you noticed any cracking or bleeding of the skin?",
+      "timestamp": "2026-04-27T15:50:30.4204651+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. Next, do you have any history of allergies or known triggers?",
+      "timestamp": "2026-04-27T15:50:40.5330100+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I have.",
+      "timestamp": "2026-04-27T15:50:40.8902124+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No",
+      "timestamp": "2026-04-27T15:50:49.0725640+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. That has been acknowledged. Next, has there been any exposure to soaps or detergents that made it worse?",
+      "timestamp": "2026-04-27T15:50:49.5244784+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um...",
+      "timestamp": "2026-04-27T15:51:00.9613930+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't think so.",
+      "timestamp": "2026-04-27T15:51:03.1307473+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been noted. The scan and symptom history have been reviewed: several conditions were considered, including contact dermatitis and psoriasis—these have been ruled out.\n\nThe confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response. The AI analysis relied on colour, texture, and pattern matching. \n\nIs the diagnosis understood?",
+      "timestamp": "2026-04-27T15:51:05.4630792+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-27T15:51:28.2685482+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any allergies that we should be aware of?",
+      "timestamp": "2026-04-27T15:51:28.5856973+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No",
+      "timestamp": "2026-04-27T15:51:35.3545104+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The primary treatment plan is as follows: (1) a high-potency topical steroid cream, for 7 days, one fingertip unit once daily; (2) the short-term goal is to reduce inflammation; (3) the long-term plan is a daily moisturiser routine to prevent recurrence, according to the treatment prediction database.\n\nAlternative treatment options are available should you wish to discuss them. Do you have any questions about the treatment?",
+      "timestamp": "2026-04-27T15:51:38.1868795+01:00"
+    },
+    {
+      "role": "user",
+      "content": "How long is it for?",
+      "timestamp": "2026-04-27T15:52:05.2336447+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The primary treatment is for 7 days.",
+      "timestamp": "2026-04-27T15:52:05.6795817+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anything else you'd like to ask before we proceed?",
+      "timestamp": "2026-04-27T15:52:13.7822068+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Thanks.",
+      "timestamp": "2026-04-27T15:52:14.0960857+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No",
+      "timestamp": "2026-04-27T15:52:20.3008726+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Do you consent to the treatment plan as outlined? If yes, we’ll schedule a follow-up in 1 to 2 weeks.",
+      "timestamp": "2026-04-27T15:52:20.7131671+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-27T15:52:31.2603559+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The plan is confirmed. We’ll schedule a follow-up in 1 to 2 weeks.\n\nAre there any other questions before concluding?",
+      "timestamp": "2026-04-27T15:52:31.9852254+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Wishing you well. Goodbye.",
+      "timestamp": "2026-04-27T15:52:42.3656953+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-27T15:52:42.4381227+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

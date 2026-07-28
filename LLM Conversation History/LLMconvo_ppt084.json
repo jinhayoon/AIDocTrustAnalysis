@@ -1,0 +1,199 @@
+{
+  "participant_id": "084",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-04-23T12:40:08.031657",
+  "session_end": "2026-04-23T12:50:39.575650",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-23T12:45:48.3236411+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good.",
+      "timestamp": "2026-04-23T12:45:56.0020030+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, your medical history has been reviewed. The documented symptoms include severe dryness, scaling, intense itching for several months, and daily disruption. Please present your hands for examination.",
+      "timestamp": "2026-04-23T12:45:57.0225290+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-23T12:46:13.2235722+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required. First question: have you noticed any specific triggers that make the symptoms worse?",
+      "timestamp": "2026-04-23T12:46:19.4895357+01:00"
+    },
+    {
+      "role": "user",
+      "content": "When I go to work I have to do lots of washing up because I'm a pot wash so that makes my hands even more dry.",
+      "timestamp": "2026-04-23T12:46:42.1373357+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. Next question: do you currently use any moisturisers or creams on your hands?",
+      "timestamp": "2026-04-23T12:46:42.4275624+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, yeah, but sometimes I forget.",
+      "timestamp": "2026-04-23T12:46:55.4344029+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. Next question: how long does the hand dryness persist each day?",
+      "timestamp": "2026-04-23T12:46:55.9782798+01:00"
+    },
+    {
+      "role": "user",
+      "content": "It's particularly bad when I get home from work and when I'm asleep, but it's there all the time.",
+      "timestamp": "2026-04-23T12:47:12.6370983+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been noted. Next question: do you experience any cracking or bleeding of the skin?",
+      "timestamp": "2026-04-23T12:47:13.2621226+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, there's quite a lot of bleeding on my hands, but they don't look very cracked.",
+      "timestamp": "2026-04-23T12:47:26.8855348+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. That has been recorded. Next question: do you have any swelling or redness?",
+      "timestamp": "2026-04-23T12:47:27.5419534+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. The scan is complete. Additional information is required. Next: do you have any known allergies?",
+      "timestamp": "2026-04-23T12:47:48.6938313+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, they're very swollen. They look like massive bumps on the top of my hands and What was the other question? Bleeding.",
+      "timestamp": "2026-04-23T12:47:50.2888438+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-23T12:47:59.1421391+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Noted. Based on the scan and symptom history, several conditions were considered, including contact dermatitis and psoriasis, which have been ruled out. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response. The diagnosis is based on colour, texture, and pattern matching. Is the diagnosis understood?",
+      "timestamp": "2026-04-23T12:48:01.6966981+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah",
+      "timestamp": "2026-04-23T12:48:23.8344937+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Based on the scan and symptom history, several conditions were considered, including contact dermatitis and psoriasis, which have been ruled out. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response. The AI analysis involved color, texture, and pattern matching. Is the diagnosis understood?",
+      "timestamp": "2026-04-23T12:48:25.9837966+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Do you have any allergies I should be aware of?",
+      "timestamp": "2026-04-23T12:48:49.5987109+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-23T12:48:49.9289558+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-23T12:48:56.6516887+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The primary treatment plan is as follows: (1) a high-potency topical steroid cream for 7 days, one fingertip unit once daily, (2) short-term goal: reduce inflammation, (3) long-term: establish a daily moisturiser routine to prevent recurrence. This is based on the treatment prediction database. Alternative treatment options are available should you wish to discuss them. Do you have any questions about the treatment?",
+      "timestamp": "2026-04-23T12:48:59.5736107+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um...",
+      "timestamp": "2026-04-23T12:49:27.4505837+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "If you have any specific concerns or would like me to clarify the treatment further, please let me know. Are there any questions about what I’ve outlined?",
+      "timestamp": "2026-04-23T12:49:29.3971241+01:00"
+    },
+    {
+      "role": "user",
+      "content": "How often do I have to apply the cream a day?",
+      "timestamp": "2026-04-23T12:49:36.2753358+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You should apply the cream once daily. That is the recommended frequency for the seven-day period.",
+      "timestamp": "2026-04-23T12:49:37.2809685+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Should I do it before I go to bed?",
+      "timestamp": "2026-04-23T12:49:47.4133052+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, applying it before bed is advisable, as this allows it to work overnight effectively.",
+      "timestamp": "2026-04-23T12:49:48.3695830+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you",
+      "timestamp": "2026-04-23T12:49:57.5464193+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Do you have any questions about the treatment?",
+      "timestamp": "2026-04-23T12:49:58.5304887+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, no.",
+      "timestamp": "2026-04-23T12:50:08.2971437+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Do you consent to proceed with this treatment plan? Once confirmed, we will schedule a follow-up in one to two weeks.",
+      "timestamp": "2026-04-23T12:50:09.3312420+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-23T12:50:21.4768166+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The plan is confirmed. We’ll schedule a follow-up in one to two weeks. Are there any other questions before we conclude?",
+      "timestamp": "2026-04-23T12:50:22.5926263+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "All right. I wish you well. Goodbye.",
+      "timestamp": "2026-04-23T12:50:34.3385359+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-23T12:50:34.4802142+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

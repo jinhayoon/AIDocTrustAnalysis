@@ -1,0 +1,161 @@
+{
+  "participant_id": "137",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-04-29T15:16:23.104343",
+  "session_end": "2026-04-29T15:25:38.270892",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-29T15:21:51.4203832+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay. Thank you. ",
+      "timestamp": "2026-04-29T15:21:53.2433747+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. I've reviewed your history—severe dryness, scaling, intense itching for several months, and daily disruption. Could you please hold out your hands for examination?",
+      "timestamp": "2026-04-29T15:21:54.0076489+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-29T15:22:09.0313453+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Does the redness seem worse at certain times of day, for example mornings or evenings?",
+      "timestamp": "2026-04-29T15:22:14.6398516+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Well, I guess mostly during evenings before I go to bed.",
+      "timestamp": "2026-04-29T15:22:29.9113707+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood, thank you for sharing that. Does the itching feel better or worse after applying moisturiser?",
+      "timestamp": "2026-04-29T15:22:29.5473944+01:00"
+    },
+
+    {
+      "role": "user",
+      "content": "It feels a bit better until the moisturizer is absorbed.",
+      "timestamp": "2026-04-29T15:22:42.3600388+01:00"
+    },
+    {
+      "role": "user",
+      "content": "And it starts stitching again.",
+      "timestamp": "2026-04-29T15:22:46.4106586+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for that. Do you notice any areas that are more cracked or bleeding?",
+      "timestamp": "2026-04-29T15:22:42.6724753+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Well, as long as they pay attention to it, I guess.",
+      "timestamp": "2026-04-29T15:22:59.8331583+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for that. How would you describe the level of discomfort—mild, moderate, or severe?",
+      "timestamp": "2026-04-29T15:23:00.1497883+01:00"
+    },
+    {
+      "role": "user",
+      "content": "It's usually moderate, but you know, when it's so constant, it's...",
+      "timestamp": "2026-04-29T15:23:14.6394736+01:00"
+    },
+    {
+      "role": "user",
+      "content": "It's kind of annoying.",
+      "timestamp": "2026-04-29T15:23:19.5673781+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. Based on the scan and symptom history, I considered other conditions like contact dermatitis and psoriasis as possible differentials, but they’ve been ruled out. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response. The analysis focused on colour, texture, and pattern matching. How are you feeling about this?",
+      "timestamp": "2026-04-29T15:23:21.1442350+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, I never thought that I would have eczema, so what do you think caused this?",
+      "timestamp": "2026-04-29T15:23:51.0999943+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s understandable. Often, eczema can be triggered by factors like exposure to irritants, frequent handwashing, or even allergens. Let’s explore your potential triggers more closely. Now, could I ask—do you have any allergies?",
+      "timestamp": "2026-04-29T15:23:52.2417811+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't",
+      "timestamp": "2026-04-29T15:24:08.3209210+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. In that case, the primary treatment plan would be: first, a high-potency topical steroid cream for 7 days, applied once daily using a fingertip unit; second, the short-term goal is to reduce inflammation; third, long-term, to establish a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you’d like me to explain further?",
+      "timestamp": "2026-04-29T15:24:10.9688573+01:00"
+    },
+    {
+      "role": "user",
+      "content": "what would be those alternative methods.",
+      "timestamp": "2026-04-29T15:24:39.9013388+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly. Some alternative methods could include calcineurin inhibitors, wet wrap therapy, light therapy, antihistamines, or intensive moisturising. Does that help?",
+      "timestamp": "2026-04-29T15:24:40.7627102+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes",
+      "timestamp": "2026-04-29T15:24:54.5115768+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great. Now, before we proceed, could you let me know if you consent to the plan we've discussed? That way we can confirm and set up a follow-up.",
+      "timestamp": "2026-04-29T15:24:54.9557552+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I consent",
+      "timestamp": "2026-04-29T15:25:06.8369971+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for confirming. We'll go ahead with the plan and schedule a follow-up in 1 to 2 weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-04-29T15:25:07.2710237+01:00"
+    },
+    {
+      "role": "user",
+      "content": "um",
+      "timestamp": "2026-04-29T15:25:20.1205201+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course, take your time. We can go over any other concerns if you'd like. Before we finish, is there anything else you'd like to discuss?",
+      "timestamp": "2026-04-29T15:25:20.3723789+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I guess not. That's all. Thank you.",
+      "timestamp": "2026-04-29T15:25:33.5464282+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. I'm glad we could go through that. Goodbye, and take care.",
+      "timestamp": "2026-04-29T15:25:32.4117436+01:00"
+    }
+    
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

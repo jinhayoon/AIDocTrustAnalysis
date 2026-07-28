@@ -1,0 +1,139 @@
+{
+  "participant_id": "143",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-04-30T13:44:51.171809",
+  "session_end": "2026-04-30T13:54:28.624056",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-30T13:50:50.4983250+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm doing fine, thanks.",
+      "timestamp": "2026-04-30T13:50:58.1026501+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad to hear that. I’ve reviewed your history, noting severe dryness, scaling, and intense itching for several months, and that it disrupts your day. Please hold out your hands for examination.",
+      "timestamp": "2026-04-30T13:50:58.8584254+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-30T13:51:11.4411699+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Now, could you tell me how long the itching tends to last each day?",
+      "timestamp": "2026-04-30T13:51:17.1593759+01:00"
+    },
+    {
+      "role": "user",
+      "content": "It's basically the whole day. It disrupts my sleep.",
+      "timestamp": "2026-04-30T13:51:30.7202454+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. That sounds quite challenging. Could you describe if the dryness feels worse in certain areas of your hands?",
+      "timestamp": "2026-04-30T13:51:31.1116659+01:00"
+    },
+    {
+      "role": "user",
+      "content": "It's basically where you see the red rashes, so it's almost all over my hands, my hands and my fingers.",
+      "timestamp": "2026-04-30T13:51:54.4770624+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, I understand. Let’s move on. Are the affected areas itchy more at night or during the day?",
+      "timestamp": "2026-04-30T13:51:54.9181066+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. How about any noticeable cracks or bleeding on the skin?",
+      "timestamp": "2026-04-30T13:52:07.9024192+01:00"
+    },
+    {
+      "role": "user",
+      "content": "It's more or less even.",
+      "timestamp": "2026-04-30T13:52:08.1437053+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, as you can see, I, well, the, on the, on the affected areas occasionally bleeds. It comes and goes, although all of the areas are cracking.",
+      "timestamp": "2026-04-30T13:52:32.3093295+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. Based on the scan and your symptom history, I’ve considered some different possibilities—contact dermatitis and psoriasis are ruled out. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response, identified through colour, texture, and pattern matching. How are you feeling about this?",
+      "timestamp": "2026-04-30T13:52:33.1021109+01:00"
+    },
+    {
+      "role": "user",
+      "content": "As long as there's a treatment, I feel okay about it.",
+      "timestamp": "2026-04-30T13:53:03.1380725+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s good to hear. Could you let me know if you have any allergies?",
+      "timestamp": "2026-04-30T13:53:04.9833143+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, no I don't",
+      "timestamp": "2026-04-30T13:53:10.9504912+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The primary treatment plan would be a high-potency topical steroid cream for 7 days, one fingertip unit once daily, with the short-term goal of reducing inflammation and the long-term goal of a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-04-30T13:53:13.1857875+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Are there any side effects that will come from at least the first cream topical treatment?",
+      "timestamp": "2026-04-30T13:53:44.1385971+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Some side effects can include skin thinning, spread of the rash, or local irritation. If any of these occur, stop using it and report it.",
+      "timestamp": "2026-04-30T13:53:45.0965021+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay. Good to know.",
+      "timestamp": "2026-04-30T13:53:59.6006658+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course. Do you feel comfortable proceeding with the treatment plan as discussed?",
+      "timestamp": "2026-04-30T13:53:59.9954454+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Sounds good.",
+      "timestamp": "2026-04-30T13:54:03.4905975+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Excellent. I'm glad you're comfortable with the plan. I'll confirm that we have a high-potency topical steroid for 7 days, and we'll schedule a follow-up in 1 to 2 weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-04-30T13:54:04.9381613+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That's great. I’m glad we’ve covered everything. Take care, and goodbye.",
+      "timestamp": "2026-04-30T13:54:22.5931268+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, no, thank you very much.",
+      "timestamp": "2026-04-30T13:54:23.2132818+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

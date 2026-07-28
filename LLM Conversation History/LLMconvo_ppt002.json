@@ -1,0 +1,139 @@
+{
+  "participant_id": "002",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-03-24T12:11:40.847613",
+  "session_end": "2026-03-24T12:20:41.656436",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-03-24T12:17:19.6139733+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Oh, sorry.",
+      "timestamp": "2026-03-24T12:17:38.9331184+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "No problem at all. I’m glad you're here. I've reviewed your history—severe dryness, scaling, intense itching for several months, and daily disruption. Could you hold out your hands for examination, please?",
+      "timestamp": "2026-03-24T12:17:38.5088419+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-03-24T12:17:52.9742963+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for your patience. Let's begin: How long have the symptoms lasted?",
+      "timestamp": "2026-03-24T12:17:59.8300236+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That's absolutely fine. Please take your time. How long have the symptoms lasted?",
+      "timestamp": "2026-03-24T12:18:30.3447659+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Did I just... did I just say... okay.",
+      "timestamp": "2026-03-24T12:18:30.7764860+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. Now, is the itching constant or does it come and go?",
+      "timestamp": "2026-03-24T12:18:38.2663829+00:00"
+    },
+    {
+      "role": "user",
+      "content": "two weeks.",
+      "timestamp": "2026-03-24T12:18:38.5793045+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see, thank you. Now, are there any known triggers that you’ve noticed?",
+      "timestamp": "2026-03-24T12:18:47.4308168+00:00"
+    },
+    {
+      "role": "user",
+      "content": "It comes and goes.",
+      "timestamp": "2026-03-24T12:18:47.4328090+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. Let’s try to keep that in mind. How is your sleep being affected by the itching?",
+      "timestamp": "2026-03-24T12:18:56.2448657+00:00"
+    },
+    {
+      "role": "user",
+      "content": "After washing my hands it's worse.",
+      "timestamp": "2026-03-24T12:18:56.5626570+00:00"
+    },
+    {
+      "role": "user",
+      "content": "It hasn't been too affected, but before I sleep it's extra itchy.",
+      "timestamp": "2026-03-24T12:19:08.7443194+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, thank you for explaining. Let’s use that information as we go forward. So, I’ve used AI analysis—looking at colour, texture, and pattern—and it looks like severe hand eczema. This means the skin barrier is damaged, letting moisture out and irritants in. How are you feeling about this?",
+      "timestamp": "2026-03-24T12:19:10.7209318+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Um...",
+      "timestamp": "2026-03-24T12:19:32.4116222+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That's entirely understandable. Let's take it step by step. Could you tell me if you have any allergies? This will help guide the treatment.",
+      "timestamp": "2026-03-24T12:19:32.5384321+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I didn't have any allergies.",
+      "timestamp": "2026-03-24T12:19:43.5332911+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s helpful to know. We could consider a high-potency topical steroid cream for about 7 days—one fingertip unit, once daily. We’d follow up with a moisturiser routine long-term. How does that sound to you?",
+      "timestamp": "2026-03-24T12:19:44.8971970+00:00"
+    },
+    {
+      "role": "user",
+      "content": "That sounds good, thank you.",
+      "timestamp": "2026-03-24T12:19:59.3916448+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. Let's confirm the plan: we'll use the steroid cream once daily for 7 days, and start a regular moisturiser routine after that. Let's plan a follow-up in 1 or 2 weeks. Does that sound alright?",
+      "timestamp": "2026-03-24T12:20:00.1780238+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes",
+      "timestamp": "2026-03-24T12:20:12.8559207+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Wonderful. So to recap: we’ll start with the steroid cream for 7 days, followed by a moisturiser routine. We'll check in after 1 to 2 weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-03-24T12:20:14.0397894+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-03-24T12:20:26.6589389+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "All right, let’s recap: we’ll start the high-potency steroid cream for 7 days, then begin a moisturiser routine. We’ll follow up in about 1 to 2 weeks. Take care, and I wish you all the best. Goodbye.",
+      "timestamp": "2026-03-24T12:20:28.2528290+00:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

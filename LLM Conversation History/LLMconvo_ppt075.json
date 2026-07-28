@@ -1,0 +1,139 @@
+{
+  "participant_id": "075",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-04-22T11:49:11.789448",
+  "session_end": "2026-04-22T11:58:05.595544",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-22T11:55:07.2674743+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Good, thank you.",
+      "timestamp": "2026-04-22T11:55:15.9460441+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Acknowledged. Your medical history has been reviewed. Documented symptoms include severe dryness, scaling, intense itching for several months, and daily disruption. Please present your hands for examination.",
+      "timestamp": "2026-04-22T11:55:16.3309326+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-22T11:55:31.7340680+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required.\n\nFirst, where exactly is the dryness most pronounced?",
+      "timestamp": "2026-04-22T11:55:37.1418931+01:00"
+    },
+    {
+      "role": "user",
+      "content": "at the top of my hands.",
+      "timestamp": "2026-04-22T11:55:50.1630774+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. Next, can you describe the intensity of the itching on a scale from one to ten?",
+      "timestamp": "2026-04-22T11:55:51.1121951+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Eight.",
+      "timestamp": "2026-04-22T11:56:01.0041082+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. What is the current frequency of the itching episodes?",
+      "timestamp": "2026-04-22T11:56:01.3755341+01:00"
+    },
+    {
+      "role": "user",
+      "content": "It disrupts my sleep so maybe more than 7 or 8 times a day.",
+      "timestamp": "2026-04-22T11:56:19.1264355+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. That has been noted. Now, do you experience any cracking or bleeding on the skin?",
+      "timestamp": "2026-04-22T11:56:19.1922777+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I do",
+      "timestamp": "2026-04-22T11:56:28.7577966+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see. That has been recorded. Next, have you used any creams or treatments previously?",
+      "timestamp": "2026-04-22T11:56:29.6728808+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I have.",
+      "timestamp": "2026-04-22T11:56:38.8049925+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That has been recorded. Now, based on the scan and symptom history, several conditions were considered—contact dermatitis and psoriasis were ruled out. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response. The AI analysis method involved colour, texture, and pattern matching. Is the diagnosis understood?",
+      "timestamp": "2026-04-22T11:56:41.0154867+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you allergic to any medications or substances?",
+      "timestamp": "2026-04-22T11:57:03.7525683+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-22T11:57:03.8026312+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-22T11:57:09.8352271+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The primary treatment plan is as follows: one, a high-potency topical steroid cream, to be applied once daily for seven days, using one fingertip unit; two, the short-term goal is to reduce inflammation; three, the long-term goal is to establish a daily moisturiser routine to prevent recurrence, referencing the treatment prediction database. Alternative treatment options are available should you wish to discuss them. \n\nDo you have any questions about the treatment?",
+      "timestamp": "2026-04-22T11:57:13.0427546+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, thank you.",
+      "timestamp": "2026-04-22T11:57:39.5769137+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Do you consent to proceed with the plan as outlined, and shall we schedule a follow-up in one to two weeks?",
+      "timestamp": "2026-04-22T11:57:40.3012407+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I consent.",
+      "timestamp": "2026-04-22T11:57:50.9357474+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The plan is confirmed, and I will schedule a follow-up in one to two weeks.\n\nAre there any other questions before concluding?",
+      "timestamp": "2026-04-22T11:57:51.1973916+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No, thank you.",
+      "timestamp": "2026-04-22T11:58:01.2837415+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Very well. Goodbye.",
+      "timestamp": "2026-04-22T11:58:01.9498888+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

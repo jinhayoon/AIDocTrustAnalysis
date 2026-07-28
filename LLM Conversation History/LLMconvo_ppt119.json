@@ -1,0 +1,229 @@
+{
+  "participant_id": "119",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-04-28T12:45:01.770888",
+  "session_end": "2026-04-28T12:56:50.165264",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-28T12:51:19.9386039+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm good, thank you. How are you?",
+      "timestamp": "2026-04-28T12:51:27.4357079+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm really glad to hear that you're doing well. I've reviewed your history—severe dryness, scaling, intense itching for several months, and daily disruption. Could you hold out your hands for examination, please?",
+      "timestamp": "2026-04-28T12:51:28.3895673+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-28T12:51:40.4974109+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for your patience. First, how long have you been experiencing the itching?",
+      "timestamp": "2026-04-28T12:51:45.9031081+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, I appreciate that. And would you say the dryness is getting worse over that time?",
+      "timestamp": "2026-04-28T12:51:58.1314022+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um... about... three weeks?",
+      "timestamp": "2026-04-28T12:51:58.5653261+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Next, have you noticed any cracking or bleeding on your hands?",
+      "timestamp": "2026-04-28T12:52:08.3850186+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, yes, it's been getting worse.",
+      "timestamp": "2026-04-28T12:52:08.7892829+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. I appreciate your response. Now, does the itching get worse at certain times of day?",
+      "timestamp": "2026-04-28T12:52:18.3358488+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-28T12:52:17.8734565+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, yes, I'm pretty sure, especially when I'm trying to sleep.",
+      "timestamp": "2026-04-28T12:52:32.1858417+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. Let's proceed: do you find that your hands become irritated after contact with water or soap?",
+      "timestamp": "2026-04-28T12:52:32.6398368+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-28T12:52:43.8026086+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, that’s helpful to know. Now, have you used any new creams or products on your hands recently?",
+      "timestamp": "2026-04-28T12:52:44.2247191+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-28T12:52:52.5609547+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, thank you for confirming that. Based on the scan and symptom history, I considered contact dermatitis and psoriasis as ruled-out differentials. The confirmed diagnosis is severe hand eczema, caused by a damaged skin barrier and an inflammatory response, and I used colour, texture, and pattern matching. How are you feeling about this?",
+      "timestamp": "2026-04-28T12:52:55.0057918+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, yeah, that sounds good.",
+      "timestamp": "2026-04-28T12:53:18.7157306+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. Just to check, do you have any allergies that we should consider?",
+      "timestamp": "2026-04-28T12:53:18.4561913+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No",
+      "timestamp": "2026-04-28T12:53:26.4304831+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Wonderful. The primary treatment plan would involve a high-potency topical steroid cream for seven days, one fingertip unit once daily. The short-term goal is to reduce inflammation, and the long-term goal is a daily moisturiser routine for prevention. There are also alternative treatment options available if you'd like to explore those. Is there anything you'd like me to explain further?",
+      "timestamp": "2026-04-28T12:53:28.6132692+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, could you explain that a bit slower please?",
+      "timestamp": "2026-04-28T12:53:51.8248601+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course. The primary treatment plan is a high-potency topical steroid cream, to be applied for seven days, using one fingertip unit once daily. The short-term goal is to reduce inflammation, and the long-term goal is to set up a daily moisturiser routine for prevention. There are also alternative treatment options if you'd like to discuss those.",
+      "timestamp": "2026-04-28T12:53:54.0868901+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I've tried using a bit of moisturizer on already and it hasn't done anything. Is this a special form of moisturizer?",
+      "timestamp": "2026-04-28T12:54:23.8895769+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "It's not about a special form, but the key is to use a thick, emollient moisturiser regularly after the inflammation reduces. We can look at specific options once the inflammation is under control. Would you like to hear more about that?",
+      "timestamp": "2026-04-28T12:54:25.0207967+01:00"
+    },
+    {
+      "role": "user",
+      "content": "okay",
+      "timestamp": "2026-04-28T12:54:40.3186766+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. We could consider products with ceramides or urea, which help repair the skin barrier. We can adjust based on how your skin responds. Is there anything else you'd like to explore?",
+      "timestamp": "2026-04-28T12:54:41.3807447+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, are there any alternative options?",
+      "timestamp": "2026-04-28T12:54:58.3639273+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, there are alternative options available. These could include calcineurin inhibitors, wet wrap therapy, light therapy, antihistamines, or intensive moisturising. Would you like more details on any of these?",
+      "timestamp": "2026-04-28T12:54:59.6058317+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, do you think any of these would be preferred over the original treatment plan you suggested?",
+      "timestamp": "2026-04-28T12:55:19.6612754+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That depends on how your skin responds, but the original plan is usually the first choice. We can always adjust if needed after we see how things progress.",
+      "timestamp": "2026-04-28T12:55:20.3311496+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Wonderful. Do I have your consent to proceed with the primary treatment plan?",
+      "timestamp": "2026-04-28T12:55:33.6063780+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Okay, that sounds good",
+      "timestamp": "2026-04-28T12:55:34.8871151+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-28T12:55:41.2226047+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Excellent. I'll confirm the plan: high-potency topical steroid cream for seven days, one fingertip unit daily, short-term goal to reduce inflammation, long-term goal a daily moisturiser routine. I'll schedule a follow-up in one to two weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-04-28T12:55:43.3311487+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Um, what was the fingertip thing you mentioned?",
+      "timestamp": "2026-04-28T12:56:05.5420031+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Of course. The fingertip unit is the amount of cream squeezed from the fingertip to the first crease, covering an area roughly the size of two adult palms. It’s a standard measure. Does that help?",
+      "timestamp": "2026-04-28T12:56:06.0559686+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes",
+      "timestamp": "2026-04-28T12:56:20.4897153+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, I'm glad that’s clear. Let me know if you have any more questions. Otherwise, we’ll move forward with the plan.",
+      "timestamp": "2026-04-28T12:56:20.6152298+01:00"
+    },
+    {
+      "role": "user",
+      "content": "I'm not having any further questions.",
+      "timestamp": "2026-04-28T12:56:31.5050403+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s absolutely fine. We’ll confirm the plan and schedule a follow-up in one to two weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-04-28T12:56:32.5932767+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No.",
+      "timestamp": "2026-04-28T12:56:43.0260351+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, thank you for letting me know. I wish you all the best, and goodbye.",
+      "timestamp": "2026-04-28T12:56:43.5367820+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

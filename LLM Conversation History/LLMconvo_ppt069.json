@@ -1,0 +1,104 @@
+{
+  "participant_id": "069",
+  "condition": {
+    "code": "2",
+    "name": "LLM_Professional",
+    "description": "Clinical/Less Patient-Centered Communication"
+  },
+  "session_start": "2026-04-22T09:16:40.415749",
+  "session_end": "2026-04-22T09:24:30.162844",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-04-22T09:22:17.2063311+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I'm good, but my hands are very red and itchy and dry.",
+      "timestamp": "2026-04-22T09:22:29.9156596+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Noted. The medical history has been reviewed. Documented symptoms are severe dryness, scaling, intense itching for several months, and daily disruption. Please present your hands for examination.",
+      "timestamp": "2026-04-22T09:22:29.9613287+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-04-22T09:22:44.7349088+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "The scan is complete. Additional information is required.\n\nFirstly, do you have any known allergies to skincare products or medications?",
+      "timestamp": "2026-04-22T09:22:50.4249970+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Not that I know of.",
+      "timestamp": "2026-04-22T09:23:01.4847500+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. That has been recorded.",
+      "timestamp": "2026-04-22T09:23:01.5762123+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The confirmed diagnosis is severe hand eczema, due to a damaged skin barrier and inflammatory response. Contact dermatitis and psoriasis have been ruled out. The AI analysis relied on colour, texture, and pattern matching. Is the diagnosis understood?",
+      "timestamp": "2026-04-22T09:23:11.3560986+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-22T09:23:29.1348912+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Please confirm, do you have any allergies?",
+      "timestamp": "2026-04-22T09:23:29.7027875+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Not that I know of.",
+      "timestamp": "2026-04-22T09:23:37.2758726+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. The primary treatment plan is as follows: (1) a high-potency topical steroid cream, for 7 days, using one fingertip unit once daily; (2) the short-term goal is to reduce inflammation; (3) the long-term goal is a daily moisturiser routine to prevent recurrence. Alternative treatment options are available should you wish to discuss them.\n\nDo you have any questions about the treatment?",
+      "timestamp": "2026-04-22T09:23:39.6765160+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No",
+      "timestamp": "2026-04-22T09:24:04.2047147+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Do you consent to proceed with the plan as discussed? Once confirmed, we’ll schedule a follow-up in 1 to 2 weeks.",
+      "timestamp": "2026-04-22T09:24:04.4753002+01:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes.",
+      "timestamp": "2026-04-22T09:24:14.5177092+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. The plan is confirmed. I will schedule a follow-up in 1 to 2 weeks. Are there any other questions before concluding?",
+      "timestamp": "2026-04-22T09:24:14.9757489+01:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, goodbye, and I wish you well.",
+      "timestamp": "2026-04-22T09:24:25.4297391+01:00"
+    },
+    {
+      "role": "user",
+      "content": "No",
+      "timestamp": "2026-04-22T09:24:26.3864769+01:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}

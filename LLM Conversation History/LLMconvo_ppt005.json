@@ -1,0 +1,199 @@
+{
+  "participant_id": "005",
+  "condition": {
+    "code": "1",
+    "name": "LLM_Empathetic",
+    "description": "Patient-Centered Communication"
+  },
+  "session_start": "2026-03-24T14:15:59.026717",
+  "session_end": "2026-03-24T14:25:57.970670",
+  "transcript": [
+    {
+      "role": "user",
+      "content": "Hi.",
+      "timestamp": "2026-03-24T14:22:06.0490022+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, I am your AI Doctor. How are you today?",
+      "timestamp": "2026-03-24T14:22:06.3371099+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I’m glad to hear you’re otherwise well. I’ve reviewed your history: severe dryness, scaling, intense itching for months, daily disruption. Could you hold out your hands for examination, please?",
+      "timestamp": "2026-03-24T14:22:17.3705867+00:00"
+    },
+    {
+      "role": "user",
+      "content": "My hands are itchy, but besides that I'm good.",
+      "timestamp": "2026-03-24T14:22:17.8565012+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Scanning in progress...",
+      "timestamp": "2026-03-24T14:22:29.6004568+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for that. How long have the symptoms lasted?",
+      "timestamp": "2026-03-24T14:22:36.9821418+00:00"
+    },
+    {
+      "role": "user",
+      "content": "It's been a few months, I think.",
+      "timestamp": "2026-03-24T14:22:44.5795551+00:00"
+    },
+    {
+      "role": "user",
+      "content": "She would",
+      "timestamp": "2026-03-24T14:22:46.2716508+00:00"
+    },
+    {
+      "role": "user",
+      "content": "As of recently, it's been a lot worse.",
+      "timestamp": "2026-03-24T14:22:49.0934330+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "I see, so the itching has become much worse recently. Thank you for sharing that. Is the itching constant or does it come and go?",
+      "timestamp": "2026-03-24T14:22:49.5584683+00:00"
+    },
+    {
+      "role": "user",
+      "content": "It's constant.",
+      "timestamp": "2026-03-24T14:22:58.4996189+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for letting me know. Are there any known triggers that make it worse?",
+      "timestamp": "2026-03-24T14:22:58.9873843+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Not that I know that I'm aware of.",
+      "timestamp": "2026-03-24T14:23:07.1059047+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That's helpful to know. How is your sleep being affected by the symptoms?",
+      "timestamp": "2026-03-24T14:23:06.4327923+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Uh, I'm restless at night, and it itches at night, so it's difficult to sleep.",
+      "timestamp": "2026-03-24T14:23:17.3978960+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that. That sounds really challenging. Let’s try to address that. Now, I’ve used AI analysis of the colour, texture, and pattern matching. It looks like severe hand eczema. This means the skin barrier is damaged, making it dry and irritated. How are you feeling about this?",
+      "timestamp": "2026-03-24T14:23:18.8897147+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I mean if that's what it is, is there a cure for it to make it better so I can handle daily life?",
+      "timestamp": "2026-03-24T14:23:42.6092533+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "We can definitely work on improving it. Could you tell me if you have any allergies to creams or medications? That will help us choose the right treatment.",
+      "timestamp": "2026-03-24T14:23:43.3265936+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Oh, I have a slight gluten allergy.",
+      "timestamp": "2026-03-24T14:23:54.5083479+00:00"
+    },
+    {
+      "role": "user",
+      "content": "But besides that nothing else",
+      "timestamp": "2026-03-24T14:23:56.0510729+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Understood, thank you for letting me know. We could consider a high-potency topical steroid cream for 7 days—just one fingertip unit once daily. We’ll also plan a long-term moisturiser routine. How does that sound to you?",
+      "timestamp": "2026-03-24T14:23:57.5413490+00:00"
+    },
+    {
+      "role": "user",
+      "content": "That sounds good.",
+      "timestamp": "2026-03-24T14:24:11.5597110+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, I’m glad that sounds suitable. We’ll go ahead with that plan, and let’s schedule a follow-up in about one to two weeks. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-03-24T14:24:12.8214514+00:00"
+    },
+    {
+      "role": "user",
+      "content": "If the steroid cream is not as effective as you hope it to be, then what is the next course of action that we could follow?",
+      "timestamp": "2026-03-24T14:24:30.0506430+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That's a very good question. If the cream isn’t as effective, we could consider alternatives like calcineurin inhibitors, light therapy, or wet wrap therapy. We can discuss those further if needed. Does that sound like a plan?",
+      "timestamp": "2026-03-24T14:24:31.4870519+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it does. Thank you",
+      "timestamp": "2026-03-24T14:24:45.6692438+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. We’ll review everything at the follow-up. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-03-24T14:24:47.3237125+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Is it possible for it to spread to the rest of my body or will it stay limited to my hands?",
+      "timestamp": "2026-03-24T14:25:00.4583682+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s a very good question. Hand eczema can sometimes spread if the skin barrier isn’t repaired. That’s why it’s important to treat it early. We’ll keep an eye on it.",
+      "timestamp": "2026-03-24T14:24:59.7322482+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm.",
+      "timestamp": "2026-03-24T14:25:08.8381994+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s a very good question. It’s possible for eczema to spread if the skin barrier is still damaged, so we’d want to keep an eye on any other areas. If anything spreads or worsens, an in-person review would be helpful. How does that sound?",
+      "timestamp": "2026-03-24T14:25:10.1375940+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Sounds good. Also another question is any dietary requirements. I need to follow things. I need to avoid",
+      "timestamp": "2026-03-24T14:25:28.4753219+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "At the moment, there’s no specific diet to follow for eczema, unless you notice certain foods trigger flare-ups. We can focus on skin care first, and we’ll adapt if needed. Does that help?",
+      "timestamp": "2026-03-24T14:25:29.8596098+00:00"
+    },
+    {
+      "role": "user",
+      "content": "Yes, thank you so much",
+      "timestamp": "2026-03-24T14:25:42.6123377+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. I'm glad it’s helpful. Before we finish, is there anything else on your mind?",
+      "timestamp": "2026-03-24T14:25:43.2901119+00:00"
+    },
+    {
+      "role": "user",
+      "content": "No, nothing else. Thank you.",
+      "timestamp": "2026-03-24T14:25:50.9334781+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. I’m glad we could go through everything. Take care, and goodbye.",
+      "timestamp": "2026-03-24T14:25:51.6077837+00:00"
+    }
+  ],
+  "treatment_accepted": false,
+  "consultation_summary": "Consultation ended manually by researcher."
+}
