@@ -1,0 +1,99 @@
+DROP TABLE IF EXISTS response_exclusions, item_responses, scale_items,
+                     utterances, sessions, participants, conditions CASCADE;
+
+-- -----------------------------------
+-- REFERENCE: experimental conditions
+-- -----------------------------------
+CREATE TABLE conditions (
+	condition_code 		SMALLINT PRIMARY KEY,
+	condition_name 		TEXT NOT NULL UNIQUE,
+	linguistic_style 	TEXT NOT NULL,
+	is_interactive 		BOOLEAN NOT NULL -- FALSE for the scripted Control
+);
+COMMENT ON COLUMN conditions.is_interactive IS
+	'Control received a pre-scripted monologue, so no transcript exists.'
+;
+
+
+-- -----------------------------------
+-- PARTICIPANTS 
+-- -----------------------------------
+CREATE TABLE participants (
+	participant_id 		INTEGER PRIMARY KEY,
+	condition_code 		SMALLINT NOT NULL REFERENCES conditions(condition_code),
+	gender_code		 	SMALLINT,
+	education_code 		SMALLINT,
+	ethnicity_code 		SMALLINT,
+	age 				SMALLINT CHECK (age BETWEEN 16 AND 100),
+	eczema_experience 	SMALLINT,
+	eczema_severity 	SMALLINT -- NULL by design, only asked if experience = 1
+);
+COMMENT ON COLUMN participants.eczema_severity IS
+	'Conditionally displayed question. NULL means "not asked"';
+
+-- exclusions live in their own table
+CREATE TABLE response_exclusions (
+	participant_id 	INTEGER PRIMARY KEY REFERENCES participants(participant_id),
+	reason 			TEXT NOT NULL,
+	excluded_on 	DATE NOT NULL DEFAULT CURRENT_DATE
+);
+
+
+-- -----------------------------------
+-- questionnaire
+-- -----------------------------------
+CREATE TABLE scale_items (
+	item_code 			TEXT PRIMARY KEY, -- e.g., 'TRUST_GP7'
+	scale_name 			TEXT NOT NULL, -- e.g., 'general_trust_gp'
+	item_position		SMALLINT NOT NULL,
+	is_reverse_scored 	BOOLEAN NOT NULL DEFAULT FALSE,
+	scale_points		SMALLINT NOT NULL, --7 for a 1-7 likert
+	aggregation			TEXT NOT NULL CHECK (aggregation IN ('mean', 'sum'))
+);
+CREATE INDEX idx_scale_items_scale ON scale_items(scale_name);
+
+
+-- -----------------------------------
+-- one row per participant per questionnaire items
+-- -----------------------------------
+CREATE TABLE item_responses (
+	participant_id 	INTEGER NOT NULL REFERENCES participants(participant_id),
+	item_code 		TEXT NOT NULL REFERENCES scale_items(item_code),
+	raw_value		NUMERIC, -- NULL = ppt skipped it
+	PRIMARY KEY (participant_id, item_code)
+);
+CREATE INDEX idx_item_responses_item ON item_responses(item_code);
+
+
+-- -----------------------------------
+-- one consultation session (LLM conditions only)
+-- -----------------------------------
+CREATE TABLE sessions (
+	session_id 		TEXT PRIMARY KEY,
+	participant_id 	INTEGER NOT NULL REFERENCES participants(participant_id),
+	condition_code 	SMALLINT NOT NULL REFERENCES conditions(condition_code),
+	session_start 	TIMESTAMP, -- naive local time from Flask
+	session_end		TIMESTAMP
+);
+
+
+-- -----------------------------------
+-- one row per spoken turn
+-- -----------------------------------
+CREATE TABLE utterances (
+	utterance_id 	BIGSERIAL PRIMARY KEY,
+	session_id 		TEXT NOT NULL REFERENCES sessions(session_id) ON DELETE CASCADE,
+	seq				INTEGER NOT NULL, -- position in the JSON array, as logged
+	speaker			TEXT NOT NULL CHECK (speaker IN ('assistant','user')),
+	content			TEXT NOT NULL,
+	spoken_at 		TIMESTAMPTZ NOT NULL,
+	UNIQUE (session_id, seq)
+);
+
+-- GIN index over a tsvector for fast full text matching on turn content
+CREATE INDEX idx_utt_fts ON utterances
+	USING GIN (to_Tsvector('english', content));
+
+
+
+
