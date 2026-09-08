@@ -1,2 +1,2 @@
 # AIDocTrustAnalysis
-Analysis of data from PhD Project 
+Analysis of data from PhD Project -- SQL & Python
