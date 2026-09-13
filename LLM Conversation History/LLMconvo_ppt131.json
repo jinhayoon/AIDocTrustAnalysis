@@ -139,13 +139,13 @@
       "role": "user",
       "content": "No, that was it. Thank you",
       "timestamp": "2026-04-29T10:22:01.0518247+01:00"
-    }
+    },
     {
       "role": "assistant",
       "content": "You're very welcome. I’m glad I could help. Goodbye, and I wish you well.",
       "timestamp": "2026-04-29T10:22:00.5854076+01:00"
-    },
-    
+    }
+
   ],
   "treatment_accepted": false,
   "consultation_summary": "Consultation ended manually by researcher."

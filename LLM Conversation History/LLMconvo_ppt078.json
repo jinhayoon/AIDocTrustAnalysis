@@ -128,13 +128,13 @@
       "role": "user",
       "content": "Yes.",
       "timestamp": "2026-04-22T13:26:30.3262642+01:00"
-    }
+    },
     {
       "role": "assistant",
       "content": "Thank you. The plan is confirmed. We will schedule a follow-up in 1–2 weeks. Goodbye.",
       "timestamp": "2026-04-22T13:26:30.0711660+01:00"
-    },
- 
+    }
+
   ],
   "treatment_accepted": false,
   "consultation_summary": "Consultation ended manually by researcher."
